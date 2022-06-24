@@ -1,4 +1,4 @@
-# Intern-ship
+# Internship
 FlipRobo Internship work
 Worksheet 1
 1. Machine Learning worksheet.
