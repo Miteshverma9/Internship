@@ -6,3 +6,4 @@ FlipRobo Internship work
 3. Statistic worksheet.
 - Assignment 1
 1. Web scraping worksheet.
+(Using BeautifulSoap)
