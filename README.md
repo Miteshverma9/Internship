@@ -9,3 +9,5 @@ FlipRobo Internship work
 (Using BeautifulSoap)
 2. Web scraping worksheet.
 (Using Selenium)
+3. Web Scraping Assignment 3 
+(Exception Handling)
