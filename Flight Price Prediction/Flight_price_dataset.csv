@@ -1,0 +1,1632 @@
+Unnamed: 0,Flight,Date,Duration,Source,Destination,Departure,Arrival,Stops,Meal,Price
+0,SpiceJet,29/09/2022,2h 30m,New Delhi,Bangalore,20:00,22:30,Non Stop,No Meal,7419
+1,SpiceJet,29/09/2022,2h 50m,New Delhi,Bangalore,6:05,8:55,Non Stop,No Meal,7419
+2,Air India,29/09/2022,2h 50m,New Delhi,Bangalore,21:15,0:05,Non Stop,Free Meal,7425
+3,Air Asia,29/09/2022,5h 30m,New Delhi,Bangalore,15:30,21:00,1 Stop,No Meal,7710
+4,Air Asia,29/09/2022,6h 15m,New Delhi,Bangalore,8:00,14:15,1 Stop,No Meal,7710
+5,Air Asia,29/09/2022,6h 30m,New Delhi,Bangalore,20:00,2:30,1 Stop,No Meal,7710
+6,Air Asia,29/09/2022,6h 55m,New Delhi,Bangalore,6:05,13:00,1 Stop,No Meal,7710
+7,Air Asia,29/09/2022,8h 00m,New Delhi,Bangalore,14:55,22:55,1 Stop,No Meal,7710
+8,SpiceJet,29/09/2022,7h 30m,New Delhi,Bangalore,9:20,16:50,1 Stop,No Meal,8214
+9,SpiceJet,29/09/2022,23h 45m,New Delhi,Bangalore,17:05,16:50,1 Stop,No Meal,8214
+10,Air Asia,29/09/2022,5h 45m,New Delhi,Bangalore,10:40,16:25,1 Stop,No Meal,8452
+11,IndiGo,29/09/2022,6h 25m,New Delhi,Bangalore,15:20,21:45,1 Stop,No Meal,8535
+12,IndiGo,29/09/2022,5h 00m,New Delhi,Bangalore,5:15,10:15,1 Stop,No Meal,8786
+13,SpiceJet,29/09/2022,10h 30m,New Delhi,Bangalore,12:05,22:35,1 Stop,No Meal,9228
+14,Vistara,29/09/2022,2h 40m,New Delhi,Bangalore,8:10,10:50,Non Stop,Free Meal,9418
+15,Vistara,29/09/2022,2h 45m,New Delhi,Bangalore,6:15,9:00,Non Stop,Free Meal,9418
+16,Vistara,29/09/2022,2h 45m,New Delhi,Bangalore,9:05,11:50,Non Stop,Free Meal,9418
+17,Vistara,29/09/2022,2h 45m,New Delhi,Bangalore,16:05,18:50,Non Stop,Free Meal,9418
+18,Go First,29/09/2022,4h 30m,New Delhi,Bangalore,19:40,0:10,1 Stop,No Meal,9418
+19,Go First,29/09/2022,11h 10m,New Delhi,Bangalore,10:40,21:50,1 Stop,No Meal,9418
+20,Go First,29/09/2022,13h 30m,New Delhi,Bangalore,10:40,0:10,1 Stop,No Meal,9418
+21,Air Asia,29/09/2022,2h 30m,New Delhi,Bangalore,8:10,10:40,Non Stop,No Meal,9419
+22,IndiGo,29/09/2022,2h 35m,New Delhi,Bangalore,13:00,15:35,Non Stop,No Meal,9419
+23,IndiGo,29/09/2022,2h 40m,New Delhi,Bangalore,8:20,11:00,Non Stop,No Meal,9419
+24,IndiGo,29/09/2022,2h 40m,New Delhi,Bangalore,9:15,11:55,Non Stop,No Meal,9419
+25,IndiGo,29/09/2022,2h 40m,New Delhi,Bangalore,17:15,19:55,Non Stop,No Meal,9419
+26,Go First,29/09/2022,2h 40m,New Delhi,Bangalore,20:45,23:25,Non Stop,No Meal,9419
+27,Go First,29/09/2022,2h 45m,New Delhi,Bangalore,5:50,8:35,Non Stop,No Meal,9419
+28,IndiGo,29/09/2022,2h 45m,New Delhi,Bangalore,18:30,21:15,Non Stop,No Meal,9419
+29,IndiGo,29/09/2022,2h 45m,New Delhi,Bangalore,21:30,0:15,Non Stop,No Meal,9419
+30,Air Asia,29/09/2022,2h 45m,New Delhi,Bangalore,21:50,0:35,Non Stop,No Meal,9419
+31,IndiGo,29/09/2022,2h 50m,New Delhi,Bangalore,2:25,5:15,Non Stop,No Meal,9419
+32,IndiGo,29/09/2022,2h 50m,New Delhi,Bangalore,3:50,6:40,Non Stop,No Meal,9419
+33,Air Asia,29/09/2022,2h 50m,New Delhi,Bangalore,9:35,12:25,Non Stop,No Meal,9419
+34,IndiGo,29/09/2022,2h 50m,New Delhi,Bangalore,20:10,23:00,Non Stop,No Meal,9419
+35,Air Asia,29/09/2022,2h 50m,New Delhi,Bangalore,21:00,23:50,Non Stop,No Meal,9419
+36,IndiGo,29/09/2022,2h 50m,New Delhi,Bangalore,22:55,1:45,Non Stop,No Meal,9419
+37,IndiGo,29/09/2022,2h 55m,New Delhi,Bangalore,6:55,9:50,Non Stop,No Meal,9419
+38,IndiGo,29/09/2022,2h 55m,New Delhi,Bangalore,15:20,18:15,Non Stop,No Meal,9419
+39,Air Asia,29/09/2022,2h 55m,New Delhi,Bangalore,18:45,21:40,Non Stop,No Meal,9419
+40,IndiGo,29/09/2022,4h 20m,New Delhi,Bangalore,8:30,12:50,1 Stop,No Meal,9419
+41,IndiGo,29/09/2022,5h 15m,New Delhi,Bangalore,6:50,12:05,1 Stop,No Meal,9419
+42,IndiGo,29/09/2022,5h 15m,New Delhi,Bangalore,7:55,13:10,1 Stop,No Meal,9419
+43,IndiGo,29/09/2022,5h 15m,New Delhi,Bangalore,15:15,20:30,1 Stop,No Meal,9419
+44,IndiGo,29/09/2022,5h 15m,New Delhi,Bangalore,21:20,2:35,1 Stop,No Meal,9419
+45,IndiGo,29/09/2022,5h 30m,New Delhi,Bangalore,7:20,12:50,1 Stop,No Meal,9419
+46,IndiGo,29/09/2022,5h 35m,New Delhi,Bangalore,18:05,23:40,1 Stop,No Meal,9419
+47,IndiGo,29/09/2022,5h 40m,New Delhi,Bangalore,15:00,20:40,1 Stop,No Meal,9419
+48,IndiGo,29/09/2022,6h 00m,New Delhi,Bangalore,17:55,23:55,1 Stop,No Meal,9419
+49,IndiGo,29/09/2022,6h 10m,New Delhi,Bangalore,6:00,12:10,1 Stop,No Meal,9419
+50,IndiGo,29/09/2022,6h 25m,New Delhi,Bangalore,1:50,8:15,1 Stop,No Meal,9419
+51,IndiGo,29/09/2022,6h 35m,New Delhi,Bangalore,15:00,21:35,1 Stop,No Meal,9419
+52,IndiGo,29/09/2022,6h 35m,New Delhi,Bangalore,23:30,6:05,1 Stop,No Meal,9419
+53,IndiGo,29/09/2022,7h 00m,New Delhi,Bangalore,8:30,15:30,1 Stop,No Meal,9419
+54,IndiGo,29/09/2022,7h 05m,New Delhi,Bangalore,13:35,20:40,1 Stop,No Meal,9419
+55,IndiGo,29/09/2022,7h 15m,New Delhi,Bangalore,13:25,20:40,1 Stop,No Meal,9419
+56,IndiGo,29/09/2022,7h 20m,New Delhi,Bangalore,2:00,9:20,1 Stop,No Meal,9419
+57,IndiGo,29/09/2022,7h 40m,New Delhi,Bangalore,1:50,9:30,1 Stop,No Meal,9419
+58,IndiGo,29/09/2022,7h 45m,New Delhi,Bangalore,8:45,16:30,1 Stop,No Meal,9419
+59,IndiGo,29/09/2022,7h 55m,New Delhi,Bangalore,12:45,20:40,1 Stop,No Meal,9419
+60,IndiGo,29/09/2022,8h 10m,New Delhi,Bangalore,13:25,21:35,1 Stop,No Meal,9419
+61,IndiGo,29/09/2022,8h 35m,New Delhi,Bangalore,11:55,20:30,1 Stop,No Meal,9419
+62,IndiGo,29/09/2022,8h 40m,New Delhi,Bangalore,15:00,23:40,1 Stop,No Meal,9419
+63,IndiGo,29/09/2022,8h 40m,New Delhi,Bangalore,17:55,2:35,1 Stop,No Meal,9419
+64,IndiGo,29/09/2022,8h 45m,New Delhi,Bangalore,21:20,6:05,1 Stop,No Meal,9419
+65,Air India,29/09/2022,2h 30m,New Delhi,Bangalore,8:00,10:30,Non Stop,Free Meal,9420
+66,Air India,29/09/2022,2h 45m,New Delhi,Bangalore,6:10,8:55,Non Stop,Free Meal,9420
+67,Air India,29/09/2022,2h 45m,New Delhi,Bangalore,9:45,12:30,Non Stop,Free Meal,9420
+68,Air India,29/09/2022,2h 45m,New Delhi,Bangalore,13:30,16:15,Non Stop,Free Meal,9420
+69,Air India,29/09/2022,3h 30m,New Delhi,Bangalore,16:45,20:15,Non Stop,Free Meal,9420
+70,SpiceJet,29/09/2022,11h 05m,New Delhi,Bangalore,10:40,21:45,1 Stop,No Meal,9716
+71,Vistara,29/09/2022,2h 50m,New Delhi,Bangalore,14:15,17:05,Non Stop,Free Meal,9945
+72,IndiGo,29/09/2022,8h 00m,New Delhi,Bangalore,9:55,17:55,1 Stop,No Meal,9960
+73,SpiceJet,29/09/2022,17h 05m,New Delhi,Bangalore,6:15,23:20,1 Stop,No Meal,9977
+74,Air Asia,29/09/2022,4h 50m,New Delhi,Bangalore,7:20,12:10,1 Stop,No Meal,9979
+75,Air Asia,29/09/2022,6h 25m,New Delhi,Bangalore,13:00,19:25,1 Stop,No Meal,9979
+76,IndiGo,29/09/2022,4h 30m,New Delhi,Bangalore,13:25,17:55,1 Stop,No Meal,10501
+77,Vistara,29/09/2022,2h 40m,New Delhi,Bangalore,20:40,23:20,Non Stop,Free Meal,10575
+78,Vistara,29/09/2022,2h 50m,New Delhi,Bangalore,19:50,22:40,Non Stop,Free Meal,10575
+79,Vistara,29/09/2022,6h 20m,New Delhi,Bangalore,14:10,20:30,1 Stop,Free Meal,10680
+80,Vistara,29/09/2022,14h 45m,New Delhi,Bangalore,17:45,8:30,1 Stop,Free Meal,10680
+81,Vistara,29/09/2022,15h 55m,New Delhi,Bangalore,5:55,21:50,1 Stop,Free Meal,10680
+82,Vistara,29/09/2022,18h 20m,New Delhi,Bangalore,14:10,8:30,1 Stop,Free Meal,10680
+83,SpiceJet,29/09/2022,23h 45m,New Delhi,Bangalore,14:50,14:35,1 Stop,No Meal,10837
+84,Vistara,29/09/2022,2h 50m,New Delhi,Bangalore,17:35,20:25,Non Stop,Free Meal,11205
+85,Vistara,29/09/2022,4h 45m,New Delhi,Bangalore,11:10,15:55,1 Stop,Free Meal,11310
+86,Vistara,29/09/2022,3h 50m,New Delhi,Bangalore,18:00,21:50,1 Stop,Free Meal,11342
+87,IndiGo,29/09/2022,5h 10m,New Delhi,Bangalore,12:45,17:55,1 Stop,No Meal,11582
+88,Vistara,29/09/2022,11h 40m,New Delhi,Bangalore,20:50,8:30,1 Stop,Free Meal,12423
+89,Vistara,29/09/2022,11h 50m,New Delhi,Bangalore,8:40,20:30,1 Stop,Free Meal,12423
+90,Vistara,29/09/2022,4h 45m,New Delhi,Bangalore,14:45,19:30,1 Stop,Free Meal,12463
+91,Vistara,29/09/2022,9h 05m,New Delhi,Bangalore,10:25,19:30,1 Stop,Free Meal,12463
+92,Vistara,29/09/2022,12h 10m,New Delhi,Bangalore,7:20,19:30,1 Stop,Free Meal,12463
+93,Vistara,29/09/2022,12h 10m,New Delhi,Bangalore,20:35,8:45,1 Stop,Free Meal,12463
+94,Vistara,29/09/2022,15h 10m,New Delhi,Bangalore,17:35,8:45,1 Stop,Free Meal,12463
+95,Air India,29/09/2022,6h 10m,New Delhi,Bangalore,14:30,20:40,2 Stop(s),Free Meal,12708
+96,Air India,29/09/2022,6h 40m,New Delhi,Bangalore,14:00,20:40,1 Stop,Free Meal,12708
+97,Air India,29/09/2022,10h 40m,New Delhi,Bangalore,10:00,20:40,1 Stop,Free Meal,12708
+98,Air India,29/09/2022,11h 40m,New Delhi,Bangalore,9:00,20:40,1 Stop,Free Meal,12708
+99,Air India,29/09/2022,12h 40m,New Delhi,Bangalore,8:00,20:40,1 Stop,Free Meal,12708
+100,Air India,29/09/2022,13h 40m,New Delhi,Bangalore,7:00,20:40,1 Stop,Free Meal,12708
+101,Vistara,29/09/2022,26h 20m,New Delhi,Bangalore,17:10,19:30,2 Stop(s),Free Meal,12798
+102,Air India,29/09/2022,7h 20m,New Delhi,Bangalore,13:20,20:40,2 Stop(s),Free Meal,12813
+103,Go First,29/09/2022,5h 20m,New Delhi,Bangalore,5:25,10:45,1 Stop,No Meal,13169
+104,Go First,29/09/2022,7h 10m,New Delhi,Bangalore,16:45,23:55,1 Stop,No Meal,13169
+105,Go First,29/09/2022,14h 25m,New Delhi,Bangalore,20:20,10:45,1 Stop,No Meal,13370
+106,SpiceJet,29/09/2022,7h 25m,New Delhi,Bangalore,15:10,22:35,1 Stop,No Meal,13410
+107,Vistara,29/09/2022,25h 05m,New Delhi,Bangalore,17:10,18:15,1 Stop,Free Meal,13618
+108,SpiceJet,29/09/2022,24h 40m,New Delhi,Bangalore,11:30,12:10,1 Stop,No Meal,13873
+109,Vistara,29/09/2022,14h 40m,New Delhi,Bangalore,17:10,7:50,2 Stop(s),Free Meal,13953
+110,Vistara,29/09/2022,18h 10m,New Delhi,Bangalore,13:40,7:50,2 Stop(s),Free Meal,13953
+111,Vistara,29/09/2022,15h 40m,New Delhi,Bangalore,17:10,8:50,2 Stop(s),Free Meal,14689
+112,Vistara,29/09/2022,17h 35m,New Delhi,Bangalore,17:10,10:45,2 Stop(s),Free Meal,14689
+113,Vistara,29/09/2022,19h 10m,New Delhi,Bangalore,13:40,8:50,2 Stop(s),Free Meal,14689
+114,Vistara,29/09/2022,21h 05m,New Delhi,Bangalore,13:40,10:45,2 Stop(s),Free Meal,14689
+115,Vistara,29/09/2022,24h 35m,New Delhi,Bangalore,17:10,17:45,2 Stop(s),Free Meal,14689
+116,Vistara,29/09/2022,24h 35m,New Delhi,Bangalore,17:10,17:45,2 Stop(s),Free Meal,14689
+117,Go First,29/09/2022,7h 45m,New Delhi,Bangalore,14:30,22:15,1 Stop,No Meal,15161
+118,Go First,29/09/2022,10h 10m,New Delhi,Bangalore,8:00,18:10,1 Stop,No Meal,15161
+119,Go First,29/09/2022,10h 45m,New Delhi,Bangalore,20:50,7:35,1 Stop,No Meal,15161
+120,Go First,29/09/2022,11h 35m,New Delhi,Bangalore,20:00,7:35,1 Stop,No Meal,15161
+121,Go First,29/09/2022,12h 50m,New Delhi,Bangalore,18:45,7:35,1 Stop,No Meal,15161
+122,Go First,29/09/2022,14h 15m,New Delhi,Bangalore,8:00,22:15,1 Stop,No Meal,15161
+123,Go First,29/09/2022,15h 30m,New Delhi,Bangalore,2:40,18:10,1 Stop,No Meal,15161
+124,Vistara,29/09/2022,5h 25m,New Delhi,Bangalore,17:45,23:10,1 Stop,Free Meal,15298
+125,Vistara,29/09/2022,6h 15m,New Delhi,Bangalore,16:55,23:10,1 Stop,Free Meal,15298
+126,Vistara,29/09/2022,7h 40m,New Delhi,Bangalore,15:30,23:10,1 Stop,Free Meal,15298
+127,Vistara,29/09/2022,8h 50m,New Delhi,Bangalore,14:20,23:10,1 Stop,Free Meal,15298
+128,Air India,29/09/2022,8h 20m,New Delhi,Bangalore,10:00,18:20,1 Stop,Free Meal,15300
+129,Air India,29/09/2022,9h 20m,New Delhi,Bangalore,9:00,18:20,1 Stop,Free Meal,15300
+130,Air India,29/09/2022,10h 20m,New Delhi,Bangalore,8:00,18:20,1 Stop,Free Meal,15300
+131,Air India,29/09/2022,10h 35m,New Delhi,Bangalore,21:15,7:50,1 Stop,Free Meal,15300
+132,Air India,29/09/2022,11h 20m,New Delhi,Bangalore,7:00,18:20,1 Stop,Free Meal,15300
+133,Air India,29/09/2022,11h 50m,New Delhi,Bangalore,20:00,7:50,1 Stop,Free Meal,15300
+134,Air India,29/09/2022,12h 50m,New Delhi,Bangalore,19:00,7:50,1 Stop,Free Meal,15300
+135,Air India,29/09/2022,13h 55m,New Delhi,Bangalore,17:55,7:50,1 Stop,Free Meal,15300
+136,Air India,29/09/2022,17h 50m,New Delhi,Bangalore,14:00,7:50,1 Stop,Free Meal,15300
+137,Vistara,29/09/2022,4h 55m,New Delhi,Bangalore,14:20,19:15,1 Stop,Free Meal,15823
+138,Vistara,29/09/2022,5h 00m,New Delhi,Bangalore,12:45,17:45,1 Stop,Free Meal,15823
+139,Vistara,29/09/2022,5h 25m,New Delhi,Bangalore,15:30,20:55,1 Stop,Free Meal,15823
+140,Vistara,29/09/2022,6h 05m,New Delhi,Bangalore,11:40,17:45,1 Stop,Free Meal,15823
+141,Vistara,29/09/2022,6h 30m,New Delhi,Bangalore,12:45,19:15,1 Stop,Free Meal,15823
+142,Vistara,29/09/2022,6h 35m,New Delhi,Bangalore,14:20,20:55,1 Stop,Free Meal,15823
+143,Vistara,29/09/2022,7h 25m,New Delhi,Bangalore,10:20,17:45,1 Stop,Free Meal,15823
+144,SpiceJet,29/09/2022,7h 30m,New Delhi,Bangalore,7:40,15:10,1 Stop,No Meal,15823
+145,Vistara,29/09/2022,7h 35m,New Delhi,Bangalore,11:40,19:15,1 Stop,Free Meal,15823
+146,Vistara,29/09/2022,8h 10m,New Delhi,Bangalore,12:45,20:55,1 Stop,Free Meal,15823
+147,Vistara,29/09/2022,8h 15m,New Delhi,Bangalore,9:30,17:45,1 Stop,Free Meal,15823
+148,Air Asia,29/09/2022,7h 45m,New Delhi,Bangalore,17:05,0:50,1 Stop,No Meal,16060
+149,Air India,29/09/2022,23h 25m,New Delhi,Bangalore,8:25,7:50,2 Stop(s),Free Meal,16135
+150,Air India,29/09/2022,26h 35m,New Delhi,Bangalore,5:15,7:50,2 Stop(s),Free Meal,16135
+151,SpiceJet,29/09/2022,24h 35m,New Delhi,Bangalore,7:00,7:35,1 Stop,No Meal,16140
+152,Air India,29/09/2022,19h 00m,New Delhi,Bangalore,12:50,7:50,2 Stop(s),Free Meal,16312
+153,Air India,29/09/2022,22h 20m,New Delhi,Bangalore,12:50,11:10,2 Stop(s),Free Meal,16312
+154,Air India,29/09/2022,29h 30m,New Delhi,Bangalore,12:50,18:20,2 Stop(s),Free Meal,16312
+155,Vistara,29/09/2022,4h 50m,New Delhi,Bangalore,5:55,10:45,1 Stop,Free Meal,16348
+156,SpiceJet,29/09/2022,10h 15m,New Delhi,Bangalore,21:20,7:35,1 Stop,No Meal,16661
+157,SpiceJet,29/09/2022,11h 25m,New Delhi,Bangalore,20:10,7:35,1 Stop,No Meal,16661
+158,Air Asia,29/09/2022,7h 50m,New Delhi,Bangalore,13:00,20:50,2 Stop(s),No Meal,16901
+159,SpiceJet,29/09/2022,12h 45m,New Delhi,Bangalore,18:50,7:35,1 Stop,No Meal,17294
+160,SpiceJet,29/09/2022,26h 05m,New Delhi,Bangalore,13:05,15:10,1 Stop,No Meal,18029
+161,Air India,29/09/2022,8h 05m,New Delhi,Bangalore,10:15,18:20,2 Stop(s),Free Meal,18188
+162,Air India,29/09/2022,8h 35m,New Delhi,Bangalore,9:45,18:20,2 Stop(s),Free Meal,19185
+163,SpiceJet,29/09/2022,8h 40m,New Delhi,Bangalore,6:30,15:10,1 Stop,No Meal,19499
+164,Go First,29/09/2022,4h 15m,New Delhi,Bangalore,10:45,15:00,1 Stop,No Meal,20183
+165,Vistara,29/09/2022,6h 40m,New Delhi,Bangalore,9:40,16:20,1 Stop,Free Meal,21810
+166,SpiceJet,30/09/2022,2h 50m,New Delhi,Bangalore,6:05,8:55,Non Stop,No Meal,7419
+167,Air Asia,30/09/2022,6h 15m,New Delhi,Bangalore,8:00,14:15,1 Stop,No Meal,7710
+168,Air Asia,30/09/2022,6h 55m,New Delhi,Bangalore,6:05,13:00,1 Stop,No Meal,7710
+169,SpiceJet,30/09/2022,7h 25m,New Delhi,Bangalore,9:25,16:50,1 Stop,No Meal,8214
+170,Air Asia,30/09/2022,7h 30m,New Delhi,Bangalore,10:00,17:30,1 Stop,No Meal,8452
+171,IndiGo,30/09/2022,6h 40m,New Delhi,Bangalore,15:20,22:00,1 Stop,No Meal,8587
+172,Vistara,30/09/2022,2h 40m,New Delhi,Bangalore,8:10,10:50,Non Stop,Free Meal,9418
+173,Vistara,30/09/2022,2h 45m,New Delhi,Bangalore,6:15,9:00,Non Stop,Free Meal,9418
+174,Go First,30/09/2022,12h 10m,New Delhi,Bangalore,9:40,21:50,1 Stop,No Meal,9418
+175,IndiGo,30/09/2022,2h 35m,New Delhi,Bangalore,6:00,8:35,Non Stop,No Meal,9419
+176,IndiGo,30/09/2022,2h 35m,New Delhi,Bangalore,13:00,15:35,Non Stop,No Meal,9419
+177,IndiGo,30/09/2022,2h 40m,New Delhi,Bangalore,8:20,11:00,Non Stop,No Meal,9419
+178,IndiGo,30/09/2022,2h 40m,New Delhi,Bangalore,9:15,11:55,Non Stop,No Meal,9419
+179,Go First,30/09/2022,2h 45m,New Delhi,Bangalore,5:50,8:35,Non Stop,No Meal,9419
+180,IndiGo,30/09/2022,2h 50m,New Delhi,Bangalore,2:25,5:15,Non Stop,No Meal,9419
+181,IndiGo,30/09/2022,2h 50m,New Delhi,Bangalore,3:50,6:40,Non Stop,No Meal,9419
+182,IndiGo,30/09/2022,2h 55m,New Delhi,Bangalore,6:55,9:50,Non Stop,No Meal,9419
+183,IndiGo,30/09/2022,2h 55m,New Delhi,Bangalore,15:20,18:15,Non Stop,No Meal,9419
+184,Air India,30/09/2022,2h 30m,New Delhi,Bangalore,8:00,10:30,Non Stop,Free Meal,9420
+185,Air India,30/09/2022,2h 45m,New Delhi,Bangalore,6:10,8:55,Non Stop,Free Meal,9420
+186,Air India,30/09/2022,2h 45m,New Delhi,Bangalore,9:45,12:30,Non Stop,Free Meal,9420
+187,Air India,30/09/2022,2h 45m,New Delhi,Bangalore,13:30,16:15,Non Stop,Free Meal,9420
+188,Air India,30/09/2022,2h 50m,New Delhi,Bangalore,21:15,0:05,Non Stop,Free Meal,9420
+189,SpiceJet,30/09/2022,2h 30m,New Delhi,Bangalore,20:00,22:30,Non Stop,No Meal,9523
+190,Air India,30/09/2022,3h 00m,New Delhi,Bangalore,17:15,20:15,Non Stop,Free Meal,9630
+191,Vistara,30/09/2022,2h 45m,New Delhi,Bangalore,9:05,11:50,Non Stop,Free Meal,9945
+192,Air Asia,30/09/2022,4h 50m,New Delhi,Bangalore,7:20,12:10,1 Stop,No Meal,9979
+193,IndiGo,30/09/2022,5h 00m,New Delhi,Bangalore,5:15,10:15,1 Stop,No Meal,10112
+194,IndiGo,30/09/2022,4h 50m,New Delhi,Bangalore,17:50,22:40,1 Stop,No Meal,10170
+195,Air Asia,30/09/2022,2h 30m,New Delhi,Bangalore,8:10,10:40,Non Stop,No Meal,10259
+196,Air Asia,30/09/2022,2h 50m,New Delhi,Bangalore,9:35,12:25,Non Stop,No Meal,10259
+197,Air Asia,30/09/2022,2h 55m,New Delhi,Bangalore,18:45,21:40,Non Stop,No Meal,10259
+198,Air Asia,30/09/2022,6h 25m,New Delhi,Bangalore,13:00,19:25,1 Stop,No Meal,10273
+199,Go First,30/09/2022,2h 40m,New Delhi,Bangalore,20:45,23:25,Non Stop,No Meal,10363
+200,Air Asia,30/09/2022,5h 45m,New Delhi,Bangalore,10:40,16:25,1 Stop,No Meal,10366
+201,Vistara,30/09/2022,2h 50m,New Delhi,Bangalore,14:15,17:05,Non Stop,Free Meal,10575
+202,IndiGo,30/09/2022,6h 10m,New Delhi,Bangalore,6:00,12:10,1 Stop,No Meal,10581
+203,IndiGo,30/09/2022,6h 00m,New Delhi,Bangalore,17:55,23:55,1 Stop,No Meal,10624
+204,IndiGo,30/09/2022,7h 20m,New Delhi,Bangalore,2:00,9:20,1 Stop,No Meal,10624
+205,IndiGo,30/09/2022,5h 55m,New Delhi,Bangalore,8:30,14:25,1 Stop,No Meal,10834
+206,IndiGo,30/09/2022,5h 15m,New Delhi,Bangalore,6:50,12:05,1 Stop,No Meal,10889
+207,Air India,30/09/2022,2h 50m,New Delhi,Bangalore,15:30,18:20,Non Stop,Free Meal,10890
+208,SpiceJet,30/09/2022,17h 05m,New Delhi,Bangalore,6:15,23:20,1 Stop,No Meal,10909
+209,Go First,30/09/2022,14h 30m,New Delhi,Bangalore,9:40,0:10,1 Stop,No Meal,11214
+210,IndiGo,30/09/2022,5h 15m,New Delhi,Bangalore,15:15,20:30,1 Stop,No Meal,11257
+211,IndiGo,30/09/2022,2h 50m,New Delhi,Bangalore,22:55,1:45,Non Stop,No Meal,11410
+212,IndiGo,30/09/2022,5h 15m,New Delhi,Bangalore,21:20,2:35,1 Stop,No Meal,11464
+213,IndiGo,30/09/2022,6h 35m,New Delhi,Bangalore,23:30,6:05,1 Stop,No Meal,11464
+214,Air India,30/09/2022,22h 10m,New Delhi,Bangalore,22:30,20:40,1 Stop,Free Meal,11658
+215,Air India,30/09/2022,23h 25m,New Delhi,Bangalore,21:15,20:40,1 Stop,Free Meal,11658
+216,IndiGo,30/09/2022,7h 05m,New Delhi,Bangalore,13:35,20:40,1 Stop,No Meal,11782
+217,Air India,30/09/2022,24h 40m,New Delhi,Bangalore,20:00,20:40,1 Stop,Free Meal,11868
+218,Air India,30/09/2022,26h 45m,New Delhi,Bangalore,17:55,20:40,1 Stop,Free Meal,11868
+219,Vistara,30/09/2022,2h 45m,New Delhi,Bangalore,16:05,18:50,Non Stop,Free Meal,11940
+220,Vistara,30/09/2022,2h 50m,New Delhi,Bangalore,17:35,20:25,Non Stop,Free Meal,11940
+221,Vistara,30/09/2022,18h 20m,New Delhi,Bangalore,14:10,8:30,1 Stop,Free Meal,12213
+222,SpiceJet,30/09/2022,23h 45m,New Delhi,Bangalore,14:50,14:35,1 Stop,No Meal,12253
+223,Air Asia,30/09/2022,2h 45m,New Delhi,Bangalore,21:50,0:35,Non Stop,No Meal,12255
+224,IndiGo,30/09/2022,7h 05m,New Delhi,Bangalore,10:15,17:20,1 Stop,No Meal,12270
+225,Vistara,30/09/2022,26h 20m,New Delhi,Bangalore,6:30,8:50,2 Stop(s),Free Meal,12350
+226,Vistara,30/09/2022,36h 45m,New Delhi,Bangalore,6:30,19:15,2 Stop(s),Free Meal,12350
+227,Air India,30/09/2022,25h 40m,New Delhi,Bangalore,19:00,20:40,1 Stop,Free Meal,12393
+228,IndiGo,30/09/2022,5h 15m,New Delhi,Bangalore,7:55,13:10,1 Stop,No Meal,12412
+229,IndiGo,30/09/2022,6h 25m,New Delhi,Bangalore,1:50,8:15,1 Stop,No Meal,12412
+230,IndiGo,30/09/2022,7h 40m,New Delhi,Bangalore,1:50,9:30,1 Stop,No Meal,12412
+231,Vistara,30/09/2022,15h 40m,New Delhi,Bangalore,17:10,8:50,2 Stop(s),Free Meal,12455
+232,Vistara,30/09/2022,26h 05m,New Delhi,Bangalore,17:10,19:15,2 Stop(s),Free Meal,12455
+233,Vistara,30/09/2022,15h 10m,New Delhi,Bangalore,17:35,8:45,1 Stop,Free Meal,12463
+234,IndiGo,30/09/2022,4h 30m,New Delhi,Bangalore,13:25,17:55,1 Stop,No Meal,12517
+235,IndiGo,30/09/2022,5h 10m,New Delhi,Bangalore,12:45,17:55,1 Stop,No Meal,12517
+236,IndiGo,30/09/2022,8h 00m,New Delhi,Bangalore,9:55,17:55,1 Stop,No Meal,12517
+237,Go First,30/09/2022,4h 30m,New Delhi,Bangalore,19:40,0:10,1 Stop,No Meal,12614
+238,IndiGo,30/09/2022,4h 20m,New Delhi,Bangalore,8:30,12:50,1 Stop,No Meal,12622
+239,IndiGo,30/09/2022,5h 30m,New Delhi,Bangalore,7:20,12:50,1 Stop,No Meal,12622
+240,IndiGo,30/09/2022,5h 35m,New Delhi,Bangalore,18:05,23:40,1 Stop,No Meal,12622
+241,IndiGo,30/09/2022,5h 45m,New Delhi,Bangalore,19:30,1:15,1 Stop,No Meal,12622
+242,IndiGo,30/09/2022,7h 10m,New Delhi,Bangalore,18:05,1:15,1 Stop,No Meal,12622
+243,Air Asia,30/09/2022,6h 30m,New Delhi,Bangalore,20:00,2:30,1 Stop,No Meal,12676
+244,Air India,30/09/2022,9h 20m,New Delhi,Bangalore,22:30,7:50,1 Stop,Free Meal,12708
+245,Air India,30/09/2022,10h 35m,New Delhi,Bangalore,21:15,7:50,1 Stop,Free Meal,12708
+246,Air India,30/09/2022,17h 50m,New Delhi,Bangalore,14:00,7:50,1 Stop,Free Meal,12708
+247,Air India,30/09/2022,21h 50m,New Delhi,Bangalore,10:00,7:50,1 Stop,Free Meal,12708
+248,Air India,30/09/2022,22h 50m,New Delhi,Bangalore,9:00,7:50,1 Stop,Free Meal,12708
+249,Go First,30/09/2022,14h 20m,New Delhi,Bangalore,19:00,9:20,1 Stop,No Meal,12814
+250,IndiGo,30/09/2022,6h 35m,New Delhi,Bangalore,15:00,21:35,1 Stop,No Meal,12884
+251,Air India,30/09/2022,11h 50m,New Delhi,Bangalore,20:00,7:50,1 Stop,Free Meal,12918
+252,Air India,30/09/2022,13h 55m,New Delhi,Bangalore,17:55,7:50,1 Stop,Free Meal,12918
+253,Air India,30/09/2022,19h 50m,New Delhi,Bangalore,22:30,18:20,1 Stop,Free Meal,12918
+254,Air India,30/09/2022,21h 05m,New Delhi,Bangalore,21:15,18:20,1 Stop,Free Meal,12918
+255,Vistara,30/09/2022,2h 40m,New Delhi,Bangalore,20:40,23:20,Non Stop,Free Meal,12990
+256,Vistara,30/09/2022,2h 50m,New Delhi,Bangalore,19:50,22:40,Non Stop,Free Meal,12990
+257,Vistara,30/09/2022,14h 45m,New Delhi,Bangalore,17:45,8:30,1 Stop,Free Meal,13085
+258,Air India,30/09/2022,22h 20m,New Delhi,Bangalore,20:00,18:20,1 Stop,Free Meal,13128
+259,Go First,30/09/2022,5h 20m,New Delhi,Bangalore,5:25,10:45,1 Stop,No Meal,13169
+260,IndiGo,30/09/2022,5h 40m,New Delhi,Bangalore,15:00,20:40,1 Stop,No Meal,13252
+261,IndiGo,30/09/2022,7h 15m,New Delhi,Bangalore,13:25,20:40,1 Stop,No Meal,13252
+262,IndiGo,30/09/2022,7h 55m,New Delhi,Bangalore,12:45,20:40,1 Stop,No Meal,13252
+263,Air Asia,30/09/2022,2h 50m,New Delhi,Bangalore,21:00,23:50,Non Stop,No Meal,13305
+264,Air Asia,30/09/2022,5h 30m,New Delhi,Bangalore,15:30,21:00,1 Stop,No Meal,13516
+265,Vistara,30/09/2022,6h 20m,New Delhi,Bangalore,14:10,20:30,1 Stop,Free Meal,13544
+266,Vistara,30/09/2022,11h 50m,New Delhi,Bangalore,8:40,20:30,1 Stop,Free Meal,13544
+267,Vistara,30/09/2022,12h 10m,New Delhi,Bangalore,20:35,8:45,1 Stop,Free Meal,14040
+268,Vistara,30/09/2022,28h 15m,New Delhi,Bangalore,6:30,10:45,2 Stop(s),Free Meal,14208
+269,IndiGo,30/09/2022,7h 45m,New Delhi,Bangalore,8:45,16:30,1 Stop,No Meal,14459
+270,Vistara,30/09/2022,11h 40m,New Delhi,Bangalore,20:50,8:30,1 Stop,Free Meal,14492
+271,Vistara,30/09/2022,3h 50m,New Delhi,Bangalore,18:00,21:50,1 Stop,Free Meal,14597
+272,Vistara,30/09/2022,24h 35m,New Delhi,Bangalore,17:10,17:45,2 Stop(s),Free Meal,14614
+273,SpiceJet,30/09/2022,10h 30m,New Delhi,Bangalore,12:05,22:35,1 Stop,No Meal,14670
+274,Vistara,30/09/2022,25h 05m,New Delhi,Bangalore,17:10,18:15,1 Stop,Free Meal,14807
+275,Vistara,30/09/2022,19h 10m,New Delhi,Bangalore,13:40,8:50,2 Stop(s),Free Meal,14859
+276,Air India,30/09/2022,23h 25m,New Delhi,Bangalore,8:25,7:50,2 Stop(s),Free Meal,14896
+277,Air India,30/09/2022,26h 35m,New Delhi,Bangalore,5:15,7:50,2 Stop(s),Free Meal,14896
+278,Go First,30/09/2022,4h 50m,New Delhi,Bangalore,14:30,19:20,1 Stop,No Meal,15161
+279,Go First,30/09/2022,7h 45m,New Delhi,Bangalore,14:30,22:15,1 Stop,No Meal,15161
+280,Go First,30/09/2022,9h 00m,New Delhi,Bangalore,22:45,7:45,1 Stop,No Meal,15161
+281,Go First,30/09/2022,10h 55m,New Delhi,Bangalore,20:50,7:45,1 Stop,No Meal,15161
+282,Go First,30/09/2022,11h 20m,New Delhi,Bangalore,8:00,19:20,1 Stop,No Meal,15161
+283,Go First,30/09/2022,12h 00m,New Delhi,Bangalore,19:45,7:45,1 Stop,No Meal,15161
+284,Go First,30/09/2022,13h 00m,New Delhi,Bangalore,18:45,7:45,1 Stop,No Meal,15161
+285,Go First,30/09/2022,14h 15m,New Delhi,Bangalore,8:00,22:15,1 Stop,No Meal,15161
+286,Go First,30/09/2022,8h 00m,New Delhi,Bangalore,16:45,0:45,1 Stop,No Meal,15170
+287,Go First,30/09/2022,15h 05m,New Delhi,Bangalore,20:20,11:25,1 Stop,No Meal,15170
+288,Vistara,30/09/2022,9h 05m,New Delhi,Bangalore,10:25,19:30,1 Stop,Free Meal,15193
+289,Vistara,30/09/2022,12h 10m,New Delhi,Bangalore,7:20,19:30,1 Stop,Free Meal,15193
+290,Go First,30/09/2022,4h 15m,New Delhi,Bangalore,10:45,15:00,1 Stop,No Meal,15346
+291,Vistara,30/09/2022,17h 35m,New Delhi,Bangalore,17:10,10:45,2 Stop(s),Free Meal,15350
+292,Vistara,30/09/2022,4h 45m,New Delhi,Bangalore,14:45,19:30,1 Stop,Free Meal,15720
+293,Vistara,30/09/2022,4h 55m,New Delhi,Bangalore,14:20,19:15,1 Stop,Free Meal,15823
+294,Vistara,30/09/2022,6h 05m,New Delhi,Bangalore,11:40,17:45,1 Stop,Free Meal,15823
+295,Vistara,30/09/2022,6h 15m,New Delhi,Bangalore,16:55,23:10,1 Stop,Free Meal,15823
+296,Vistara,30/09/2022,7h 25m,New Delhi,Bangalore,10:20,17:45,1 Stop,Free Meal,15823
+297,Vistara,30/09/2022,7h 35m,New Delhi,Bangalore,11:40,19:15,1 Stop,Free Meal,15823
+298,Vistara,30/09/2022,7h 40m,New Delhi,Bangalore,15:30,23:10,1 Stop,Free Meal,15823
+299,Vistara,30/09/2022,8h 15m,New Delhi,Bangalore,9:30,17:45,1 Stop,Free Meal,15823
+300,Air India,30/09/2022,7h 25m,New Delhi,Bangalore,13:15,20:40,2 Stop(s),Free Meal,15825
+301,Vistara,30/09/2022,4h 50m,New Delhi,Bangalore,5:55,10:45,1 Stop,Free Meal,16350
+302,Vistara,30/09/2022,5h 00m,New Delhi,Bangalore,12:45,17:45,1 Stop,Free Meal,16350
+303,Vistara,30/09/2022,6h 30m,New Delhi,Bangalore,12:45,19:15,1 Stop,Free Meal,16350
+304,Vistara,30/09/2022,11h 30m,New Delhi,Bangalore,21:20,8:50,2 Stop(s),Free Meal,16413
+305,Vistara,30/09/2022,14h 40m,New Delhi,Bangalore,18:10,8:50,2 Stop(s),Free Meal,16413
+306,Vistara,30/09/2022,21h 05m,New Delhi,Bangalore,13:40,10:45,2 Stop(s),Free Meal,16682
+307,Vistara,30/09/2022,5h 25m,New Delhi,Bangalore,17:45,23:10,1 Stop,Free Meal,16875
+308,SpiceJet,30/09/2022,24h 40m,New Delhi,Bangalore,11:30,12:10,1 Stop,No Meal,16945
+309,SpiceJet,30/09/2022,7h 25m,New Delhi,Bangalore,15:10,22:35,1 Stop,No Meal,17084
+310,Vistara,30/09/2022,5h 25m,New Delhi,Bangalore,15:30,20:55,1 Stop,Free Meal,17608
+311,Vistara,30/09/2022,6h 35m,New Delhi,Bangalore,14:20,20:55,1 Stop,Free Meal,17608
+312,Vistara,30/09/2022,8h 10m,New Delhi,Bangalore,12:45,20:55,1 Stop,Free Meal,18135
+313,Vistara,30/09/2022,13h 25m,New Delhi,Bangalore,21:20,10:45,2 Stop(s),Free Meal,18272
+314,Vistara,30/09/2022,16h 35m,New Delhi,Bangalore,18:10,10:45,2 Stop(s),Free Meal,18272
+315,Air India,30/09/2022,8h 05m,New Delhi,Bangalore,10:15,18:20,2 Stop(s),Free Meal,18398
+316,Air India,30/09/2022,10h 25m,New Delhi,Bangalore,10:15,20:40,2 Stop(s),Free Meal,18398
+317,SpiceJet,30/09/2022,7h 30m,New Delhi,Bangalore,7:40,15:10,1 Stop,No Meal,18659
+318,SpiceJet,30/09/2022,8h 40m,New Delhi,Bangalore,6:30,15:10,1 Stop,No Meal,18659
+319,SpiceJet,30/09/2022,26h 05m,New Delhi,Bangalore,13:05,15:10,1 Stop,No Meal,19079
+320,Vistara,30/09/2022,4h 45m,New Delhi,Bangalore,11:10,15:55,1 Stop,Free Meal,19080
+321,Air India,30/09/2022,8h 35m,New Delhi,Bangalore,9:45,18:20,2 Stop(s),Free Meal,19395
+322,Air Asia,30/09/2022,7h 50m,New Delhi,Bangalore,13:00,20:50,2 Stop(s),No Meal,20157
+323,IndiGo,30/09/2022,2h 40m,New Delhi,Bangalore,17:15,19:55,Non Stop,No Meal,20234
+324,IndiGo,30/09/2022,2h 45m,New Delhi,Bangalore,18:30,21:15,Non Stop,No Meal,20234
+325,IndiGo,30/09/2022,2h 45m,New Delhi,Bangalore,21:30,0:15,Non Stop,No Meal,20234
+326,Air Asia,30/09/2022,7h 45m,New Delhi,Bangalore,17:05,0:50,1 Stop,No Meal,21100
+327,Vistara,30/09/2022,6h 40m,New Delhi,Bangalore,9:40,16:20,1 Stop,Free Meal,23070
+328,IndiGo,30/09/2022,8h 05m,New Delhi,Bangalore,13:00,21:05,1 Stop,No Meal,23332
+329,SpiceJet,01/10/2022,2h 30m,New Delhi,Bangalore,20:00,22:30,Non Stop,No Meal,7419
+330,SpiceJet,01/10/2022,2h 50m,New Delhi,Bangalore,6:05,8:55,Non Stop,No Meal,7419
+331,Go First,01/10/2022,2h 45m,New Delhi,Bangalore,5:50,8:35,Non Stop,No Meal,7422
+332,Go First,01/10/2022,2h 45m,New Delhi,Bangalore,20:45,23:30,Non Stop,No Meal,7422
+333,IndiGo,01/10/2022,2h 35m,New Delhi,Bangalore,6:00,8:35,Non Stop,No Meal,7424
+334,IndiGo,01/10/2022,2h 45m,New Delhi,Bangalore,21:30,0:15,Non Stop,No Meal,7424
+335,IndiGo,01/10/2022,2h 50m,New Delhi,Bangalore,2:25,5:15,Non Stop,No Meal,7424
+336,IndiGo,01/10/2022,2h 50m,New Delhi,Bangalore,3:50,6:40,Non Stop,No Meal,7424
+337,IndiGo,01/10/2022,2h 50m,New Delhi,Bangalore,20:10,23:00,Non Stop,No Meal,7424
+338,IndiGo,01/10/2022,2h 50m,New Delhi,Bangalore,22:55,1:45,Non Stop,No Meal,7424
+339,IndiGo,01/10/2022,2h 55m,New Delhi,Bangalore,6:55,9:50,Non Stop,No Meal,7424
+340,Air Asia,01/10/2022,2h 30m,New Delhi,Bangalore,8:10,10:40,Non Stop,No Meal,7425
+341,Air India,01/10/2022,2h 45m,New Delhi,Bangalore,6:10,8:55,Non Stop,Free Meal,7425
+342,Air Asia,01/10/2022,2h 50m,New Delhi,Bangalore,21:00,23:50,Non Stop,No Meal,7425
+343,Air India,01/10/2022,2h 50m,New Delhi,Bangalore,21:15,0:05,Non Stop,Free Meal,7425
+344,Air Asia,01/10/2022,2h 55m,New Delhi,Bangalore,18:45,21:40,Non Stop,No Meal,7425
+345,IndiGo,01/10/2022,2h 45m,New Delhi,Bangalore,18:30,21:15,Non Stop,No Meal,7897
+346,Air Asia,01/10/2022,2h 45m,New Delhi,Bangalore,21:50,0:35,Non Stop,No Meal,7897
+347,Air Asia,01/10/2022,2h 50m,New Delhi,Bangalore,9:35,12:25,Non Stop,No Meal,7897
+348,IndiGo,01/10/2022,2h 40m,New Delhi,Bangalore,8:20,11:00,Non Stop,No Meal,8212
+349,IndiGo,01/10/2022,5h 00m,New Delhi,Bangalore,5:15,10:15,1 Stop,No Meal,8587
+350,Air India,01/10/2022,2h 45m,New Delhi,Bangalore,13:30,16:15,Non Stop,Free Meal,8790
+351,Air India,01/10/2022,9h 20m,New Delhi,Bangalore,22:30,7:50,1 Stop,Free Meal,8823
+352,Air India,01/10/2022,10h 35m,New Delhi,Bangalore,21:15,7:50,1 Stop,Free Meal,8823
+353,Air India,01/10/2022,11h 50m,New Delhi,Bangalore,20:00,7:50,1 Stop,Free Meal,9033
+354,Air India,01/10/2022,12h 50m,New Delhi,Bangalore,19:00,7:50,1 Stop,Free Meal,9033
+355,Air India,01/10/2022,13h 55m,New Delhi,Bangalore,17:55,7:50,1 Stop,Free Meal,9033
+356,Air India,01/10/2022,17h 50m,New Delhi,Bangalore,14:00,7:50,1 Stop,Free Meal,9033
+357,Air India,01/10/2022,21h 50m,New Delhi,Bangalore,10:00,7:50,1 Stop,Free Meal,9033
+358,Air India,01/10/2022,22h 50m,New Delhi,Bangalore,9:00,7:50,1 Stop,Free Meal,9033
+359,Air India,01/10/2022,23h 50m,New Delhi,Bangalore,8:00,7:50,1 Stop,Free Meal,9033
+360,Air India,01/10/2022,24h 50m,New Delhi,Bangalore,7:00,7:50,1 Stop,Free Meal,9033
+361,Air India,01/10/2022,6h 40m,New Delhi,Bangalore,14:00,20:40,1 Stop,Free Meal,9243
+362,Air India,01/10/2022,10h 40m,New Delhi,Bangalore,10:00,20:40,1 Stop,Free Meal,9243
+363,Air India,01/10/2022,11h 40m,New Delhi,Bangalore,9:00,20:40,1 Stop,Free Meal,9243
+364,Air India,01/10/2022,12h 40m,New Delhi,Bangalore,8:00,20:40,1 Stop,Free Meal,9243
+365,Air India,01/10/2022,13h 40m,New Delhi,Bangalore,7:00,20:40,1 Stop,Free Meal,9243
+366,Go First,01/10/2022,5h 35m,New Delhi,Bangalore,18:45,0:20,1 Stop,No Meal,9418
+367,Go First,01/10/2022,6h 10m,New Delhi,Bangalore,18:20,0:30,1 Stop,No Meal,9418
+368,Go First,01/10/2022,6h 55m,New Delhi,Bangalore,17:25,0:20,1 Stop,No Meal,9418
+369,Go First,01/10/2022,7h 30m,New Delhi,Bangalore,16:10,23:40,1 Stop,No Meal,9418
+370,Go First,01/10/2022,9h 00m,New Delhi,Bangalore,22:45,7:45,1 Stop,No Meal,9418
+371,Go First,01/10/2022,9h 25m,New Delhi,Bangalore,13:00,22:25,1 Stop,No Meal,9418
+372,Go First,01/10/2022,10h 55m,New Delhi,Bangalore,20:50,7:45,1 Stop,No Meal,9418
+373,Go First,01/10/2022,11h 30m,New Delhi,Bangalore,13:00,0:30,1 Stop,No Meal,9418
+374,Go First,01/10/2022,13h 25m,New Delhi,Bangalore,18:20,7:45,1 Stop,No Meal,9418
+375,IndiGo,01/10/2022,2h 40m,New Delhi,Bangalore,9:15,11:55,Non Stop,No Meal,9419
+376,IndiGo,01/10/2022,2h 45m,New Delhi,Bangalore,11:30,14:15,Non Stop,No Meal,9787
+377,Vistara,01/10/2022,2h 40m,New Delhi,Bangalore,20:40,23:20,Non Stop,Free Meal,9945
+378,IndiGo,01/10/2022,6h 25m,New Delhi,Bangalore,15:20,21:45,1 Stop,No Meal,9952
+379,Air Asia,01/10/2022,4h 50m,New Delhi,Bangalore,7:20,12:10,1 Stop,No Meal,9979
+380,IndiGo,01/10/2022,6h 45m,New Delhi,Bangalore,11:15,18:00,1 Stop,No Meal,9993
+381,IndiGo,01/10/2022,5h 45m,New Delhi,Bangalore,19:30,1:15,1 Stop,No Meal,9997
+382,Air India,01/10/2022,2h 45m,New Delhi,Bangalore,9:45,12:30,Non Stop,Free Meal,10365
+383,IndiGo,01/10/2022,4h 20m,New Delhi,Bangalore,8:30,12:50,1 Stop,No Meal,10417
+384,IndiGo,01/10/2022,5h 30m,New Delhi,Bangalore,7:20,12:50,1 Stop,No Meal,10417
+385,IndiGo,01/10/2022,7h 40m,New Delhi,Bangalore,1:50,9:30,1 Stop,No Meal,10417
+386,Air India,01/10/2022,8h 20m,New Delhi,Bangalore,10:00,18:20,1 Stop,Free Meal,10503
+387,Air India,01/10/2022,9h 20m,New Delhi,Bangalore,9:00,18:20,1 Stop,Free Meal,10503
+388,IndiGo,01/10/2022,6h 35m,New Delhi,Bangalore,15:00,21:35,1 Stop,No Meal,10522
+389,Vistara,01/10/2022,2h 45m,New Delhi,Bangalore,6:15,9:00,Non Stop,Free Meal,10575
+390,Vistara,01/10/2022,2h 45m,New Delhi,Bangalore,9:05,11:50,Non Stop,Free Meal,10575
+391,Vistara,01/10/2022,2h 45m,New Delhi,Bangalore,16:05,18:50,Non Stop,Free Meal,10575
+392,Vistara,01/10/2022,2h 50m,New Delhi,Bangalore,17:35,20:25,Non Stop,Free Meal,10575
+393,Vistara,01/10/2022,2h 50m,New Delhi,Bangalore,19:50,22:40,Non Stop,Free Meal,10575
+394,IndiGo,01/10/2022,6h 00m,New Delhi,Bangalore,17:55,23:55,1 Stop,No Meal,10624
+395,IndiGo,01/10/2022,6h 35m,New Delhi,Bangalore,23:30,6:05,1 Stop,No Meal,10624
+396,IndiGo,01/10/2022,8h 40m,New Delhi,Bangalore,17:55,2:35,1 Stop,No Meal,10624
+397,Air Asia,01/10/2022,6h 55m,New Delhi,Bangalore,6:05,13:00,1 Stop,No Meal,10631
+398,SpiceJet,01/10/2022,20h 25m,New Delhi,Bangalore,20:25,16:50,1 Stop,No Meal,10731
+399,SpiceJet,01/10/2022,23h 45m,New Delhi,Bangalore,17:05,16:50,1 Stop,No Meal,10731
+400,IndiGo,01/10/2022,2h 35m,New Delhi,Bangalore,13:00,15:35,Non Stop,No Meal,10732
+401,Air India,01/10/2022,3h 00m,New Delhi,Bangalore,17:15,20:15,Non Stop,Free Meal,11100
+402,Vistara,01/10/2022,2h 40m,New Delhi,Bangalore,8:10,10:50,Non Stop,Free Meal,11205
+403,Vistara,01/10/2022,2h 50m,New Delhi,Bangalore,14:15,17:05,Non Stop,Free Meal,11205
+404,Vistara,01/10/2022,4h 55m,New Delhi,Bangalore,14:20,19:15,1 Stop,Free Meal,11342
+405,IndiGo,01/10/2022,6h 10m,New Delhi,Bangalore,6:00,12:10,1 Stop,No Meal,11354
+406,Vistara,01/10/2022,13h 25m,New Delhi,Bangalore,21:20,10:45,2 Stop(s),Free Meal,11478
+407,Vistara,01/10/2022,21h 55m,New Delhi,Bangalore,21:20,19:15,2 Stop(s),Free Meal,11478
+408,Vistara,01/10/2022,21h 55m,New Delhi,Bangalore,21:20,19:15,2 Stop(s),Free Meal,11478
+409,IndiGo,01/10/2022,6h 30m,New Delhi,Bangalore,6:40,13:10,1 Stop,No Meal,11572
+410,IndiGo,01/10/2022,7h 20m,New Delhi,Bangalore,2:00,9:20,1 Stop,No Meal,11572
+411,IndiGo,01/10/2022,5h 15m,New Delhi,Bangalore,6:50,12:05,1 Stop,No Meal,11677
+412,IndiGo,01/10/2022,8h 00m,New Delhi,Bangalore,8:30,16:30,1 Stop,No Meal,11677
+413,Air Asia,01/10/2022,6h 25m,New Delhi,Bangalore,13:00,19:25,1 Stop,No Meal,11756
+414,IndiGo,01/10/2022,5h 15m,New Delhi,Bangalore,21:20,2:35,1 Stop,No Meal,11884
+415,IndiGo,01/10/2022,5h 15m,New Delhi,Bangalore,15:15,20:30,1 Stop,No Meal,11887
+416,Go First,01/10/2022,13h 05m,New Delhi,Bangalore,8:10,21:15,1 Stop,No Meal,11975
+417,Vistara,01/10/2022,6h 35m,New Delhi,Bangalore,14:20,20:55,1 Stop,Free Meal,12003
+418,Vistara,01/10/2022,15h 00m,New Delhi,Bangalore,5:55,20:55,1 Stop,Free Meal,12003
+419,Vistara,01/10/2022,18h 20m,New Delhi,Bangalore,14:10,8:30,1 Stop,Free Meal,12423
+420,Vistara,01/10/2022,9h 05m,New Delhi,Bangalore,10:25,19:30,1 Stop,Free Meal,12463
+421,Vistara,01/10/2022,22h 20m,New Delhi,Bangalore,10:25,8:45,1 Stop,Free Meal,12463
+422,IndiGo,01/10/2022,5h 15m,New Delhi,Bangalore,7:55,13:10,1 Stop,No Meal,12517
+423,Vistara,01/10/2022,8h 50m,New Delhi,Bangalore,14:20,23:10,1 Stop,Free Meal,12675
+424,IndiGo,01/10/2022,6h 35m,New Delhi,Bangalore,12:45,19:20,1 Stop,No Meal,12727
+425,Vistara,01/10/2022,25h 50m,New Delhi,Bangalore,21:20,23:10,2 Stop(s),Free Meal,12812
+426,Vistara,01/10/2022,25h 50m,New Delhi,Bangalore,21:20,23:10,2 Stop(s),Free Meal,12812
+427,IndiGo,01/10/2022,8h 35m,New Delhi,Bangalore,11:55,20:30,1 Stop,No Meal,12832
+428,Vistara,01/10/2022,5h 25m,New Delhi,Bangalore,15:30,20:55,1 Stop,Free Meal,12875
+429,Vistara,01/10/2022,12h 10m,New Delhi,Bangalore,7:20,19:30,1 Stop,Free Meal,12990
+430,Vistara,01/10/2022,15h 10m,New Delhi,Bangalore,17:35,8:45,1 Stop,Free Meal,12990
+431,Vistara,01/10/2022,25h 25m,New Delhi,Bangalore,7:20,8:45,1 Stop,Free Meal,12990
+432,Vistara,01/10/2022,25h 55m,New Delhi,Bangalore,17:35,19:30,1 Stop,Free Meal,12990
+433,IndiGo,01/10/2022,5h 10m,New Delhi,Bangalore,12:45,17:55,1 Stop,No Meal,13042
+434,IndiGo,01/10/2022,8h 00m,New Delhi,Bangalore,9:55,17:55,1 Stop,No Meal,13042
+435,Vistara,01/10/2022,7h 35m,New Delhi,Bangalore,11:40,19:15,1 Stop,Free Meal,13085
+436,Vistara,01/10/2022,4h 50m,New Delhi,Bangalore,5:55,10:45,1 Stop,Free Meal,13200
+437,IndiGo,01/10/2022,5h 35m,New Delhi,Bangalore,18:05,23:40,1 Stop,No Meal,13252
+438,IndiGo,01/10/2022,7h 10m,New Delhi,Bangalore,18:05,1:15,1 Stop,No Meal,13252
+439,Air Asia,01/10/2022,5h 30m,New Delhi,Bangalore,15:30,21:00,1 Stop,No Meal,13256
+440,Vistara,01/10/2022,11h 40m,New Delhi,Bangalore,20:50,8:30,1 Stop,Free Meal,13303
+441,Vistara,01/10/2022,20h 25m,New Delhi,Bangalore,21:20,17:45,2 Stop(s),Free Meal,13337
+442,Vistara,01/10/2022,20h 25m,New Delhi,Bangalore,21:20,17:45,2 Stop(s),Free Meal,13337
+443,Vistara,01/10/2022,23h 35m,New Delhi,Bangalore,21:20,20:55,2 Stop(s),Free Meal,13337
+444,Vistara,01/10/2022,23h 35m,New Delhi,Bangalore,21:20,20:55,2 Stop(s),Free Meal,13337
+445,Vistara,01/10/2022,5h 25m,New Delhi,Bangalore,17:45,23:10,1 Stop,Free Meal,13547
+446,Vistara,01/10/2022,6h 15m,New Delhi,Bangalore,16:55,23:10,1 Stop,Free Meal,13547
+447,Vistara,01/10/2022,7h 40m,New Delhi,Bangalore,15:30,23:10,1 Stop,Free Meal,13547
+448,Vistara,01/10/2022,6h 20m,New Delhi,Bangalore,14:10,20:30,1 Stop,Free Meal,13746
+449,Vistara,01/10/2022,6h 30m,New Delhi,Bangalore,12:45,19:15,1 Stop,Free Meal,13964
+450,SpiceJet,01/10/2022,23h 45m,New Delhi,Bangalore,14:50,14:35,1 Stop,No Meal,14143
+451,IndiGo,01/10/2022,5h 55m,New Delhi,Bangalore,13:25,19:20,1 Stop,No Meal,14302
+452,IndiGo,01/10/2022,8h 10m,New Delhi,Bangalore,13:25,21:35,1 Stop,No Meal,14302
+453,Vistara,01/10/2022,14h 45m,New Delhi,Bangalore,17:45,8:30,1 Stop,Free Meal,14355
+454,Vistara,01/10/2022,6h 05m,New Delhi,Bangalore,11:40,17:45,1 Stop,Free Meal,14418
+455,Vistara,01/10/2022,8h 15m,New Delhi,Bangalore,9:30,17:45,1 Stop,Free Meal,14418
+456,Vistara,01/10/2022,8h 55m,New Delhi,Bangalore,8:50,17:45,1 Stop,Free Meal,14418
+457,IndiGo,01/10/2022,4h 30m,New Delhi,Bangalore,13:25,17:55,1 Stop,No Meal,14617
+458,IndiGo,01/10/2022,4h 50m,New Delhi,Bangalore,17:50,22:40,1 Stop,No Meal,14617
+459,Vistara,01/10/2022,8h 10m,New Delhi,Bangalore,12:45,20:55,1 Stop,Free Meal,14626
+460,SpiceJet,01/10/2022,11h 05m,New Delhi,Bangalore,10:40,21:45,1 Stop,No Meal,14670
+461,Vistara,01/10/2022,4h 45m,New Delhi,Bangalore,14:45,19:30,1 Stop,Free Meal,14775
+462,Vistara,01/10/2022,12h 10m,New Delhi,Bangalore,20:35,8:45,1 Stop,Free Meal,14775
+463,Vistara,01/10/2022,18h 00m,New Delhi,Bangalore,14:45,8:45,1 Stop,Free Meal,14775
+464,Vistara,01/10/2022,22h 55m,New Delhi,Bangalore,20:35,19:30,1 Stop,Free Meal,14775
+465,Vistara,01/10/2022,25h 05m,New Delhi,Bangalore,17:10,18:15,1 Stop,Free Meal,14807
+466,SpiceJet,01/10/2022,17h 05m,New Delhi,Bangalore,6:15,23:20,1 Stop,No Meal,15055
+467,Vistara,01/10/2022,12h 30m,New Delhi,Bangalore,8:00,20:30,1 Stop,Free Meal,15153
+468,Go First,01/10/2022,7h 55m,New Delhi,Bangalore,14:30,22:25,1 Stop,No Meal,15161
+469,Go First,01/10/2022,9h 05m,New Delhi,Bangalore,8:00,17:05,1 Stop,No Meal,15161
+470,Go First,01/10/2022,10h 00m,New Delhi,Bangalore,14:30,0:30,1 Stop,No Meal,15161
+471,Go First,01/10/2022,11h 05m,New Delhi,Bangalore,6:00,17:05,1 Stop,No Meal,15161
+472,Vistara,01/10/2022,5h 00m,New Delhi,Bangalore,12:45,17:45,1 Stop,Free Meal,15298
+473,Vistara,01/10/2022,7h 25m,New Delhi,Bangalore,10:20,17:45,1 Stop,Free Meal,15298
+474,Air Asia,01/10/2022,6h 30m,New Delhi,Bangalore,20:00,2:30,1 Stop,No Meal,15429
+475,Air India,01/10/2022,8h 35m,New Delhi,Bangalore,9:45,18:20,2 Stop(s),Free Meal,18640
+476,SpiceJet,01/10/2022,10h 15m,New Delhi,Bangalore,21:20,7:35,1 Stop,No Meal,18867
+477,Air India,01/10/2022,7h 25m,New Delhi,Bangalore,13:15,20:40,2 Stop(s),Free Meal,19060
+478,SpiceJet,01/10/2022,11h 25m,New Delhi,Bangalore,20:10,7:35,1 Stop,No Meal,19500
+479,Air India,01/10/2022,8h 05m,New Delhi,Bangalore,10:15,18:20,2 Stop(s),Free Meal,19700
+480,Air India,01/10/2022,10h 25m,New Delhi,Bangalore,10:15,20:40,2 Stop(s),Free Meal,19700
+481,Go First,01/10/2022,4h 20m,New Delhi,Bangalore,10:40,15:00,1 Stop,No Meal,20183
+482,IndiGo,01/10/2022,2h 40m,New Delhi,Bangalore,17:15,19:55,Non Stop,No Meal,20234
+483,SpiceJet,01/10/2022,12h 45m,New Delhi,Bangalore,18:50,7:35,1 Stop,No Meal,20234
+484,Vistara,01/10/2022,21h 15m,New Delhi,Bangalore,18:40,15:55,1 Stop,Free Meal,20340
+485,SpiceJet,01/10/2022,24h 35m,New Delhi,Bangalore,7:00,7:35,1 Stop,No Meal,21074
+486,Air Asia,01/10/2022,6h 15m,New Delhi,Bangalore,8:00,14:15,1 Stop,No Meal,22602
+487,Air Asia,01/10/2022,7h 30m,New Delhi,Bangalore,10:00,17:30,1 Stop,No Meal,22602
+488,Air Asia,01/10/2022,7h 40m,New Delhi,Bangalore,6:35,14:15,1 Stop,No Meal,22602
+489,SpiceJet,01/10/2022,26h 05m,New Delhi,Bangalore,13:05,15:10,1 Stop,No Meal,25063
+490,Air Asia,01/10/2022,7h 45m,New Delhi,Bangalore,17:05,0:50,1 Stop,No Meal,25458
+491,Vistara,01/10/2022,4h 45m,New Delhi,Bangalore,11:10,15:55,1 Stop,Free Meal,27480
+492,SpiceJet,01/10/2022,24h 40m,New Delhi,Bangalore,11:30,12:10,1 Stop,No Meal,27655
+493,SpiceJet,01/10/2022,7h 30m,New Delhi,Bangalore,7:40,15:10,1 Stop,No Meal,29999
+494,SpiceJet,01/10/2022,8h 40m,New Delhi,Bangalore,6:30,15:10,1 Stop,No Meal,29999
+495,Air Asia,01/10/2022,5h 45m,New Delhi,Bangalore,10:40,16:25,1 Stop,No Meal,30130
+496,SpiceJet,02/10/2022,2h 50m,New Delhi,Bangalore,6:05,8:55,Non Stop,No Meal,7419
+497,IndiGo,02/10/2022,2h 35m,New Delhi,Bangalore,6:00,8:35,Non Stop,No Meal,7424
+498,IndiGo,02/10/2022,2h 40m,New Delhi,Bangalore,8:20,11:00,Non Stop,No Meal,7424
+499,IndiGo,02/10/2022,2h 45m,New Delhi,Bangalore,21:30,0:15,Non Stop,No Meal,7424
+500,IndiGo,02/10/2022,2h 50m,New Delhi,Bangalore,2:25,5:15,Non Stop,No Meal,7424
+501,IndiGo,02/10/2022,2h 50m,New Delhi,Bangalore,3:50,6:40,Non Stop,No Meal,7424
+502,IndiGo,02/10/2022,2h 50m,New Delhi,Bangalore,20:10,23:00,Non Stop,No Meal,7424
+503,IndiGo,02/10/2022,2h 50m,New Delhi,Bangalore,22:55,1:45,Non Stop,No Meal,7424
+504,IndiGo,02/10/2022,2h 55m,New Delhi,Bangalore,6:55,9:50,Non Stop,No Meal,7424
+505,Air Asia,02/10/2022,2h 30m,New Delhi,Bangalore,8:10,10:40,Non Stop,No Meal,7425
+506,Air Asia,02/10/2022,2h 40m,New Delhi,Bangalore,16:05,18:45,Non Stop,No Meal,7425
+507,Air India,02/10/2022,2h 45m,New Delhi,Bangalore,6:10,8:55,Non Stop,Free Meal,7425
+508,Air Asia,02/10/2022,2h 45m,New Delhi,Bangalore,21:50,0:35,Non Stop,No Meal,7425
+509,Air Asia,02/10/2022,2h 50m,New Delhi,Bangalore,9:35,12:25,Non Stop,No Meal,7425
+510,Air Asia,02/10/2022,2h 50m,New Delhi,Bangalore,21:00,23:50,Non Stop,No Meal,7425
+511,Air India,02/10/2022,2h 50m,New Delhi,Bangalore,21:15,0:05,Non Stop,Free Meal,7425
+512,Air Asia,02/10/2022,2h 55m,New Delhi,Bangalore,18:45,21:40,Non Stop,No Meal,7425
+513,Go First,02/10/2022,2h 45m,New Delhi,Bangalore,5:50,8:35,Non Stop,No Meal,7623
+514,Go First,02/10/2022,2h 45m,New Delhi,Bangalore,20:45,23:30,Non Stop,No Meal,7623
+515,Air India,02/10/2022,2h 30m,New Delhi,Bangalore,8:00,10:30,Non Stop,Free Meal,7635
+516,Air India,02/10/2022,2h 45m,New Delhi,Bangalore,9:45,12:30,Non Stop,Free Meal,7635
+517,IndiGo,02/10/2022,2h 40m,New Delhi,Bangalore,9:15,11:55,Non Stop,No Meal,7687
+518,Air India,02/10/2022,19h 50m,New Delhi,Bangalore,22:30,18:20,1 Stop,Free Meal,8298
+519,Air India,02/10/2022,21h 05m,New Delhi,Bangalore,21:15,18:20,1 Stop,Free Meal,8298
+520,Air India,02/10/2022,22h 10m,New Delhi,Bangalore,22:30,20:40,1 Stop,Free Meal,8298
+521,Air India,02/10/2022,23h 25m,New Delhi,Bangalore,21:15,20:40,1 Stop,Free Meal,8298
+522,Air India,02/10/2022,22h 20m,New Delhi,Bangalore,20:00,18:20,1 Stop,Free Meal,8508
+523,Air India,02/10/2022,23h 20m,New Delhi,Bangalore,19:00,18:20,1 Stop,Free Meal,8508
+524,Air India,02/10/2022,24h 25m,New Delhi,Bangalore,17:55,18:20,1 Stop,Free Meal,8508
+525,Air India,02/10/2022,24h 40m,New Delhi,Bangalore,20:00,20:40,1 Stop,Free Meal,8508
+526,Air India,02/10/2022,25h 40m,New Delhi,Bangalore,19:00,20:40,1 Stop,Free Meal,8508
+527,Air India,02/10/2022,26h 45m,New Delhi,Bangalore,17:55,20:40,1 Stop,Free Meal,8508
+528,SpiceJet,02/10/2022,2h 30m,New Delhi,Bangalore,20:00,22:30,Non Stop,No Meal,8579
+529,IndiGo,02/10/2022,6h 25m,New Delhi,Bangalore,15:20,21:45,1 Stop,No Meal,8587
+530,IndiGo,02/10/2022,2h 45m,New Delhi,Bangalore,11:30,14:15,Non Stop,No Meal,8632
+531,IndiGo,02/10/2022,5h 00m,New Delhi,Bangalore,16:45,21:45,1 Stop,No Meal,8797
+532,Air India,02/10/2022,12h 40m,New Delhi,Bangalore,22:30,11:10,1 Stop,Free Meal,8823
+533,Air India,02/10/2022,13h 55m,New Delhi,Bangalore,21:15,11:10,1 Stop,Free Meal,8823
+534,IndiGo,02/10/2022,2h 35m,New Delhi,Bangalore,13:00,15:35,Non Stop,No Meal,8947
+535,Air India,02/10/2022,15h 10m,New Delhi,Bangalore,20:00,11:10,1 Stop,Free Meal,9033
+536,Air India,02/10/2022,16h 10m,New Delhi,Bangalore,19:00,11:10,1 Stop,Free Meal,9033
+537,Air India,02/10/2022,17h 15m,New Delhi,Bangalore,17:55,11:10,1 Stop,Free Meal,9033
+538,IndiGo,02/10/2022,5h 00m,New Delhi,Bangalore,5:15,10:15,1 Stop,No Meal,9122
+539,IndiGo,02/10/2022,6h 45m,New Delhi,Bangalore,11:15,18:00,1 Stop,No Meal,9206
+540,Go First,02/10/2022,7h 30m,New Delhi,Bangalore,16:10,23:40,1 Stop,No Meal,9418
+541,Go First,02/10/2022,11h 05m,New Delhi,Bangalore,6:00,17:05,1 Stop,No Meal,9418
+542,Air India,02/10/2022,2h 45m,New Delhi,Bangalore,13:30,16:15,Non Stop,Free Meal,9630
+543,Air India,02/10/2022,2h 50m,New Delhi,Bangalore,15:30,18:20,Non Stop,Free Meal,9630
+544,Air India,02/10/2022,3h 00m,New Delhi,Bangalore,17:15,20:15,Non Stop,Free Meal,9630
+545,IndiGo,02/10/2022,2h 45m,New Delhi,Bangalore,18:30,21:15,Non Stop,No Meal,9787
+546,IndiGo,02/10/2022,5h 15m,New Delhi,Bangalore,7:55,13:10,1 Stop,No Meal,9787
+547,IndiGo,02/10/2022,6h 25m,New Delhi,Bangalore,1:50,8:15,1 Stop,No Meal,9787
+548,IndiGo,02/10/2022,6h 30m,New Delhi,Bangalore,6:40,13:10,1 Stop,No Meal,9787
+549,IndiGo,02/10/2022,7h 15m,New Delhi,Bangalore,13:25,20:40,1 Stop,No Meal,9787
+550,IndiGo,02/10/2022,7h 40m,New Delhi,Bangalore,1:50,9:30,1 Stop,No Meal,9787
+551,Vistara,02/10/2022,2h 40m,New Delhi,Bangalore,8:10,10:50,Non Stop,Free Meal,9945
+552,Vistara,02/10/2022,2h 40m,New Delhi,Bangalore,20:40,23:20,Non Stop,Free Meal,9945
+553,Vistara,02/10/2022,2h 45m,New Delhi,Bangalore,9:05,11:50,Non Stop,Free Meal,9945
+554,Vistara,02/10/2022,2h 50m,New Delhi,Bangalore,19:50,22:40,Non Stop,Free Meal,9945
+555,IndiGo,02/10/2022,5h 45m,New Delhi,Bangalore,19:30,1:15,1 Stop,No Meal,9997
+556,SpiceJet,02/10/2022,23h 45m,New Delhi,Bangalore,17:05,16:50,1 Stop,No Meal,10152
+557,IndiGo,02/10/2022,5h 35m,New Delhi,Bangalore,18:05,23:40,1 Stop,No Meal,10207
+558,IndiGo,02/10/2022,7h 10m,New Delhi,Bangalore,18:05,1:15,1 Stop,No Meal,10207
+559,IndiGo,02/10/2022,4h 30m,New Delhi,Bangalore,13:25,17:55,1 Stop,No Meal,10259
+560,Air Asia,02/10/2022,4h 50m,New Delhi,Bangalore,7:20,12:10,1 Stop,No Meal,10273
+561,IndiGo,02/10/2022,4h 20m,New Delhi,Bangalore,8:30,12:50,1 Stop,No Meal,10417
+562,SpiceJet,02/10/2022,7h 25m,New Delhi,Bangalore,9:25,16:50,1 Stop,No Meal,10571
+563,IndiGo,02/10/2022,6h 00m,New Delhi,Bangalore,17:55,23:55,1 Stop,No Meal,10624
+564,IndiGo,02/10/2022,6h 35m,New Delhi,Bangalore,23:30,6:05,1 Stop,No Meal,10624
+565,IndiGo,02/10/2022,7h 20m,New Delhi,Bangalore,2:00,9:20,1 Stop,No Meal,10624
+566,Air Asia,02/10/2022,5h 30m,New Delhi,Bangalore,15:30,21:00,1 Stop,No Meal,10631
+567,Air Asia,02/10/2022,6h 55m,New Delhi,Bangalore,6:05,13:00,1 Stop,No Meal,10631
+568,Vistara,02/10/2022,9h 05m,New Delhi,Bangalore,10:25,19:30,1 Stop,Free Meal,10712
+569,Vistara,02/10/2022,12h 10m,New Delhi,Bangalore,7:20,19:30,1 Stop,Free Meal,10712
+570,IndiGo,02/10/2022,5h 15m,New Delhi,Bangalore,21:20,2:35,1 Stop,No Meal,10729
+571,Vistara,02/10/2022,11h 30m,New Delhi,Bangalore,21:20,8:50,2 Stop(s),Free Meal,10817
+572,Vistara,02/10/2022,14h 40m,New Delhi,Bangalore,18:10,8:50,2 Stop(s),Free Meal,10817
+573,IndiGo,02/10/2022,7h 05m,New Delhi,Bangalore,13:35,20:40,1 Stop,No Meal,10834
+574,IndiGo,02/10/2022,5h 40m,New Delhi,Bangalore,15:00,20:40,1 Stop,No Meal,10837
+575,IndiGo,02/10/2022,6h 35m,New Delhi,Bangalore,15:00,21:35,1 Stop,No Meal,10837
+576,IndiGo,02/10/2022,5h 30m,New Delhi,Bangalore,7:20,12:50,1 Stop,No Meal,11047
+577,Go First,02/10/2022,5h 50m,New Delhi,Bangalore,18:30,0:20,1 Stop,No Meal,11175
+578,Vistara,02/10/2022,2h 45m,New Delhi,Bangalore,16:05,18:50,Non Stop,Free Meal,11205
+579,Vistara,02/10/2022,2h 50m,New Delhi,Bangalore,14:15,17:05,Non Stop,Free Meal,11205
+580,Vistara,02/10/2022,2h 50m,New Delhi,Bangalore,17:35,20:25,Non Stop,Free Meal,11205
+581,IndiGo,02/10/2022,5h 15m,New Delhi,Bangalore,15:15,20:30,1 Stop,No Meal,11257
+582,Vistara,02/10/2022,7h 35m,New Delhi,Bangalore,11:40,19:15,1 Stop,Free Meal,11342
+583,IndiGo,02/10/2022,2h 40m,New Delhi,Bangalore,17:15,19:55,Non Stop,No Meal,11410
+584,Go First,02/10/2022,7h 35m,New Delhi,Bangalore,16:45,0:20,1 Stop,No Meal,11475
+585,Vistara,02/10/2022,13h 25m,New Delhi,Bangalore,21:20,10:45,2 Stop(s),Free Meal,11478
+586,Vistara,02/10/2022,16h 35m,New Delhi,Bangalore,18:10,10:45,2 Stop(s),Free Meal,11478
+587,Vistara,02/10/2022,20h 25m,New Delhi,Bangalore,21:20,17:45,2 Stop(s),Free Meal,11478
+588,Vistara,02/10/2022,20h 25m,New Delhi,Bangalore,21:20,17:45,2 Stop(s),Free Meal,11478
+589,Vistara,02/10/2022,21h 55m,New Delhi,Bangalore,21:20,19:15,2 Stop(s),Free Meal,11478
+590,Vistara,02/10/2022,21h 55m,New Delhi,Bangalore,21:20,19:15,2 Stop(s),Free Meal,11478
+591,Vistara,02/10/2022,23h 35m,New Delhi,Bangalore,18:10,17:45,2 Stop(s),Free Meal,11478
+592,Vistara,02/10/2022,23h 35m,New Delhi,Bangalore,18:10,17:45,2 Stop(s),Free Meal,11478
+593,Vistara,02/10/2022,23h 35m,New Delhi,Bangalore,21:20,20:55,2 Stop(s),Free Meal,11478
+594,Vistara,02/10/2022,23h 35m,New Delhi,Bangalore,21:20,20:55,2 Stop(s),Free Meal,11478
+595,Vistara,02/10/2022,11h 40m,New Delhi,Bangalore,20:50,8:30,1 Stop,Free Meal,11552
+596,Vistara,02/10/2022,14h 40m,New Delhi,Bangalore,18:10,8:50,2 Stop(s),Free Meal,11688
+597,Air Asia,02/10/2022,6h 25m,New Delhi,Bangalore,13:00,19:25,1 Stop,No Meal,11756
+598,Go First,02/10/2022,11h 40m,New Delhi,Bangalore,9:35,21:15,1 Stop,No Meal,11975
+599,IndiGo,02/10/2022,7h 00m,New Delhi,Bangalore,8:30,15:30,1 Stop,No Meal,11992
+600,Vistara,02/10/2022,16h 35m,New Delhi,Bangalore,18:10,10:45,2 Stop(s),Free Meal,12077
+601,Vistara,02/10/2022,23h 35m,New Delhi,Bangalore,18:10,17:45,2 Stop(s),Free Meal,12077
+602,IndiGo,02/10/2022,5h 15m,New Delhi,Bangalore,6:50,12:05,1 Stop,No Meal,12202
+603,Vistara,02/10/2022,4h 55m,New Delhi,Bangalore,14:20,19:15,1 Stop,Free Meal,12213
+604,Vistara,02/10/2022,6h 30m,New Delhi,Bangalore,12:45,19:15,1 Stop,Free Meal,12213
+605,SpiceJet,02/10/2022,11h 05m,New Delhi,Bangalore,10:40,21:45,1 Stop,No Meal,12360
+606,Vistara,02/10/2022,6h 20m,New Delhi,Bangalore,14:10,20:30,1 Stop,Free Meal,12423
+607,Vistara,02/10/2022,11h 50m,New Delhi,Bangalore,8:40,20:30,1 Stop,Free Meal,12423
+608,Vistara,02/10/2022,14h 45m,New Delhi,Bangalore,17:45,8:30,1 Stop,Free Meal,12423
+609,Vistara,02/10/2022,18h 20m,New Delhi,Bangalore,14:10,8:30,1 Stop,Free Meal,12423
+610,Vistara,02/10/2022,4h 45m,New Delhi,Bangalore,14:45,19:30,1 Stop,Free Meal,12463
+611,Vistara,02/10/2022,12h 10m,New Delhi,Bangalore,20:35,8:45,1 Stop,Free Meal,12463
+612,SpiceJet,02/10/2022,23h 45m,New Delhi,Bangalore,14:50,14:35,1 Stop,No Meal,12673
+613,IndiGo,02/10/2022,6h 10m,New Delhi,Bangalore,6:00,12:10,1 Stop,No Meal,12694
+614,IndiGo,02/10/2022,7h 55m,New Delhi,Bangalore,12:45,20:40,1 Stop,No Meal,12727
+615,IndiGo,02/10/2022,5h 10m,New Delhi,Bangalore,12:45,17:55,1 Stop,No Meal,13199
+616,IndiGo,02/10/2022,8h 00m,New Delhi,Bangalore,9:55,17:55,1 Stop,No Meal,13199
+617,Vistara,02/10/2022,6h 05m,New Delhi,Bangalore,11:40,17:45,1 Stop,Free Meal,13200
+618,Vistara,02/10/2022,7h 25m,New Delhi,Bangalore,10:20,17:45,1 Stop,Free Meal,13200
+619,Vistara,02/10/2022,8h 55m,New Delhi,Bangalore,8:50,17:45,1 Stop,Free Meal,13200
+620,IndiGo,02/10/2022,7h 40m,New Delhi,Bangalore,10:15,17:55,1 Stop,No Meal,13462
+621,Vistara,02/10/2022,15h 10m,New Delhi,Bangalore,17:35,8:45,1 Stop,Free Meal,13515
+622,Vistara,02/10/2022,8h 50m,New Delhi,Bangalore,14:20,23:10,1 Stop,Free Meal,13547
+623,Vistara,02/10/2022,5h 00m,New Delhi,Bangalore,12:45,17:45,1 Stop,Free Meal,14072
+624,Vistara,02/10/2022,6h 35m,New Delhi,Bangalore,14:20,20:55,1 Stop,Free Meal,14072
+625,Vistara,02/10/2022,8h 10m,New Delhi,Bangalore,12:45,20:55,1 Stop,Free Meal,14072
+626,Vistara,02/10/2022,8h 15m,New Delhi,Bangalore,9:30,17:45,1 Stop,Free Meal,14072
+627,Vistara,02/10/2022,25h 05m,New Delhi,Bangalore,17:10,18:15,1 Stop,Free Meal,14143
+628,Air Asia,02/10/2022,6h 30m,New Delhi,Bangalore,20:00,2:30,1 Stop,No Meal,14379
+629,Vistara,02/10/2022,5h 25m,New Delhi,Bangalore,17:45,23:10,1 Stop,Free Meal,14418
+630,Vistara,02/10/2022,6h 15m,New Delhi,Bangalore,16:55,23:10,1 Stop,Free Meal,14418
+631,SpiceJet,02/10/2022,10h 15m,New Delhi,Bangalore,21:20,7:35,1 Stop,No Meal,14774
+632,SpiceJet,02/10/2022,11h 25m,New Delhi,Bangalore,20:10,7:35,1 Stop,No Meal,14774
+633,Go First,02/10/2022,6h 10m,New Delhi,Bangalore,18:20,0:30,1 Stop,No Meal,15161
+634,Go First,02/10/2022,7h 55m,New Delhi,Bangalore,14:30,22:25,1 Stop,No Meal,15161
+635,Go First,02/10/2022,9h 00m,New Delhi,Bangalore,22:45,7:45,1 Stop,No Meal,15161
+636,Go First,02/10/2022,9h 05m,New Delhi,Bangalore,8:00,17:05,1 Stop,No Meal,15161
+637,Go First,02/10/2022,9h 25m,New Delhi,Bangalore,13:00,22:25,1 Stop,No Meal,15161
+638,Go First,02/10/2022,10h 00m,New Delhi,Bangalore,14:30,0:30,1 Stop,No Meal,15161
+639,Go First,02/10/2022,10h 55m,New Delhi,Bangalore,20:50,7:45,1 Stop,No Meal,15161
+640,Go First,02/10/2022,11h 30m,New Delhi,Bangalore,13:00,0:30,1 Stop,No Meal,15161
+641,Go First,02/10/2022,13h 25m,New Delhi,Bangalore,18:20,7:45,1 Stop,No Meal,15161
+642,Go First,02/10/2022,6h 10m,New Delhi,Bangalore,8:50,15:00,1 Stop,No Meal,15277
+643,SpiceJet,02/10/2022,12h 45m,New Delhi,Bangalore,18:50,7:35,1 Stop,No Meal,15614
+644,Vistara,02/10/2022,7h 40m,New Delhi,Bangalore,15:30,23:10,1 Stop,Free Meal,15825
+645,Vistara,02/10/2022,5h 25m,New Delhi,Bangalore,15:30,20:55,1 Stop,Free Meal,16350
+646,SpiceJet,02/10/2022,17h 05m,New Delhi,Bangalore,6:15,23:20,1 Stop,No Meal,16559
+647,SpiceJet,02/10/2022,7h 25m,New Delhi,Bangalore,15:10,22:35,1 Stop,No Meal,16560
+648,SpiceJet,02/10/2022,24h 35m,New Delhi,Bangalore,7:00,7:35,1 Stop,No Meal,17294
+649,SpiceJet,02/10/2022,24h 40m,New Delhi,Bangalore,11:30,12:10,1 Stop,No Meal,17379
+650,Air Asia,02/10/2022,6h 15m,New Delhi,Bangalore,8:00,14:15,1 Stop,No Meal,18192
+651,Air India,02/10/2022,8h 35m,New Delhi,Bangalore,9:45,18:20,2 Stop(s),Free Meal,18588
+652,Air India,02/10/2022,8h 05m,New Delhi,Bangalore,10:15,18:20,2 Stop(s),Free Meal,19227
+653,Air India,02/10/2022,10h 25m,New Delhi,Bangalore,10:15,20:40,2 Stop(s),Free Meal,19227
+654,SpiceJet,02/10/2022,10h 30m,New Delhi,Bangalore,12:05,22:35,1 Stop,No Meal,20130
+655,Go First,02/10/2022,4h 20m,New Delhi,Bangalore,10:40,15:00,1 Stop,No Meal,20183
+656,Air Asia,02/10/2022,7h 45m,New Delhi,Bangalore,17:05,0:50,1 Stop,No Meal,20680
+657,Air Asia,02/10/2022,7h 30m,New Delhi,Bangalore,10:00,17:30,1 Stop,No Meal,21236
+658,Vistara,02/10/2022,4h 45m,New Delhi,Bangalore,11:10,15:55,1 Stop,Free Meal,22335
+659,Vistara,02/10/2022,8h 45m,New Delhi,Bangalore,7:10,15:55,1 Stop,Free Meal,22335
+660,SpiceJet,02/10/2022,7h 30m,New Delhi,Bangalore,7:40,15:10,1 Stop,No Meal,25063
+661,SpiceJet,02/10/2022,8h 40m,New Delhi,Bangalore,6:30,15:10,1 Stop,No Meal,25063
+662,Air India,02/10/2022,7h 25m,New Delhi,Bangalore,13:15,20:40,2 Stop(s),Free Meal,25623
+663,Air Asia,02/10/2022,5h 45m,New Delhi,Bangalore,10:40,16:25,1 Stop,No Meal,26560
+664,SpiceJet,02/10/2022,26h 05m,New Delhi,Bangalore,13:05,15:10,1 Stop,No Meal,29579
+665,IndiGo,29/09/2022,6h 25m,Pune,Indore,14:00,20:25,1 Stop,No Meal,5159
+666,IndiGo,29/09/2022,7h 30m,Pune,Indore,0:05,7:35,1 Stop,No Meal,5159
+667,IndiGo,29/09/2022,8h 30m,Pune,Indore,22:40,7:10,1 Stop,No Meal,5159
+668,IndiGo,29/09/2022,1h 00m,Pune,Indore,15:50,16:50,Non Stop,No Meal,6847
+669,Vistara,29/09/2022,14h 30m,Pune,Indore,16:55,7:25,1 Stop,Free Meal,6976
+670,Vistara,29/09/2022,25h 55m,Pune,Indore,5:30,7:25,1 Stop,Free Meal,6976
+671,IndiGo,29/09/2022,9h 15m,Pune,Indore,6:25,15:40,1 Stop,No Meal,7176
+672,Vistara,29/09/2022,8h 05m,Pune,Indore,11:15,19:20,1 Stop,Free Meal,7896
+673,Vistara,29/09/2022,10h 50m,Pune,Indore,20:35,7:25,1 Stop,Free Meal,7896
+674,Vistara,29/09/2022,13h 50m,Pune,Indore,5:30,19:20,1 Stop,Free Meal,7896
+675,Vistara,29/09/2022,20h 10m,Pune,Indore,11:15,7:25,1 Stop,Free Meal,7896
+676,Air India,29/09/2022,8h 30m,Pune,Indore,7:30,16:00,1 Stop,Free Meal,10983
+677,Vistara,29/09/2022,22h 45m,Pune,Indore,20:35,19:20,1 Stop,Free Meal,11008
+678,Vistara,29/09/2022,26h 25m,Pune,Indore,16:55,19:20,1 Stop,Free Meal,11008
+679,Air India,29/09/2022,18h 05m,Pune,Indore,21:55,16:00,1 Stop,Free Meal,12138
+680,Air India,29/09/2022,21h 10m,Pune,Indore,18:50,16:00,1 Stop,Free Meal,12138
+681,Air India,29/09/2022,24h 05m,Pune,Indore,15:55,16:00,1 Stop,Free Meal,12138
+682,Vistara,29/09/2022,12h 00m,Pune,Indore,6:55,18:55,1 Stop,Free Meal,12726
+683,Air India,29/09/2022,27h 20m,Pune,Indore,12:40,16:00,2 Stop(s),Free Meal,14763
+684,Air India,29/09/2022,13h 50m,Pune,Indore,18:50,8:40,2 Stop(s),Free Meal,18858
+685,Air India,29/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,18858
+686,Air India,29/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,18858
+687,Air India,29/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,18858
+688,Vistara,29/09/2022,24h 00m,Pune,Indore,18:55,18:55,1 Stop,Free Meal,19488
+689,Vistara,29/09/2022,13h 25m,Pune,Indore,5:30,18:55,2 Stop(s),Free Meal,20134
+690,Vistara,29/09/2022,12h 30m,Pune,Indore,18:55,7:25,2 Stop(s),Free Meal,21693
+691,Vistara,29/09/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,22355
+692,Vistara,29/09/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,23405
+693,Vistara,29/09/2022,22h 20m,Pune,Indore,20:35,18:55,2 Stop(s),Free Meal,26896
+694,Vistara,29/09/2022,26h 00m,Pune,Indore,16:55,18:55,2 Stop(s),Free Meal,26896
+695,Vistara,29/09/2022,22h 20m,Pune,Indore,20:35,18:55,2 Stop(s),Free Meal,27634
+696,Vistara,29/09/2022,22h 20m,Pune,Indore,20:35,18:55,2 Stop(s),Free Meal,27634
+697,Vistara,29/09/2022,26h 00m,Pune,Indore,16:55,18:55,2 Stop(s),Free Meal,27634
+698,IndiGo,30/09/2022,1h 00m,Pune,Indore,15:50,16:50,Non Stop,No Meal,6847
+699,Vistara,30/09/2022,20h 10m,Pune,Indore,11:15,7:25,1 Stop,Free Meal,7896
+700,Vistara,30/09/2022,25h 55m,Pune,Indore,5:30,7:25,1 Stop,Free Meal,7896
+701,IndiGo,30/09/2022,8h 30m,Pune,Indore,22:40,7:10,1 Stop,No Meal,8475
+702,Vistara,30/09/2022,14h 30m,Pune,Indore,16:55,7:25,1 Stop,Free Meal,8816
+703,IndiGo,30/09/2022,6h 25m,Pune,Indore,14:00,20:25,1 Stop,No Meal,9168
+704,IndiGo,30/09/2022,9h 15m,Pune,Indore,6:25,15:40,1 Stop,No Meal,9168
+705,IndiGo,30/09/2022,7h 30m,Pune,Indore,0:05,7:35,1 Stop,No Meal,9930
+706,Vistara,30/09/2022,26h 25m,Pune,Indore,16:55,19:20,1 Stop,Free Meal,10378
+707,Vistara,30/09/2022,8h 05m,Pune,Indore,11:15,19:20,1 Stop,Free Meal,11008
+708,Vistara,30/09/2022,13h 50m,Pune,Indore,5:30,19:20,1 Stop,Free Meal,11008
+709,Air India,30/09/2022,18h 05m,Pune,Indore,21:55,16:00,1 Stop,Free Meal,11193
+710,Air India,30/09/2022,24h 05m,Pune,Indore,15:55,16:00,1 Stop,Free Meal,11193
+711,Air India,30/09/2022,8h 30m,Pune,Indore,7:30,16:00,1 Stop,Free Meal,12138
+712,Air India,30/09/2022,27h 20m,Pune,Indore,12:40,16:00,2 Stop(s),Free Meal,13818
+713,Air India,30/09/2022,21h 10m,Pune,Indore,18:50,16:00,1 Stop,Free Meal,15288
+714,Vistara,30/09/2022,10h 50m,Pune,Indore,20:35,7:25,1 Stop,Free Meal,15845
+715,Vistara,30/09/2022,22h 45m,Pune,Indore,20:35,19:20,1 Stop,Free Meal,17703
+716,Air India,30/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,19068
+717,Air India,30/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,19278
+718,Vistara,30/09/2022,12h 00m,Pune,Indore,6:55,18:55,1 Stop,Free Meal,19488
+719,Air India,30/09/2022,16h 45m,Pune,Indore,15:55,8:40,2 Stop(s),Free Meal,19803
+720,Air India,30/09/2022,13h 50m,Pune,Indore,18:50,8:40,2 Stop(s),Free Meal,23163
+721,Vistara,30/09/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,25788
+722,Vistara,30/09/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,25788
+723,Vistara,30/09/2022,12h 30m,Pune,Indore,18:55,7:25,2 Stop(s),Free Meal,26762
+724,Vistara,30/09/2022,13h 25m,Pune,Indore,5:30,18:55,2 Stop(s),Free Meal,27634
+725,Vistara,30/09/2022,24h 25m,Pune,Indore,18:55,19:20,2 Stop(s),Free Meal,28621
+726,IndiGo,01/10/2022,8h 30m,Pune,Indore,22:40,7:10,1 Stop,No Meal,7601
+727,Vistara,01/10/2022,10h 50m,Pune,Indore,20:35,7:25,1 Stop,Free Meal,10124
+728,Vistara,01/10/2022,22h 45m,Pune,Indore,20:35,19:20,1 Stop,Free Meal,10124
+729,Vistara,01/10/2022,25h 55m,Pune,Indore,5:30,7:25,1 Stop,Free Meal,10124
+730,IndiGo,01/10/2022,10h 35m,Pune,Indore,3:55,14:30,1 Stop,No Meal,10229
+731,IndiGo,01/10/2022,9h 15m,Pune,Indore,6:25,15:40,1 Stop,No Meal,10567
+732,Air India,01/10/2022,8h 30m,Pune,Indore,7:30,16:00,1 Stop,Free Meal,11403
+733,Vistara,01/10/2022,13h 50m,Pune,Indore,5:30,19:20,1 Stop,Free Meal,11947
+734,IndiGo,01/10/2022,7h 30m,Pune,Indore,0:05,7:35,1 Stop,No Meal,12439
+735,Vistara,01/10/2022,8h 35m,Pune,Indore,10:45,19:20,1 Stop,Free Meal,12682
+736,Vistara,01/10/2022,14h 30m,Pune,Indore,16:55,7:25,1 Stop,Free Meal,12682
+737,Vistara,01/10/2022,20h 40m,Pune,Indore,10:45,7:25,1 Stop,Free Meal,12682
+738,Vistara,01/10/2022,26h 25m,Pune,Indore,16:55,19:20,1 Stop,Free Meal,12682
+739,Air India,01/10/2022,21h 10m,Pune,Indore,18:50,16:00,1 Stop,Free Meal,15183
+740,Air India,01/10/2022,25h 10m,Pune,Indore,7:30,8:40,2 Stop(s),Free Meal,16128
+741,Air India,01/10/2022,25h 10m,Pune,Indore,7:30,8:40,2 Stop(s),Free Meal,16338
+742,Air India,01/10/2022,25h 10m,Pune,Indore,7:30,8:40,2 Stop(s),Free Meal,16338
+743,Air India,01/10/2022,13h 50m,Pune,Indore,18:50,8:40,2 Stop(s),Free Meal,18753
+744,Vistara,01/10/2022,24h 25m,Pune,Indore,18:55,19:20,2 Stop(s),Free Meal,23604
+745,Vistara,01/10/2022,12h 30m,Pune,Indore,18:55,7:25,2 Stop(s),Free Meal,24066
+746,Vistara,01/10/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,27290
+747,Vistara,01/10/2022,12h 25m,Pune,Indore,6:55,19:20,2 Stop(s),Free Meal,30965
+748,IndiGo,02/10/2022,1h 00m,Pune,Indore,15:50,16:50,Non Stop,No Meal,7578
+749,IndiGo,02/10/2022,8h 30m,Pune,Indore,22:40,7:10,1 Stop,No Meal,7601
+750,IndiGo,02/10/2022,6h 25m,Pune,Indore,14:00,20:25,1 Stop,No Meal,7958
+751,Vistara,02/10/2022,20h 10m,Pune,Indore,11:15,7:25,1 Stop,Free Meal,7978
+752,Vistara,02/10/2022,25h 55m,Pune,Indore,5:30,7:25,1 Stop,Free Meal,7978
+753,IndiGo,02/10/2022,7h 30m,Pune,Indore,0:05,7:35,1 Stop,No Meal,8517
+754,Vistara,02/10/2022,10h 50m,Pune,Indore,20:35,7:25,1 Stop,Free Meal,9051
+755,Vistara,02/10/2022,14h 30m,Pune,Indore,16:55,7:25,1 Stop,Free Meal,9051
+756,IndiGo,02/10/2022,9h 15m,Pune,Indore,6:25,15:40,1 Stop,No Meal,9930
+757,Vistara,02/10/2022,8h 05m,Pune,Indore,11:15,19:20,1 Stop,Free Meal,10124
+758,Vistara,02/10/2022,13h 50m,Pune,Indore,5:30,19:20,1 Stop,Free Meal,10124
+759,Vistara,02/10/2022,22h 45m,Pune,Indore,20:35,19:20,1 Stop,Free Meal,10124
+760,Vistara,02/10/2022,26h 25m,Pune,Indore,16:55,19:20,1 Stop,Free Meal,10124
+761,IndiGo,02/10/2022,10h 35m,Pune,Indore,3:55,14:30,1 Stop,No Meal,10462
+762,Air India,02/10/2022,16h 55m,Pune,Indore,21:55,14:50,1 Stop,Free Meal,11508
+763,Air India,02/10/2022,18h 05m,Pune,Indore,21:55,16:00,1 Stop,Free Meal,11508
+764,Air India,02/10/2022,20h 00m,Pune,Indore,18:50,14:50,1 Stop,Free Meal,11718
+765,Air India,02/10/2022,21h 10m,Pune,Indore,18:50,16:00,1 Stop,Free Meal,11718
+766,Air India,02/10/2022,8h 30m,Pune,Indore,7:30,16:00,1 Stop,Free Meal,12558
+767,Air India,02/10/2022,22h 55m,Pune,Indore,15:55,14:50,1 Stop,Free Meal,13083
+768,Air India,02/10/2022,24h 05m,Pune,Indore,15:55,16:00,1 Stop,Free Meal,13083
+769,Air India,02/10/2022,26h 10m,Pune,Indore,12:40,14:50,2 Stop(s),Free Meal,14343
+770,Air India,02/10/2022,27h 20m,Pune,Indore,12:40,16:00,2 Stop(s),Free Meal,14343
+771,Air India,02/10/2022,13h 50m,Pune,Indore,18:50,8:40,2 Stop(s),Free Meal,16653
+772,Vistara,02/10/2022,24h 25m,Pune,Indore,18:55,19:20,2 Stop(s),Free Meal,17260
+773,Air Asia,29/09/2022,6h 00m,Kolkata,Bangalore,18:40,0:40,1 Stop,No Meal,9130
+774,Go First,29/09/2022,7h 15m,Kolkata,Bangalore,16:40,23:55,1 Stop,No Meal,9130
+775,Air Asia,29/09/2022,9h 15m,Kolkata,Bangalore,13:15,22:30,1 Stop,No Meal,9130
+776,Air Asia,29/09/2022,10h 45m,Kolkata,Bangalore,8:40,19:25,1 Stop,No Meal,9130
+777,Go First,29/09/2022,11h 15m,Kolkata,Bangalore,10:35,21:50,1 Stop,No Meal,9130
+778,Air Asia,29/09/2022,11h 25m,Kolkata,Bangalore,13:15,0:40,1 Stop,No Meal,9130
+779,Go First,29/09/2022,13h 35m,Kolkata,Bangalore,10:35,0:10,1 Stop,No Meal,9130
+780,IndiGo,29/09/2022,2h 15m,Kolkata,Bangalore,23:35,1:50,Non Stop,No Meal,9132
+781,IndiGo,29/09/2022,2h 20m,Kolkata,Bangalore,18:45,21:05,Non Stop,No Meal,9132
+782,IndiGo,29/09/2022,2h 25m,Kolkata,Bangalore,4:30,6:55,Non Stop,No Meal,9132
+783,IndiGo,29/09/2022,2h 25m,Kolkata,Bangalore,5:40,8:05,Non Stop,No Meal,9132
+784,IndiGo,29/09/2022,2h 30m,Kolkata,Bangalore,6:45,9:15,Non Stop,No Meal,9132
+785,IndiGo,29/09/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,9132
+786,IndiGo,29/09/2022,2h 30m,Kolkata,Bangalore,19:55,22:25,Non Stop,No Meal,9132
+787,IndiGo,29/09/2022,2h 30m,Kolkata,Bangalore,21:20,23:50,Non Stop,No Meal,9132
+788,IndiGo,29/09/2022,2h 35m,Kolkata,Bangalore,12:05,14:40,Non Stop,No Meal,9132
+789,Air Asia,29/09/2022,2h 35m,Kolkata,Bangalore,14:45,17:20,Non Stop,No Meal,9132
+790,IndiGo,29/09/2022,2h 40m,Kolkata,Bangalore,13:55,16:35,Non Stop,No Meal,9132
+791,Air Asia,29/09/2022,2h 40m,Kolkata,Bangalore,15:30,18:10,Non Stop,No Meal,9132
+792,Air Asia,29/09/2022,2h 40m,Kolkata,Bangalore,17:00,19:40,Non Stop,No Meal,9132
+793,Air Asia,29/09/2022,2h 45m,Kolkata,Bangalore,20:25,23:10,Non Stop,No Meal,9132
+794,Air Asia,29/09/2022,3h 50m,Kolkata,Bangalore,18:40,22:30,1 Stop,No Meal,9132
+795,IndiGo,29/09/2022,4h 40m,Kolkata,Bangalore,5:55,10:35,1 Stop,No Meal,9132
+796,IndiGo,29/09/2022,4h 40m,Kolkata,Bangalore,7:25,12:05,1 Stop,No Meal,9132
+797,IndiGo,29/09/2022,5h 10m,Kolkata,Bangalore,4:45,9:55,1 Stop,No Meal,9132
+798,IndiGo,29/09/2022,5h 30m,Kolkata,Bangalore,15:00,20:30,1 Stop,No Meal,9132
+799,IndiGo,29/09/2022,5h 35m,Kolkata,Bangalore,8:25,14:00,1 Stop,No Meal,9132
+800,IndiGo,29/09/2022,6h 45m,Kolkata,Bangalore,10:30,17:15,1 Stop,No Meal,9132
+801,IndiGo,29/09/2022,6h 45m,Kolkata,Bangalore,14:40,21:25,1 Stop,No Meal,9132
+802,IndiGo,29/09/2022,7h 05m,Kolkata,Bangalore,13:20,20:25,1 Stop,No Meal,9132
+803,IndiGo,29/09/2022,7h 15m,Kolkata,Bangalore,5:55,13:10,1 Stop,No Meal,9132
+804,IndiGo,29/09/2022,7h 15m,Kolkata,Bangalore,7:05,14:20,1 Stop,No Meal,9132
+805,IndiGo,29/09/2022,7h 25m,Kolkata,Bangalore,4:45,12:10,1 Stop,No Meal,9132
+806,IndiGo,29/09/2022,8h 00m,Kolkata,Bangalore,14:35,22:35,1 Stop,No Meal,9132
+807,IndiGo,29/09/2022,8h 05m,Kolkata,Bangalore,14:15,22:20,1 Stop,No Meal,9132
+808,IndiGo,29/09/2022,8h 45m,Kolkata,Bangalore,23:55,8:40,1 Stop,No Meal,9132
+809,IndiGo,29/09/2022,8h 50m,Kolkata,Bangalore,8:25,17:15,1 Stop,No Meal,9132
+810,IndiGo,29/09/2022,9h 05m,Kolkata,Bangalore,16:25,1:30,1 Stop,No Meal,9132
+811,IndiGo,29/09/2022,9h 05m,Kolkata,Bangalore,23:10,8:15,1 Stop,No Meal,9132
+812,IndiGo,29/09/2022,9h 20m,Kolkata,Bangalore,9:40,19:00,1 Stop,No Meal,9132
+813,IndiGo,29/09/2022,9h 25m,Kolkata,Bangalore,10:30,19:55,1 Stop,No Meal,9132
+814,IndiGo,29/09/2022,9h 40m,Kolkata,Bangalore,14:00,23:40,1 Stop,No Meal,9132
+815,IndiGo,29/09/2022,10h 00m,Kolkata,Bangalore,23:55,9:55,1 Stop,No Meal,9132
+816,IndiGo,29/09/2022,10h 15m,Kolkata,Bangalore,22:25,8:40,1 Stop,No Meal,9132
+817,IndiGo,29/09/2022,10h 20m,Kolkata,Bangalore,23:10,9:30,1 Stop,No Meal,9132
+818,IndiGo,29/09/2022,2h 30m,Kolkata,Bangalore,8:40,11:10,Non Stop,No Meal,9762
+819,Air Asia,29/09/2022,5h 55m,Kolkata,Bangalore,5:25,11:20,1 Stop,No Meal,9762
+820,Air Asia,29/09/2022,9h 30m,Kolkata,Bangalore,21:40,7:10,1 Stop,No Meal,9762
+821,Air Asia,29/09/2022,10h 45m,Kolkata,Bangalore,4:50,15:35,1 Stop,No Meal,9762
+822,IndiGo,29/09/2022,7h 35m,Kolkata,Bangalore,14:00,21:35,1 Stop,No Meal,9836
+823,IndiGo,29/09/2022,6h 40m,Kolkata,Bangalore,14:00,20:40,1 Stop,No Meal,10497
+824,IndiGo,29/09/2022,5h 40m,Kolkata,Bangalore,18:00,23:40,1 Stop,No Meal,10539
+825,IndiGo,29/09/2022,9h 10m,Kolkata,Bangalore,7:40,16:50,1 Stop,No Meal,11075
+826,IndiGo,29/09/2022,5h 20m,Kolkata,Bangalore,14:35,19:55,1 Stop,No Meal,11243
+827,IndiGo,29/09/2022,9h 00m,Kolkata,Bangalore,8:55,17:55,1 Stop,No Meal,11390
+828,IndiGo,29/09/2022,9h 15m,Kolkata,Bangalore,4:45,14:00,1 Stop,No Meal,11946
+829,Vistara,29/09/2022,12h 10m,Kolkata,Bangalore,20:50,9:00,1 Stop,Free Meal,13075
+830,Vistara,29/09/2022,14h 00m,Kolkata,Bangalore,20:50,10:50,1 Stop,Free Meal,13075
+831,Vistara,29/09/2022,7h 20m,Kolkata,Bangalore,10:25,17:45,1 Stop,Free Meal,13592
+832,Vistara,29/09/2022,8h 50m,Kolkata,Bangalore,10:25,19:15,1 Stop,Free Meal,13592
+833,Vistara,29/09/2022,12h 45m,Kolkata,Bangalore,10:25,23:10,1 Stop,Free Meal,13592
+834,Vistara,29/09/2022,21h 25m,Kolkata,Bangalore,10:25,7:50,1 Stop,Free Meal,13592
+835,Vistara,29/09/2022,22h 25m,Kolkata,Bangalore,10:25,8:50,1 Stop,Free Meal,13592
+836,Vistara,29/09/2022,24h 20m,Kolkata,Bangalore,10:25,10:45,1 Stop,Free Meal,13592
+837,Vistara,29/09/2022,15h 00m,Kolkata,Bangalore,20:50,11:50,1 Stop,Free Meal,13813
+838,Air India,29/09/2022,11h 15m,Kolkata,Bangalore,9:25,20:40,1 Stop,Free Meal,14100
+839,Vistara,29/09/2022,20h 15m,Kolkata,Bangalore,20:50,17:05,1 Stop,Free Meal,14621
+840,SpiceJet,29/09/2022,15h 00m,Kolkata,Bangalore,7:30,22:30,1 Stop,No Meal,15505
+841,SpiceJet,29/09/2022,25h 25m,Kolkata,Bangalore,7:30,8:55,1 Stop,No Meal,15505
+842,SpiceJet,29/09/2022,9h 00m,Kolkata,Bangalore,23:55,8:55,1 Stop,No Meal,16027
+843,SpiceJet,29/09/2022,11h 10m,Kolkata,Bangalore,21:45,8:55,1 Stop,No Meal,16027
+844,SpiceJet,29/09/2022,17h 15m,Kolkata,Bangalore,15:40,8:55,1 Stop,No Meal,16027
+845,SpiceJet,29/09/2022,24h 25m,Kolkata,Bangalore,14:45,15:10,1 Stop,No Meal,16166
+846,Air India,29/09/2022,13h 35m,Kolkata,Bangalore,10:30,0:05,1 Stop,No Meal,16167
+847,Vistara,29/09/2022,25h 00m,Kolkata,Bangalore,20:50,21:50,2 Stop(s),Free Meal,16432
+848,Air India,29/09/2022,8h 55m,Kolkata,Bangalore,9:25,18:20,1 Stop,Free Meal,16692
+849,Air India,29/09/2022,22h 25m,Kolkata,Bangalore,9:25,7:50,1 Stop,Free Meal,16692
+850,Air India,29/09/2022,25h 45m,Kolkata,Bangalore,9:25,11:10,1 Stop,Free Meal,16692
+851,Air India,29/09/2022,16h 45m,Kolkata,Bangalore,16:10,8:55,2 Stop(s),Free Meal,17221
+852,Air India,29/09/2022,18h 20m,Kolkata,Bangalore,16:10,10:30,2 Stop(s),Free Meal,17221
+853,Air India,29/09/2022,20h 20m,Kolkata,Bangalore,16:10,12:30,2 Stop(s),Free Meal,17221
+854,Air India,29/09/2022,24h 05m,Kolkata,Bangalore,16:10,16:15,2 Stop(s),Free Meal,17221
+855,Air India,29/09/2022,28h 05m,Kolkata,Bangalore,16:10,20:15,2 Stop(s),Free Meal,17221
+856,Go First,29/09/2022,14h 30m,Kolkata,Bangalore,17:05,7:35,1 Stop,No Meal,17498
+857,Air India,29/09/2022,26h 10m,Kolkata,Bangalore,16:10,18:20,2 Stop(s),Free Meal,18066
+858,SpiceJet,29/09/2022,22h 35m,Kolkata,Bangalore,23:55,22:30,1 Stop,No Meal,18131
+859,SpiceJet,29/09/2022,24h 45m,Kolkata,Bangalore,21:45,22:30,1 Stop,No Meal,18131
+860,Air India,29/09/2022,9h 45m,Kolkata,Bangalore,10:30,20:15,1 Stop,No Meal,18162
+861,Air India,29/09/2022,12h 25m,Kolkata,Bangalore,20:30,8:55,1 Stop,No Meal,18162
+862,Air India,29/09/2022,14h 00m,Kolkata,Bangalore,20:30,10:30,1 Stop,No Meal,18162
+863,Air India,29/09/2022,16h 00m,Kolkata,Bangalore,20:30,12:30,1 Stop,No Meal,18162
+864,Air India,29/09/2022,19h 45m,Kolkata,Bangalore,20:30,16:15,1 Stop,No Meal,18162
+865,Air Asia,29/09/2022,12h 10m,Kolkata,Bangalore,8:40,20:50,2 Stop(s),No Meal,18293
+866,Vistara,29/09/2022,10h 30m,Kolkata,Bangalore,10:25,20:55,1 Stop,Free Meal,18372
+867,Vistara,29/09/2022,5h 35m,Kolkata,Bangalore,17:35,23:10,1 Stop,Free Meal,18477
+868,Air India,29/09/2022,8h 35m,Kolkata,Bangalore,15:30,0:05,1 Stop,Free Meal,18897
+869,Air India,29/09/2022,21h 50m,Kolkata,Bangalore,20:30,18:20,1 Stop,No Meal,18897
+870,Vistara,29/09/2022,11h 15m,Kolkata,Bangalore,20:35,7:50,1 Stop,Free Meal,19212
+871,Go First,29/09/2022,9h 05m,Kolkata,Bangalore,14:20,23:25,1 Stop,No Meal,19289
+872,Air Asia,29/09/2022,7h 45m,Kolkata,Bangalore,13:15,21:00,2 Stop(s),No Meal,19375
+873,Air Asia,29/09/2022,12h 20m,Kolkata,Bangalore,13:15,1:35,2 Stop(s),No Meal,19375
+874,Air India,29/09/2022,14h 05m,Kolkata,Bangalore,10:00,0:05,3 Stop(s),Free Meal,20245
+875,Air India,29/09/2022,22h 55m,Kolkata,Bangalore,10:00,8:55,3 Stop(s),Free Meal,20245
+876,Air India,29/09/2022,24h 30m,Kolkata,Bangalore,10:00,10:30,3 Stop(s),Free Meal,20245
+877,Air India,29/09/2022,26h 30m,Kolkata,Bangalore,10:00,12:30,3 Stop(s),Free Meal,20245
+878,Air India,29/09/2022,30h 15m,Kolkata,Bangalore,10:00,16:15,3 Stop(s),Free Meal,20245
+879,Air India,29/09/2022,32h 20m,Kolkata,Bangalore,10:00,18:20,3 Stop(s),Free Meal,20245
+880,Vistara,29/09/2022,8h 00m,Kolkata,Bangalore,15:20,23:20,1 Stop,Free Meal,20470
+881,Air India,29/09/2022,9h 25m,Kolkata,Bangalore,6:50,16:15,1 Stop,Free Meal,21207
+882,Air India,29/09/2022,13h 25m,Kolkata,Bangalore,6:50,20:15,1 Stop,Free Meal,21207
+883,Vistara,29/09/2022,7h 20m,Kolkata,Bangalore,15:20,22:40,1 Stop,Free Meal,21627
+884,Vistara,29/09/2022,8h 35m,Kolkata,Bangalore,10:15,18:50,1 Stop,Free Meal,21730
+885,Vistara,29/09/2022,6h 50m,Kolkata,Bangalore,10:15,17:05,1 Stop,Free Meal,22257
+886,Vistara,29/09/2022,9h 55m,Kolkata,Bangalore,7:10,17:05,1 Stop,Free Meal,23412
+887,Vistara,29/09/2022,8h 45m,Kolkata,Bangalore,7:10,15:55,2 Stop(s),Free Meal,24777
+888,Air India,29/09/2022,14h 35m,Kolkata,Bangalore,17:15,7:50,1 Stop,Free Meal,25302
+889,Air India,29/09/2022,17h 55m,Kolkata,Bangalore,17:15,11:10,1 Stop,Free Meal,25302
+890,Air India,29/09/2022,25h 05m,Kolkata,Bangalore,17:15,18:20,1 Stop,Free Meal,25512
+891,Vistara,29/09/2022,32h 00m,Kolkata,Bangalore,10:15,18:15,2 Stop(s),Free Meal,25930
+892,Vistara,29/09/2022,35h 05m,Kolkata,Bangalore,7:10,18:15,2 Stop(s),Free Meal,27085
+893,Vistara,29/09/2022,9h 00m,Kolkata,Bangalore,10:15,19:15,2 Stop(s),Free Meal,28135
+894,Vistara,29/09/2022,21h 35m,Kolkata,Bangalore,10:15,7:50,3 Stop(s),Free Meal,30885
+895,Vistara,29/09/2022,22h 35m,Kolkata,Bangalore,10:15,8:50,3 Stop(s),Free Meal,31621
+896,Vistara,29/09/2022,24h 30m,Kolkata,Bangalore,10:15,10:45,3 Stop(s),Free Meal,31621
+897,Vistara,29/09/2022,31h 30m,Kolkata,Bangalore,10:15,17:45,3 Stop(s),Free Meal,31621
+898,Vistara,29/09/2022,31h 30m,Kolkata,Bangalore,10:15,17:45,3 Stop(s),Free Meal,31621
+899,Vistara,29/09/2022,33h 00m,Kolkata,Bangalore,10:15,19:15,3 Stop(s),Free Meal,31621
+900,Vistara,29/09/2022,33h 00m,Kolkata,Bangalore,10:15,19:15,3 Stop(s),Free Meal,31621
+901,Vistara,29/09/2022,36h 55m,Kolkata,Bangalore,10:15,23:10,3 Stop(s),Free Meal,31621
+902,Air Asia,30/09/2022,10h 45m,Kolkata,Bangalore,8:40,19:25,1 Stop,No Meal,9130
+903,SpiceJet,30/09/2022,2h 15m,Kolkata,Bangalore,5:20,7:35,Non Stop,No Meal,9132
+904,IndiGo,30/09/2022,2h 25m,Kolkata,Bangalore,4:30,6:55,Non Stop,No Meal,9762
+905,IndiGo,30/09/2022,2h 25m,Kolkata,Bangalore,5:40,8:05,Non Stop,No Meal,9762
+906,Air Asia,30/09/2022,10h 45m,Kolkata,Bangalore,4:50,15:35,1 Stop,No Meal,9762
+907,IndiGo,30/09/2022,4h 40m,Kolkata,Bangalore,7:25,12:05,1 Stop,No Meal,10177
+908,Air Asia,30/09/2022,5h 55m,Kolkata,Bangalore,5:25,11:20,1 Stop,No Meal,10684
+909,Air Asia,30/09/2022,2h 40m,Kolkata,Bangalore,17:00,19:40,Non Stop,No Meal,10918
+910,Air Asia,30/09/2022,2h 45m,Kolkata,Bangalore,20:25,23:10,Non Stop,No Meal,10918
+911,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,6:45,9:15,Non Stop,No Meal,11022
+912,IndiGo,30/09/2022,5h 30m,Kolkata,Bangalore,15:00,20:30,1 Stop,No Meal,11309
+913,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,19:55,22:25,Non Stop,No Meal,11652
+914,IndiGo,30/09/2022,2h 20m,Kolkata,Bangalore,18:45,21:05,Non Stop,No Meal,12492
+915,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,23:35,2:05,Non Stop,No Meal,12492
+916,IndiGo,30/09/2022,2h 35m,Kolkata,Bangalore,12:05,14:40,Non Stop,No Meal,12492
+917,Air Asia,30/09/2022,2h 35m,Kolkata,Bangalore,14:45,17:20,Non Stop,No Meal,12492
+918,Air Asia,30/09/2022,2h 40m,Kolkata,Bangalore,15:30,18:10,Non Stop,No Meal,12492
+919,IndiGo,30/09/2022,7h 15m,Kolkata,Bangalore,7:05,14:20,1 Stop,No Meal,12659
+920,IndiGo,30/09/2022,4h 40m,Kolkata,Bangalore,5:55,10:35,1 Stop,No Meal,12755
+921,IndiGo,30/09/2022,7h 15m,Kolkata,Bangalore,5:55,13:10,1 Stop,No Meal,12755
+922,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,8:40,11:10,Non Stop,No Meal,13332
+923,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,13332
+924,IndiGo,30/09/2022,2h 40m,Kolkata,Bangalore,13:55,16:35,Non Stop,No Meal,13332
+925,Vistara,30/09/2022,26h 30m,Kolkata,Bangalore,20:50,23:20,1 Stop,Free Meal,13813
+926,IndiGo,30/09/2022,6h 45m,Kolkata,Bangalore,10:30,17:15,1 Stop,No Meal,14120
+927,IndiGo,30/09/2022,2h 30m,Kolkata,Bangalore,21:20,23:50,Non Stop,No Meal,14172
+928,IndiGo,30/09/2022,9h 10m,Kolkata,Bangalore,7:40,16:50,1 Stop,No Meal,14225
+929,IndiGo,30/09/2022,5h 40m,Kolkata,Bangalore,18:00,23:40,1 Stop,No Meal,14330
+930,IndiGo,30/09/2022,7h 15m,Kolkata,Bangalore,18:00,1:15,1 Stop,No Meal,14330
+931,IndiGo,30/09/2022,6h 45m,Kolkata,Bangalore,14:40,21:25,1 Stop,No Meal,14385
+932,Air India,30/09/2022,25h 45m,Kolkata,Bangalore,9:25,11:10,1 Stop,Free Meal,14520
+933,IndiGo,30/09/2022,9h 05m,Kolkata,Bangalore,16:25,1:30,1 Stop,No Meal,14540
+934,Vistara,30/09/2022,12h 10m,Kolkata,Bangalore,20:50,9:00,1 Stop,Free Meal,14621
+935,Vistara,30/09/2022,15h 00m,Kolkata,Bangalore,20:50,11:50,1 Stop,Free Meal,14621
+936,Vistara,30/09/2022,22h 00m,Kolkata,Bangalore,20:50,18:50,1 Stop,Free Meal,14621
+937,Vistara,30/09/2022,23h 35m,Kolkata,Bangalore,20:50,20:25,1 Stop,Free Meal,14621
+938,Vistara,30/09/2022,25h 50m,Kolkata,Bangalore,20:50,22:40,1 Stop,Free Meal,14621
+939,IndiGo,30/09/2022,5h 20m,Kolkata,Bangalore,19:55,1:15,1 Stop,No Meal,14855
+940,IndiGo,30/09/2022,7h 05m,Kolkata,Bangalore,13:20,20:25,1 Stop,No Meal,15065
+941,Air Asia,30/09/2022,6h 00m,Kolkata,Bangalore,18:40,0:40,1 Stop,No Meal,15118
+942,IndiGo,30/09/2022,8h 00m,Kolkata,Bangalore,14:35,22:35,1 Stop,No Meal,15362
+943,Air India,30/09/2022,22h 25m,Kolkata,Bangalore,9:25,7:50,1 Stop,Free Meal,15570
+944,IndiGo,30/09/2022,9h 20m,Kolkata,Bangalore,9:40,19:00,1 Stop,No Meal,15705
+945,Air Asia,30/09/2022,11h 25m,Kolkata,Bangalore,13:15,0:40,1 Stop,No Meal,16062
+946,IndiGo,30/09/2022,8h 05m,Kolkata,Bangalore,14:15,22:20,1 Stop,No Meal,16188
+947,Air Asia,30/09/2022,3h 50m,Kolkata,Bangalore,18:40,22:30,1 Stop,No Meal,16272
+948,IndiGo,30/09/2022,7h 25m,Kolkata,Bangalore,4:45,12:10,1 Stop,No Meal,16517
+949,IndiGo,30/09/2022,7h 35m,Kolkata,Bangalore,14:00,21:35,1 Stop,No Meal,16902
+950,IndiGo,30/09/2022,9h 25m,Kolkata,Bangalore,10:30,19:55,1 Stop,No Meal,17165
+951,IndiGo,30/09/2022,6h 40m,Kolkata,Bangalore,14:00,20:40,1 Stop,No Meal,17270
+952,IndiGo,30/09/2022,7h 50m,Kolkata,Bangalore,11:10,19:00,1 Stop,No Meal,17438
+953,IndiGo,30/09/2022,9h 15m,Kolkata,Bangalore,4:45,14:00,1 Stop,No Meal,17617
+954,Air India,30/09/2022,17h 55m,Kolkata,Bangalore,17:15,11:10,1 Stop,Free Meal,17670
+955,Air India,30/09/2022,27h 25m,Kolkata,Bangalore,17:15,20:40,1 Stop,Free Meal,17670
+956,IndiGo,30/09/2022,5h 10m,Kolkata,Bangalore,4:45,9:55,1 Stop,No Meal,17690
+957,Air India,30/09/2022,16h 45m,Kolkata,Bangalore,16:10,8:55,2 Stop(s),Free Meal,17951
+958,Air India,30/09/2022,31h 55m,Kolkata,Bangalore,16:10,0:05,2 Stop(s),Free Meal,17951
+959,Go First,30/09/2022,8h 05m,Kolkata,Bangalore,16:40,0:45,1 Stop,No Meal,18029
+960,Air India,30/09/2022,24h 05m,Kolkata,Bangalore,16:10,16:15,2 Stop(s),Free Meal,18161
+961,SpiceJet,30/09/2022,9h 00m,Kolkata,Bangalore,23:55,8:55,1 Stop,No Meal,18235
+962,SpiceJet,30/09/2022,11h 10m,Kolkata,Bangalore,21:45,8:55,1 Stop,No Meal,18235
+963,SpiceJet,30/09/2022,22h 35m,Kolkata,Bangalore,23:55,22:30,1 Stop,No Meal,18235
+964,SpiceJet,30/09/2022,24h 45m,Kolkata,Bangalore,21:45,22:30,1 Stop,No Meal,18235
+965,Go First,30/09/2022,5h 35m,Kolkata,Bangalore,16:40,22:15,1 Stop,No Meal,18338
+966,Go First,30/09/2022,15h 05m,Kolkata,Bangalore,16:40,7:45,1 Stop,No Meal,18338
+967,Air India,30/09/2022,8h 55m,Kolkata,Bangalore,9:25,18:20,1 Stop,Free Meal,18372
+968,Air India,30/09/2022,11h 15m,Kolkata,Bangalore,9:25,20:40,1 Stop,Free Meal,18372
+969,Air India,30/09/2022,22h 25m,Kolkata,Bangalore,10:30,8:55,1 Stop,No Meal,18635
+970,Air India,30/09/2022,14h 35m,Kolkata,Bangalore,17:15,7:50,1 Stop,Free Meal,18720
+971,Air India,30/09/2022,12h 25m,Kolkata,Bangalore,20:30,8:55,1 Stop,No Meal,18845
+972,Air India,30/09/2022,27h 35m,Kolkata,Bangalore,20:30,0:05,1 Stop,No Meal,18845
+973,Air India,30/09/2022,25h 05m,Kolkata,Bangalore,17:15,18:20,1 Stop,Free Meal,18930
+974,SpiceJet,30/09/2022,17h 15m,Kolkata,Bangalore,15:40,8:55,1 Stop,No Meal,19181
+975,Go First,30/09/2022,14h 40m,Kolkata,Bangalore,17:05,7:45,1 Stop,No Meal,19282
+976,IndiGo,30/09/2022,5h 20m,Kolkata,Bangalore,14:35,19:55,1 Stop,No Meal,19580
+977,IndiGo,30/09/2022,5h 35m,Kolkata,Bangalore,8:25,14:00,1 Stop,No Meal,19717
+978,IndiGo,30/09/2022,8h 50m,Kolkata,Bangalore,8:25,17:15,1 Stop,No Meal,19790
+979,Air India,30/09/2022,20h 20m,Kolkata,Bangalore,16:10,12:30,2 Stop(s),Free Meal,19851
+980,Air India,30/09/2022,17h 25m,Kolkata,Bangalore,15:30,8:55,1 Stop,Free Meal,20157
+981,Air India,30/09/2022,19h 45m,Kolkata,Bangalore,20:30,16:15,1 Stop,No Meal,20210
+982,Air Asia,30/09/2022,9h 15m,Kolkata,Bangalore,13:15,22:30,1 Stop,No Meal,20288
+983,Air India,30/09/2022,13h 35m,Kolkata,Bangalore,10:30,0:05,1 Stop,No Meal,20630
+984,Air India,30/09/2022,28h 05m,Kolkata,Bangalore,16:10,20:15,2 Stop(s),Free Meal,20696
+985,Air Asia,30/09/2022,12h 20m,Kolkata,Bangalore,13:15,1:35,2 Stop(s),No Meal,20813
+986,Air India,30/09/2022,9h 45m,Kolkata,Bangalore,10:30,20:15,1 Stop,No Meal,20840
+987,SpiceJet,30/09/2022,25h 25m,Kolkata,Bangalore,7:30,8:55,1 Stop,No Meal,21175
+988,SpiceJet,30/09/2022,24h 25m,Kolkata,Bangalore,14:45,15:10,1 Stop,No Meal,21206
+989,Air India,30/09/2022,24h 45m,Kolkata,Bangalore,15:30,16:15,1 Stop,Free Meal,21522
+990,Air India,30/09/2022,30h 50m,Kolkata,Bangalore,9:25,16:15,2 Stop(s),Free Meal,21554
+991,Air India,30/09/2022,30h 50m,Kolkata,Bangalore,9:25,16:15,2 Stop(s),Free Meal,21554
+992,Air India,30/09/2022,30h 50m,Kolkata,Bangalore,9:25,16:15,2 Stop(s),Free Meal,21554
+993,Air India,30/09/2022,26h 00m,Kolkata,Bangalore,10:30,12:30,1 Stop,No Meal,21575
+994,Air India,30/09/2022,16h 00m,Kolkata,Bangalore,20:30,12:30,1 Stop,No Meal,21785
+995,Vistara,30/09/2022,12h 15m,Kolkata,Bangalore,20:35,8:50,1 Stop,Free Meal,21974
+996,Vistara,30/09/2022,22h 40m,Kolkata,Bangalore,20:35,19:15,1 Stop,Free Meal,21974
+997,Air India,30/09/2022,26h 05m,Kolkata,Bangalore,6:50,8:55,1 Stop,Free Meal,22047
+998,Air India,30/09/2022,7h 50m,Kolkata,Bangalore,10:30,18:20,1 Stop,No Meal,22100
+999,Air India,30/09/2022,8h 35m,Kolkata,Bangalore,15:30,0:05,1 Stop,Free Meal,22152
+1000,Air India,30/09/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,22189
+1001,Air India,30/09/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,22189
+1002,Air India,30/09/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,22189
+1003,Air India,30/09/2022,23h 45m,Kolkata,Bangalore,20:30,20:15,1 Stop,No Meal,22520
+1004,SpiceJet,30/09/2022,15h 00m,Kolkata,Bangalore,7:30,22:30,1 Stop,No Meal,23279
+1005,Vistara,30/09/2022,11h 15m,Kolkata,Bangalore,20:35,7:50,1 Stop,Free Meal,23307
+1006,Vistara,30/09/2022,21h 10m,Kolkata,Bangalore,20:35,17:45,1 Stop,Free Meal,23307
+1007,Air Asia,30/09/2022,12h 10m,Kolkata,Bangalore,8:40,20:50,2 Stop(s),No Meal,23650
+1008,Vistara,30/09/2022,7h 20m,Kolkata,Bangalore,10:25,17:45,1 Stop,Free Meal,23832
+1009,Vistara,30/09/2022,8h 50m,Kolkata,Bangalore,10:25,19:15,1 Stop,Free Meal,23832
+1010,Vistara,30/09/2022,12h 45m,Kolkata,Bangalore,10:25,23:10,1 Stop,Free Meal,23832
+1011,Vistara,30/09/2022,14h 10m,Kolkata,Bangalore,20:35,10:45,1 Stop,Free Meal,23832
+1012,Air India,30/09/2022,9h 25m,Kolkata,Bangalore,6:50,16:15,1 Stop,Free Meal,24042
+1013,Vistara,30/09/2022,12h 40m,Kolkata,Bangalore,20:20,9:00,1 Stop,Free Meal,24042
+1014,Vistara,30/09/2022,14h 15m,Kolkata,Bangalore,18:45,9:00,1 Stop,Free Meal,24042
+1015,Vistara,30/09/2022,15h 30m,Kolkata,Bangalore,20:20,11:50,1 Stop,Free Meal,24042
+1016,Air India,30/09/2022,17h 15m,Kolkata,Bangalore,6:50,0:05,1 Stop,Free Meal,24042
+1017,Air India,30/09/2022,13h 25m,Kolkata,Bangalore,6:50,20:15,1 Stop,Free Meal,24252
+1018,IndiGo,30/09/2022,9h 00m,Kolkata,Bangalore,8:55,17:55,1 Stop,No Meal,24410
+1019,Vistara,30/09/2022,14h 30m,Kolkata,Bangalore,20:20,10:50,1 Stop,Free Meal,24672
+1020,Air Asia,30/09/2022,7h 45m,Kolkata,Bangalore,13:15,21:00,2 Stop(s),No Meal,25433
+1021,Air India,30/09/2022,11h 30m,Kolkata,Bangalore,6:50,18:20,1 Stop,Free Meal,25512
+1022,Air Asia,30/09/2022,9h 30m,Kolkata,Bangalore,21:40,7:10,1 Stop,No Meal,25569
+1023,Vistara,30/09/2022,10h 30m,Kolkata,Bangalore,10:25,20:55,1 Stop,Free Meal,25617
+1024,Go First,30/09/2022,11h 15m,Kolkata,Bangalore,10:35,21:50,1 Stop,No Meal,26149
+1025,Vistara,30/09/2022,6h 50m,Kolkata,Bangalore,10:15,17:05,1 Stop,Free Meal,26247
+1026,Vistara,30/09/2022,9h 55m,Kolkata,Bangalore,7:10,17:05,1 Stop,Free Meal,26247
+1027,Go First,30/09/2022,13h 35m,Kolkata,Bangalore,10:35,0:10,1 Stop,No Meal,26788
+1028,Vistara,30/09/2022,8h 35m,Kolkata,Bangalore,10:15,18:50,1 Stop,Free Meal,27612
+1029,Vistara,30/09/2022,10h 10m,Kolkata,Bangalore,10:15,20:25,1 Stop,Free Meal,27612
+1030,Vistara,30/09/2022,11h 40m,Kolkata,Bangalore,7:10,18:50,1 Stop,Free Meal,27612
+1031,Vistara,30/09/2022,13h 15m,Kolkata,Bangalore,7:10,20:25,1 Stop,Free Meal,27612
+1032,Vistara,30/09/2022,7h 20m,Kolkata,Bangalore,15:20,22:40,1 Stop,Free Meal,28662
+1033,Vistara,30/09/2022,8h 00m,Kolkata,Bangalore,15:20,23:20,1 Stop,Free Meal,28662
+1034,Vistara,30/09/2022,12h 25m,Kolkata,Bangalore,10:15,22:40,1 Stop,Free Meal,28662
+1035,Vistara,30/09/2022,13h 05m,Kolkata,Bangalore,10:15,23:20,1 Stop,Free Meal,28662
+1036,Vistara,30/09/2022,15h 30m,Kolkata,Bangalore,7:10,22:40,1 Stop,Free Meal,28662
+1037,Go First,30/09/2022,9h 05m,Kolkata,Bangalore,14:20,23:25,1 Stop,No Meal,28845
+1038,IndiGo,30/09/2022,8h 45m,Kolkata,Bangalore,23:55,8:40,1 Stop,No Meal,29345
+1039,Air Asia,01/10/2022,2h 45m,Kolkata,Bangalore,20:25,23:10,Non Stop,No Meal,10918
+1040,IndiGo,01/10/2022,2h 30m,Kolkata,Bangalore,21:20,23:50,Non Stop,No Meal,11022
+1041,IndiGo,01/10/2022,2h 30m,Kolkata,Bangalore,19:55,22:25,Non Stop,No Meal,11652
+1042,IndiGo,01/10/2022,5h 30m,Kolkata,Bangalore,15:00,20:30,1 Stop,No Meal,12553
+1043,IndiGo,01/10/2022,9h 05m,Kolkata,Bangalore,23:10,8:15,1 Stop,No Meal,12755
+1044,Vistara,01/10/2022,5h 35m,Kolkata,Bangalore,17:35,23:10,1 Stop,Free Meal,12784
+1045,Vistara,01/10/2022,17h 10m,Kolkata,Bangalore,17:35,10:45,1 Stop,Free Meal,12784
+1046,Vistara,01/10/2022,24h 10m,Kolkata,Bangalore,17:35,17:45,1 Stop,Free Meal,12784
+1047,Vistara,01/10/2022,25h 40m,Kolkata,Bangalore,17:35,19:15,1 Stop,Free Meal,12784
+1048,Vistara,01/10/2022,27h 20m,Kolkata,Bangalore,17:35,20:55,1 Stop,Free Meal,12784
+1049,Air Asia,01/10/2022,3h 50m,Kolkata,Bangalore,18:40,22:30,1 Stop,No Meal,12808
+1050,IndiGo,01/10/2022,7h 15m,Kolkata,Bangalore,18:00,1:15,1 Stop,No Meal,12810
+1051,Go First,01/10/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,13074
+1052,IndiGo,01/10/2022,2h 20m,Kolkata,Bangalore,18:45,21:05,Non Stop,No Meal,13332
+1053,IndiGo,01/10/2022,2h 45m,Kolkata,Bangalore,23:20,2:05,Non Stop,No Meal,13332
+1054,IndiGo,01/10/2022,5h 20m,Kolkata,Bangalore,19:55,1:15,1 Stop,No Meal,13805
+1055,Vistara,01/10/2022,14h 00m,Kolkata,Bangalore,20:50,10:50,1 Stop,Free Meal,13813
+1056,Vistara,01/10/2022,14h 30m,Kolkata,Bangalore,20:20,10:50,1 Stop,Free Meal,13813
+1057,Vistara,01/10/2022,15h 00m,Kolkata,Bangalore,20:50,11:50,1 Stop,Free Meal,13813
+1058,Vistara,01/10/2022,15h 30m,Kolkata,Bangalore,20:20,11:50,1 Stop,Free Meal,13813
+1059,Vistara,01/10/2022,25h 50m,Kolkata,Bangalore,20:50,22:40,1 Stop,Free Meal,13813
+1060,Vistara,01/10/2022,26h 20m,Kolkata,Bangalore,20:20,22:40,1 Stop,Free Meal,13813
+1061,Vistara,01/10/2022,26h 30m,Kolkata,Bangalore,20:50,23:20,1 Stop,Free Meal,13813
+1062,Vistara,01/10/2022,27h 00m,Kolkata,Bangalore,20:20,23:20,1 Stop,Free Meal,13813
+1063,Air Asia,01/10/2022,2h 40m,Kolkata,Bangalore,17:00,19:40,Non Stop,No Meal,14068
+1064,IndiGo,01/10/2022,2h 25m,Kolkata,Bangalore,5:40,8:05,Non Stop,No Meal,14172
+1065,IndiGo,01/10/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,14172
+1066,IndiGo,01/10/2022,2h 40m,Kolkata,Bangalore,13:55,16:35,Non Stop,No Meal,14172
+1067,IndiGo,01/10/2022,4h 40m,Kolkata,Bangalore,7:25,12:05,1 Stop,No Meal,14313
+1068,IndiGo,01/10/2022,2h 30m,Kolkata,Bangalore,8:40,11:10,Non Stop,No Meal,15012
+1069,IndiGo,01/10/2022,2h 35m,Kolkata,Bangalore,12:05,14:40,Non Stop,No Meal,15012
+1070,Air Asia,01/10/2022,9h 30m,Kolkata,Bangalore,21:40,7:10,1 Stop,No Meal,15385
+1071,IndiGo,01/10/2022,2h 20m,Kolkata,Bangalore,4:35,6:55,Non Stop,No Meal,16062
+1072,IndiGo,01/10/2022,2h 30m,Kolkata,Bangalore,6:45,9:15,Non Stop,No Meal,16062
+1073,Air Asia,01/10/2022,5h 55m,Kolkata,Bangalore,5:25,11:20,1 Stop,No Meal,16225
+1074,IndiGo,01/10/2022,9h 05m,Kolkata,Bangalore,16:25,1:30,1 Stop,No Meal,16325
+1075,IndiGo,01/10/2022,7h 05m,Kolkata,Bangalore,13:20,20:25,1 Stop,No Meal,16745
+1076,Air Asia,01/10/2022,6h 00m,Kolkata,Bangalore,18:40,0:40,1 Stop,No Meal,16929
+1077,IndiGo,01/10/2022,9h 10m,Kolkata,Bangalore,7:40,16:50,1 Stop,No Meal,17585
+1078,Air India,01/10/2022,12h 25m,Kolkata,Bangalore,20:30,8:55,1 Stop,No Meal,17585
+1079,Air India,01/10/2022,27h 35m,Kolkata,Bangalore,20:30,0:05,1 Stop,No Meal,17585
+1080,Air Asia,01/10/2022,11h 25m,Kolkata,Bangalore,13:15,0:40,1 Stop,No Meal,17769
+1081,IndiGo,01/10/2022,8h 05m,Kolkata,Bangalore,14:15,22:20,1 Stop,No Meal,17774
+1082,Air India,01/10/2022,14h 00m,Kolkata,Bangalore,20:30,10:30,1 Stop,No Meal,17795
+1083,Air India,01/10/2022,16h 00m,Kolkata,Bangalore,20:30,12:30,1 Stop,No Meal,17795
+1084,Air Asia,01/10/2022,10h 45m,Kolkata,Bangalore,8:40,19:25,1 Stop,No Meal,17873
+1085,IndiGo,01/10/2022,9h 20m,Kolkata,Bangalore,9:40,19:00,1 Stop,No Meal,18001
+1086,IndiGo,01/10/2022,5h 40m,Kolkata,Bangalore,18:00,23:40,1 Stop,No Meal,18005
+1087,IndiGo,01/10/2022,7h 15m,Kolkata,Bangalore,18:00,1:15,1 Stop,No Meal,18005
+1088,Air Asia,01/10/2022,10h 45m,Kolkata,Bangalore,4:50,15:35,1 Stop,No Meal,18292
+1089,Air Asia,01/10/2022,9h 15m,Kolkata,Bangalore,13:15,22:30,1 Stop,No Meal,18503
+1090,Air India,01/10/2022,14h 35m,Kolkata,Bangalore,17:15,7:50,1 Stop,Free Meal,18510
+1091,Air India,01/10/2022,22h 25m,Kolkata,Bangalore,9:25,7:50,1 Stop,Free Meal,18510
+1092,IndiGo,01/10/2022,7h 15m,Kolkata,Bangalore,7:05,14:20,1 Stop,No Meal,18630
+1093,Air India,01/10/2022,11h 15m,Kolkata,Bangalore,9:25,20:40,1 Stop,Free Meal,18720
+1094,Go First,01/10/2022,2h 30m,Kolkata,Bangalore,5:45,8:15,Non Stop,No Meal,18975
+1095,Vistara,01/10/2022,15h 15m,Kolkata,Bangalore,17:35,8:50,1 Stop,Free Meal,19212
+1096,Air India,01/10/2022,13h 35m,Kolkata,Bangalore,10:30,0:05,1 Stop,No Meal,19422
+1097,Air India,01/10/2022,22h 25m,Kolkata,Bangalore,10:30,8:55,1 Stop,No Meal,19422
+1098,Air India,01/10/2022,24h 00m,Kolkata,Bangalore,10:30,10:30,1 Stop,No Meal,19632
+1099,Air India,01/10/2022,26h 00m,Kolkata,Bangalore,10:30,12:30,1 Stop,No Meal,19632
+1100,Air India,01/10/2022,16h 45m,Kolkata,Bangalore,16:10,8:55,2 Stop(s),Free Meal,19736
+1101,Go First,01/10/2022,7h 00m,Kolkata,Bangalore,16:40,23:40,1 Stop,No Meal,19784
+1102,Air India,01/10/2022,19h 45m,Kolkata,Bangalore,20:30,16:15,1 Stop,No Meal,19790
+1103,Air India,01/10/2022,21h 50m,Kolkata,Bangalore,20:30,18:20,1 Stop,No Meal,19790
+1104,Air India,01/10/2022,23h 45m,Kolkata,Bangalore,20:30,20:15,1 Stop,No Meal,19790
+1105,Air India,01/10/2022,18h 20m,Kolkata,Bangalore,16:10,10:30,2 Stop(s),Free Meal,19946
+1106,Air India,01/10/2022,20h 20m,Kolkata,Bangalore,16:10,12:30,2 Stop(s),Free Meal,19946
+1107,Air India,01/10/2022,8h 55m,Kolkata,Bangalore,9:25,18:20,1 Stop,Free Meal,19980
+1108,SpiceJet,01/10/2022,11h 10m,Kolkata,Bangalore,21:45,8:55,1 Stop,No Meal,20125
+1109,SpiceJet,01/10/2022,17h 15m,Kolkata,Bangalore,15:40,8:55,1 Stop,No Meal,20125
+1110,Vistara,01/10/2022,16h 05m,Kolkata,Bangalore,18:45,10:50,1 Stop,Free Meal,20262
+1111,Vistara,01/10/2022,17h 05m,Kolkata,Bangalore,18:45,11:50,1 Stop,Free Meal,20262
+1112,IndiGo,01/10/2022,8h 30m,Kolkata,Bangalore,0:05,8:35,1 Stop,No Meal,20630
+1113,Air India,01/10/2022,24h 05m,Kolkata,Bangalore,16:10,16:15,2 Stop(s),Free Meal,20791
+1114,Air India,01/10/2022,26h 10m,Kolkata,Bangalore,16:10,18:20,2 Stop(s),Free Meal,20791
+1115,Air India,01/10/2022,28h 05m,Kolkata,Bangalore,16:10,20:15,2 Stop(s),Free Meal,20791
+1116,Air India,01/10/2022,17h 55m,Kolkata,Bangalore,17:15,11:10,1 Stop,Free Meal,20820
+1117,Air India,01/10/2022,25h 05m,Kolkata,Bangalore,17:15,18:20,1 Stop,Free Meal,20820
+1118,Air India,01/10/2022,25h 45m,Kolkata,Bangalore,9:25,11:10,1 Stop,Free Meal,20820
+1119,Air India,01/10/2022,27h 25m,Kolkata,Bangalore,17:15,20:40,1 Stop,Free Meal,20820
+1120,SpiceJet,01/10/2022,9h 00m,Kolkata,Bangalore,23:55,8:55,1 Stop,No Meal,21175
+1121,SpiceJet,01/10/2022,24h 45m,Kolkata,Bangalore,21:45,22:30,1 Stop,No Meal,21285
+1122,Air India,01/10/2022,8h 35m,Kolkata,Bangalore,15:30,0:05,1 Stop,Free Meal,21942
+1123,Air India,01/10/2022,17h 25m,Kolkata,Bangalore,15:30,8:55,1 Stop,Free Meal,21942
+1124,Air India,01/10/2022,19h 00m,Kolkata,Bangalore,15:30,10:30,1 Stop,Free Meal,22152
+1125,SpiceJet,01/10/2022,22h 35m,Kolkata,Bangalore,23:55,22:30,1 Stop,No Meal,22335
+1126,Vistara,01/10/2022,14h 10m,Kolkata,Bangalore,20:35,10:45,1 Stop,Free Meal,22499
+1127,Vistara,01/10/2022,22h 40m,Kolkata,Bangalore,20:35,19:15,1 Stop,Free Meal,22499
+1128,Air India,01/10/2022,9h 45m,Kolkata,Bangalore,10:30,20:15,1 Stop,No Meal,23097
+1129,IndiGo,01/10/2022,5h 20m,Kolkata,Bangalore,14:35,19:55,1 Stop,No Meal,23360
+1130,SpiceJet,01/10/2022,15h 00m,Kolkata,Bangalore,7:30,22:30,1 Stop,No Meal,23381
+1131,SpiceJet,01/10/2022,25h 25m,Kolkata,Bangalore,7:30,8:55,1 Stop,No Meal,23381
+1132,IndiGo,01/10/2022,5h 20m,Kolkata,Bangalore,14:00,19:20,1 Stop,No Meal,24305
+1133,IndiGo,01/10/2022,7h 35m,Kolkata,Bangalore,14:00,21:35,1 Stop,No Meal,24305
+1134,IndiGo,01/10/2022,9h 40m,Kolkata,Bangalore,14:00,23:40,1 Stop,No Meal,24305
+1135,Vistara,01/10/2022,21h 10m,Kolkata,Bangalore,20:35,17:45,1 Stop,Free Meal,24357
+1136,IndiGo,01/10/2022,9h 00m,Kolkata,Bangalore,8:55,17:55,1 Stop,No Meal,24620
+1137,Vistara,01/10/2022,8h 50m,Kolkata,Bangalore,10:25,19:15,1 Stop,Free Meal,24809
+1138,IndiGo,01/10/2022,4h 40m,Kolkata,Bangalore,5:55,10:35,1 Stop,No Meal,25145
+1139,IndiGo,01/10/2022,7h 15m,Kolkata,Bangalore,5:55,13:10,1 Stop,No Meal,25145
+1140,Vistara,01/10/2022,7h 20m,Kolkata,Bangalore,10:25,17:45,1 Stop,Free Meal,25470
+1141,Vistara,01/10/2022,10h 30m,Kolkata,Bangalore,10:25,20:55,1 Stop,Free Meal,25470
+1142,Vistara,01/10/2022,12h 15m,Kolkata,Bangalore,20:35,8:50,1 Stop,Free Meal,25512
+1143,Air India,01/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1144,Air India,01/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1145,Air India,01/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1146,Air India,01/10/2022,15h 40m,Kolkata,Bangalore,17:15,8:55,2 Stop(s),Free Meal,25544
+1147,Vistara,01/10/2022,8h 00m,Kolkata,Bangalore,15:20,23:20,1 Stop,Free Meal,25617
+1148,IndiGo,01/10/2022,8h 45m,Kolkata,Bangalore,23:55,8:40,1 Stop,No Meal,25670
+1149,IndiGo,01/10/2022,10h 00m,Kolkata,Bangalore,23:55,9:55,1 Stop,No Meal,25670
+1150,Air Asia,01/10/2022,2h 35m,Kolkata,Bangalore,14:45,17:20,Non Stop,No Meal,25722
+1151,Air India,01/10/2022,17h 15m,Kolkata,Bangalore,17:15,10:30,2 Stop(s),Free Meal,25754
+1152,Vistara,01/10/2022,12h 45m,Kolkata,Bangalore,10:25,23:10,1 Stop,Free Meal,26142
+1153,Vistara,01/10/2022,7h 20m,Kolkata,Bangalore,15:20,22:40,1 Stop,Free Meal,26247
+1154,SpiceJet,01/10/2022,24h 25m,Kolkata,Bangalore,14:45,15:10,1 Stop,No Meal,26352
+1155,Vistara,01/10/2022,13h 05m,Kolkata,Bangalore,10:15,23:20,1 Stop,Free Meal,26877
+1156,Vistara,01/10/2022,8h 35m,Kolkata,Bangalore,10:15,18:50,1 Stop,Free Meal,27507
+1157,Vistara,01/10/2022,10h 10m,Kolkata,Bangalore,10:15,20:25,1 Stop,Free Meal,27507
+1158,Vistara,01/10/2022,12h 25m,Kolkata,Bangalore,10:15,22:40,1 Stop,Free Meal,27507
+1159,Vistara,01/10/2022,6h 50m,Kolkata,Bangalore,10:15,17:05,1 Stop,Free Meal,28137
+1160,IndiGo,01/10/2022,5h 10m,Kolkata,Bangalore,4:45,9:55,1 Stop,No Meal,29345
+1161,IndiGo,01/10/2022,6h 45m,Kolkata,Bangalore,10:30,17:15,1 Stop,No Meal,29345
+1162,IndiGo,01/10/2022,8h 20m,Kolkata,Bangalore,10:30,18:50,1 Stop,No Meal,29345
+1163,IndiGo,01/10/2022,8h 50m,Kolkata,Bangalore,8:25,17:15,1 Stop,No Meal,29345
+1164,IndiGo,01/10/2022,9h 25m,Kolkata,Bangalore,10:30,19:55,1 Stop,No Meal,29345
+1165,IndiGo,01/10/2022,10h 15m,Kolkata,Bangalore,22:25,8:40,1 Stop,No Meal,29345
+1166,IndiGo,01/10/2022,7h 25m,Kolkata,Bangalore,4:45,12:10,1 Stop,No Meal,29922
+1167,Go First,01/10/2022,5h 40m,Kolkata,Bangalore,16:45,22:25,1 Stop,No Meal,30675
+1168,Go First,01/10/2022,7h 45m,Kolkata,Bangalore,16:45,0:30,1 Stop,No Meal,30675
+1169,Go First,01/10/2022,15h 00m,Kolkata,Bangalore,16:45,7:45,1 Stop,No Meal,30675
+1170,Air Asia,02/10/2022,2h 45m,Kolkata,Bangalore,20:25,23:10,Non Stop,No Meal,10918
+1171,IndiGo,02/10/2022,2h 30m,Kolkata,Bangalore,21:20,23:50,Non Stop,No Meal,11022
+1172,IndiGo,02/10/2022,2h 30m,Kolkata,Bangalore,19:55,22:25,Non Stop,No Meal,11652
+1173,IndiGo,02/10/2022,5h 30m,Kolkata,Bangalore,15:00,20:30,1 Stop,No Meal,12553
+1174,IndiGo,02/10/2022,9h 05m,Kolkata,Bangalore,23:10,8:15,1 Stop,No Meal,12755
+1175,Vistara,02/10/2022,5h 35m,Kolkata,Bangalore,17:35,23:10,1 Stop,Free Meal,12784
+1176,Vistara,02/10/2022,17h 10m,Kolkata,Bangalore,17:35,10:45,1 Stop,Free Meal,12784
+1177,Vistara,02/10/2022,24h 10m,Kolkata,Bangalore,17:35,17:45,1 Stop,Free Meal,12784
+1178,Vistara,02/10/2022,25h 40m,Kolkata,Bangalore,17:35,19:15,1 Stop,Free Meal,12784
+1179,Vistara,02/10/2022,27h 20m,Kolkata,Bangalore,17:35,20:55,1 Stop,Free Meal,12784
+1180,Air Asia,02/10/2022,3h 50m,Kolkata,Bangalore,18:40,22:30,1 Stop,No Meal,12808
+1181,IndiGo,02/10/2022,7h 15m,Kolkata,Bangalore,18:00,1:15,1 Stop,No Meal,12810
+1182,Go First,02/10/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,13074
+1183,IndiGo,02/10/2022,2h 20m,Kolkata,Bangalore,18:45,21:05,Non Stop,No Meal,13332
+1184,IndiGo,02/10/2022,2h 45m,Kolkata,Bangalore,23:20,2:05,Non Stop,No Meal,13332
+1185,IndiGo,02/10/2022,5h 20m,Kolkata,Bangalore,19:55,1:15,1 Stop,No Meal,13805
+1186,Vistara,02/10/2022,14h 00m,Kolkata,Bangalore,20:50,10:50,1 Stop,Free Meal,13813
+1187,Vistara,02/10/2022,14h 30m,Kolkata,Bangalore,20:20,10:50,1 Stop,Free Meal,13813
+1188,Vistara,02/10/2022,15h 00m,Kolkata,Bangalore,20:50,11:50,1 Stop,Free Meal,13813
+1189,Vistara,02/10/2022,15h 30m,Kolkata,Bangalore,20:20,11:50,1 Stop,Free Meal,13813
+1190,Vistara,02/10/2022,25h 50m,Kolkata,Bangalore,20:50,22:40,1 Stop,Free Meal,13813
+1191,Vistara,02/10/2022,26h 20m,Kolkata,Bangalore,20:20,22:40,1 Stop,Free Meal,13813
+1192,Vistara,02/10/2022,26h 30m,Kolkata,Bangalore,20:50,23:20,1 Stop,Free Meal,13813
+1193,Vistara,02/10/2022,27h 00m,Kolkata,Bangalore,20:20,23:20,1 Stop,Free Meal,13813
+1194,Air Asia,02/10/2022,2h 40m,Kolkata,Bangalore,17:00,19:40,Non Stop,No Meal,14068
+1195,IndiGo,02/10/2022,2h 25m,Kolkata,Bangalore,5:40,8:05,Non Stop,No Meal,14172
+1196,IndiGo,02/10/2022,2h 30m,Kolkata,Bangalore,16:45,19:15,Non Stop,No Meal,14172
+1197,IndiGo,02/10/2022,2h 40m,Kolkata,Bangalore,13:55,16:35,Non Stop,No Meal,14172
+1198,IndiGo,02/10/2022,4h 40m,Kolkata,Bangalore,7:25,12:05,1 Stop,No Meal,14313
+1199,IndiGo,02/10/2022,2h 30m,Kolkata,Bangalore,8:40,11:10,Non Stop,No Meal,15012
+1200,IndiGo,02/10/2022,2h 35m,Kolkata,Bangalore,12:05,14:40,Non Stop,No Meal,15012
+1201,Air Asia,02/10/2022,9h 30m,Kolkata,Bangalore,21:40,7:10,1 Stop,No Meal,15385
+1202,IndiGo,02/10/2022,2h 20m,Kolkata,Bangalore,4:35,6:55,Non Stop,No Meal,16062
+1203,IndiGo,02/10/2022,2h 30m,Kolkata,Bangalore,6:45,9:15,Non Stop,No Meal,16062
+1204,Air Asia,02/10/2022,5h 55m,Kolkata,Bangalore,5:25,11:20,1 Stop,No Meal,16225
+1205,IndiGo,02/10/2022,9h 05m,Kolkata,Bangalore,16:25,1:30,1 Stop,No Meal,16325
+1206,IndiGo,02/10/2022,7h 05m,Kolkata,Bangalore,13:20,20:25,1 Stop,No Meal,16745
+1207,Air Asia,02/10/2022,6h 00m,Kolkata,Bangalore,18:40,0:40,1 Stop,No Meal,16929
+1208,IndiGo,02/10/2022,9h 10m,Kolkata,Bangalore,7:40,16:50,1 Stop,No Meal,17585
+1209,Air India,02/10/2022,12h 25m,Kolkata,Bangalore,20:30,8:55,1 Stop,No Meal,17585
+1210,Air India,02/10/2022,27h 35m,Kolkata,Bangalore,20:30,0:05,1 Stop,No Meal,17585
+1211,Air Asia,02/10/2022,11h 25m,Kolkata,Bangalore,13:15,0:40,1 Stop,No Meal,17769
+1212,IndiGo,02/10/2022,8h 05m,Kolkata,Bangalore,14:15,22:20,1 Stop,No Meal,17774
+1213,Air India,02/10/2022,14h 00m,Kolkata,Bangalore,20:30,10:30,1 Stop,No Meal,17795
+1214,Air India,02/10/2022,16h 00m,Kolkata,Bangalore,20:30,12:30,1 Stop,No Meal,17795
+1215,Air Asia,02/10/2022,10h 45m,Kolkata,Bangalore,8:40,19:25,1 Stop,No Meal,17873
+1216,IndiGo,02/10/2022,9h 20m,Kolkata,Bangalore,9:40,19:00,1 Stop,No Meal,18001
+1217,IndiGo,02/10/2022,5h 40m,Kolkata,Bangalore,18:00,23:40,1 Stop,No Meal,18005
+1218,IndiGo,02/10/2022,7h 15m,Kolkata,Bangalore,18:00,1:15,1 Stop,No Meal,18005
+1219,Air Asia,02/10/2022,10h 45m,Kolkata,Bangalore,4:50,15:35,1 Stop,No Meal,18292
+1220,Air Asia,02/10/2022,9h 15m,Kolkata,Bangalore,13:15,22:30,1 Stop,No Meal,18503
+1221,Air India,02/10/2022,14h 35m,Kolkata,Bangalore,17:15,7:50,1 Stop,Free Meal,18510
+1222,Air India,02/10/2022,22h 25m,Kolkata,Bangalore,9:25,7:50,1 Stop,Free Meal,18510
+1223,IndiGo,02/10/2022,7h 15m,Kolkata,Bangalore,7:05,14:20,1 Stop,No Meal,18630
+1224,Air India,02/10/2022,11h 15m,Kolkata,Bangalore,9:25,20:40,1 Stop,Free Meal,18720
+1225,Go First,02/10/2022,2h 30m,Kolkata,Bangalore,5:45,8:15,Non Stop,No Meal,18975
+1226,Vistara,02/10/2022,15h 15m,Kolkata,Bangalore,17:35,8:50,1 Stop,Free Meal,19212
+1227,Air India,02/10/2022,13h 35m,Kolkata,Bangalore,10:30,0:05,1 Stop,No Meal,19422
+1228,Air India,02/10/2022,22h 25m,Kolkata,Bangalore,10:30,8:55,1 Stop,No Meal,19422
+1229,Air India,02/10/2022,24h 00m,Kolkata,Bangalore,10:30,10:30,1 Stop,No Meal,19632
+1230,Air India,02/10/2022,26h 00m,Kolkata,Bangalore,10:30,12:30,1 Stop,No Meal,19632
+1231,Air India,02/10/2022,16h 45m,Kolkata,Bangalore,16:10,8:55,2 Stop(s),Free Meal,19736
+1232,Go First,02/10/2022,7h 00m,Kolkata,Bangalore,16:40,23:40,1 Stop,No Meal,19784
+1233,Air India,02/10/2022,19h 45m,Kolkata,Bangalore,20:30,16:15,1 Stop,No Meal,19790
+1234,Air India,02/10/2022,21h 50m,Kolkata,Bangalore,20:30,18:20,1 Stop,No Meal,19790
+1235,Air India,02/10/2022,23h 45m,Kolkata,Bangalore,20:30,20:15,1 Stop,No Meal,19790
+1236,Air India,02/10/2022,18h 20m,Kolkata,Bangalore,16:10,10:30,2 Stop(s),Free Meal,19946
+1237,Air India,02/10/2022,20h 20m,Kolkata,Bangalore,16:10,12:30,2 Stop(s),Free Meal,19946
+1238,Air India,02/10/2022,8h 55m,Kolkata,Bangalore,9:25,18:20,1 Stop,Free Meal,19980
+1239,SpiceJet,02/10/2022,11h 10m,Kolkata,Bangalore,21:45,8:55,1 Stop,No Meal,20125
+1240,SpiceJet,02/10/2022,17h 15m,Kolkata,Bangalore,15:40,8:55,1 Stop,No Meal,20125
+1241,Vistara,02/10/2022,16h 05m,Kolkata,Bangalore,18:45,10:50,1 Stop,Free Meal,20262
+1242,Vistara,02/10/2022,17h 05m,Kolkata,Bangalore,18:45,11:50,1 Stop,Free Meal,20262
+1243,IndiGo,02/10/2022,8h 30m,Kolkata,Bangalore,0:05,8:35,1 Stop,No Meal,20630
+1244,Air India,02/10/2022,24h 05m,Kolkata,Bangalore,16:10,16:15,2 Stop(s),Free Meal,20791
+1245,Air India,02/10/2022,26h 10m,Kolkata,Bangalore,16:10,18:20,2 Stop(s),Free Meal,20791
+1246,Air India,02/10/2022,28h 05m,Kolkata,Bangalore,16:10,20:15,2 Stop(s),Free Meal,20791
+1247,Air India,02/10/2022,17h 55m,Kolkata,Bangalore,17:15,11:10,1 Stop,Free Meal,20820
+1248,Air India,02/10/2022,25h 05m,Kolkata,Bangalore,17:15,18:20,1 Stop,Free Meal,20820
+1249,Air India,02/10/2022,25h 45m,Kolkata,Bangalore,9:25,11:10,1 Stop,Free Meal,20820
+1250,Air India,02/10/2022,27h 25m,Kolkata,Bangalore,17:15,20:40,1 Stop,Free Meal,20820
+1251,SpiceJet,02/10/2022,9h 00m,Kolkata,Bangalore,23:55,8:55,1 Stop,No Meal,21175
+1252,SpiceJet,02/10/2022,24h 45m,Kolkata,Bangalore,21:45,22:30,1 Stop,No Meal,21285
+1253,Air India,02/10/2022,8h 35m,Kolkata,Bangalore,15:30,0:05,1 Stop,Free Meal,21942
+1254,Air India,02/10/2022,17h 25m,Kolkata,Bangalore,15:30,8:55,1 Stop,Free Meal,21942
+1255,Air India,02/10/2022,19h 00m,Kolkata,Bangalore,15:30,10:30,1 Stop,Free Meal,22152
+1256,SpiceJet,02/10/2022,22h 35m,Kolkata,Bangalore,23:55,22:30,1 Stop,No Meal,22335
+1257,Vistara,02/10/2022,14h 10m,Kolkata,Bangalore,20:35,10:45,1 Stop,Free Meal,22499
+1258,Vistara,02/10/2022,22h 40m,Kolkata,Bangalore,20:35,19:15,1 Stop,Free Meal,22499
+1259,Air India,02/10/2022,9h 45m,Kolkata,Bangalore,10:30,20:15,1 Stop,No Meal,23097
+1260,IndiGo,02/10/2022,5h 20m,Kolkata,Bangalore,14:35,19:55,1 Stop,No Meal,23360
+1261,SpiceJet,02/10/2022,15h 00m,Kolkata,Bangalore,7:30,22:30,1 Stop,No Meal,23381
+1262,SpiceJet,02/10/2022,25h 25m,Kolkata,Bangalore,7:30,8:55,1 Stop,No Meal,23381
+1263,IndiGo,02/10/2022,5h 20m,Kolkata,Bangalore,14:00,19:20,1 Stop,No Meal,24305
+1264,IndiGo,02/10/2022,7h 35m,Kolkata,Bangalore,14:00,21:35,1 Stop,No Meal,24305
+1265,IndiGo,02/10/2022,9h 40m,Kolkata,Bangalore,14:00,23:40,1 Stop,No Meal,24305
+1266,Vistara,02/10/2022,21h 10m,Kolkata,Bangalore,20:35,17:45,1 Stop,Free Meal,24357
+1267,IndiGo,02/10/2022,9h 00m,Kolkata,Bangalore,8:55,17:55,1 Stop,No Meal,24620
+1268,Vistara,02/10/2022,8h 50m,Kolkata,Bangalore,10:25,19:15,1 Stop,Free Meal,24809
+1269,IndiGo,02/10/2022,4h 40m,Kolkata,Bangalore,5:55,10:35,1 Stop,No Meal,25145
+1270,IndiGo,02/10/2022,7h 15m,Kolkata,Bangalore,5:55,13:10,1 Stop,No Meal,25145
+1271,Vistara,02/10/2022,7h 20m,Kolkata,Bangalore,10:25,17:45,1 Stop,Free Meal,25470
+1272,Vistara,02/10/2022,10h 30m,Kolkata,Bangalore,10:25,20:55,1 Stop,Free Meal,25470
+1273,Vistara,02/10/2022,12h 15m,Kolkata,Bangalore,20:35,8:50,1 Stop,Free Meal,25512
+1274,Air India,02/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1275,Air India,02/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1276,Air India,02/10/2022,14h 40m,Kolkata,Bangalore,9:25,0:05,2 Stop(s),Free Meal,25544
+1277,Air India,02/10/2022,15h 40m,Kolkata,Bangalore,17:15,8:55,2 Stop(s),Free Meal,25544
+1278,Vistara,02/10/2022,8h 00m,Kolkata,Bangalore,15:20,23:20,1 Stop,Free Meal,25617
+1279,IndiGo,02/10/2022,8h 45m,Kolkata,Bangalore,23:55,8:40,1 Stop,No Meal,25670
+1280,IndiGo,02/10/2022,10h 00m,Kolkata,Bangalore,23:55,9:55,1 Stop,No Meal,25670
+1281,Air Asia,02/10/2022,2h 35m,Kolkata,Bangalore,14:45,17:20,Non Stop,No Meal,25722
+1282,Air India,02/10/2022,17h 15m,Kolkata,Bangalore,17:15,10:30,2 Stop(s),Free Meal,25754
+1283,Vistara,02/10/2022,12h 45m,Kolkata,Bangalore,10:25,23:10,1 Stop,Free Meal,26142
+1284,Vistara,02/10/2022,7h 20m,Kolkata,Bangalore,15:20,22:40,1 Stop,Free Meal,26247
+1285,SpiceJet,02/10/2022,24h 25m,Kolkata,Bangalore,14:45,15:10,1 Stop,No Meal,26352
+1286,Vistara,02/10/2022,13h 05m,Kolkata,Bangalore,10:15,23:20,1 Stop,Free Meal,26877
+1287,Vistara,02/10/2022,8h 35m,Kolkata,Bangalore,10:15,18:50,1 Stop,Free Meal,27507
+1288,Vistara,02/10/2022,10h 10m,Kolkata,Bangalore,10:15,20:25,1 Stop,Free Meal,27507
+1289,Vistara,02/10/2022,12h 25m,Kolkata,Bangalore,10:15,22:40,1 Stop,Free Meal,27507
+1290,Vistara,02/10/2022,6h 50m,Kolkata,Bangalore,10:15,17:05,1 Stop,Free Meal,28137
+1291,IndiGo,02/10/2022,5h 10m,Kolkata,Bangalore,4:45,9:55,1 Stop,No Meal,29345
+1292,IndiGo,02/10/2022,6h 45m,Kolkata,Bangalore,10:30,17:15,1 Stop,No Meal,29345
+1293,IndiGo,02/10/2022,8h 20m,Kolkata,Bangalore,10:30,18:50,1 Stop,No Meal,29345
+1294,IndiGo,02/10/2022,8h 50m,Kolkata,Bangalore,8:25,17:15,1 Stop,No Meal,29345
+1295,IndiGo,02/10/2022,9h 25m,Kolkata,Bangalore,10:30,19:55,1 Stop,No Meal,29345
+1296,IndiGo,02/10/2022,10h 15m,Kolkata,Bangalore,22:25,8:40,1 Stop,No Meal,29345
+1297,IndiGo,02/10/2022,7h 25m,Kolkata,Bangalore,4:45,12:10,1 Stop,No Meal,29922
+1298,Go First,02/10/2022,5h 40m,Kolkata,Bangalore,16:45,22:25,1 Stop,No Meal,30675
+1299,Go First,02/10/2022,7h 45m,Kolkata,Bangalore,16:45,0:30,1 Stop,No Meal,30675
+1300,Go First,02/10/2022,15h 00m,Kolkata,Bangalore,16:45,7:45,1 Stop,No Meal,30675
+1301,IndiGo,29/09/2022,6h 50m,Indore,Goa,7:55,14:45,1 Stop,No Meal,5488
+1302,IndiGo,29/09/2022,7h 20m,Indore,Goa,16:10,23:30,1 Stop,No Meal,5488
+1303,IndiGo,29/09/2022,4h 45m,Indore,Goa,16:45,21:30,1 Stop,No Meal,6262
+1304,IndiGo,29/09/2022,9h 15m,Indore,Goa,21:00,6:15,1 Stop,No Meal,6262
+1305,IndiGo,29/09/2022,9h 25m,Indore,Goa,12:05,21:30,1 Stop,No Meal,7707
+1306,Vistara,29/09/2022,5h 45m,Indore,Goa,8:05,13:50,1 Stop,Free Meal,7758
+1307,IndiGo,29/09/2022,1h 50m,Indore,Goa,12:25,14:15,Non Stop,No Meal,8215
+1308,IndiGo,29/09/2022,6h 10m,Indore,Goa,9:05,15:15,1 Stop,No Meal,8252
+1309,IndiGo,29/09/2022,9h 15m,Indore,Goa,6:00,15:15,1 Stop,No Meal,8252
+1310,IndiGo,29/09/2022,6h 15m,Indore,Goa,16:45,23:00,1 Stop,No Meal,8268
+1311,Vistara,29/09/2022,13h 15m,Indore,Goa,8:05,21:20,1 Stop,Free Meal,8552
+1312,IndiGo,29/09/2022,9h 05m,Indore,Goa,9:05,18:10,1 Stop,No Meal,8677
+1313,IndiGo,29/09/2022,8h 00m,Indore,Goa,6:10,14:10,1 Stop,No Meal,8873
+1314,IndiGo,29/09/2022,8h 05m,Indore,Goa,18:45,2:50,1 Stop,No Meal,8873
+1315,Air India,29/09/2022,5h 45m,Indore,Goa,16:35,22:20,1 Stop,Free Meal,8888
+1316,Air India,29/09/2022,13h 45m,Indore,Goa,16:35,6:20,1 Stop,Free Meal,8888
+1317,IndiGo,29/09/2022,6h 40m,Indore,Goa,6:00,12:40,1 Stop,No Meal,9937
+1318,Air India,29/09/2022,22h 00m,Indore,Goa,16:35,14:35,1 Stop,Free Meal,10043
+1319,IndiGo,29/09/2022,5h 30m,Indore,Goa,12:05,17:35,1 Stop,No Meal,10237
+1320,IndiGo,29/09/2022,9h 10m,Indore,Goa,8:25,17:35,1 Stop,No Meal,11257
+1321,Air India,29/09/2022,15h 15m,Indore,Goa,9:25,0:40,1 Stop,Free Meal,12878
+1322,IndiGo,29/09/2022,5h 35m,Indore,Goa,8:25,14:00,1 Stop,No Meal,13940
+1323,Air India,29/09/2022,28h 10m,Indore,Goa,9:25,13:35,1 Stop,Free Meal,15608
+1324,Vistara,29/09/2022,17h 45m,Indore,Goa,20:05,13:50,1 Stop,Free Meal,16868
+1325,Vistara,29/09/2022,25h 15m,Indore,Goa,20:05,21:20,1 Stop,Free Meal,16868
+1326,IndiGo,30/09/2022,6h 10m,Indore,Goa,9:05,15:15,1 Stop,No Meal,8304
+1327,IndiGo,30/09/2022,7h 20m,Indore,Goa,16:10,23:30,1 Stop,No Meal,8304
+1328,IndiGo,30/09/2022,9h 05m,Indore,Goa,9:05,18:10,1 Stop,No Meal,8304
+1329,IndiGo,30/09/2022,9h 15m,Indore,Goa,6:00,15:15,1 Stop,No Meal,8304
+1330,IndiGo,30/09/2022,6h 50m,Indore,Goa,7:55,14:45,1 Stop,No Meal,8766
+1331,IndiGo,30/09/2022,1h 50m,Indore,Goa,12:25,14:15,Non Stop,No Meal,8821
+1332,Air India,30/09/2022,5h 45m,Indore,Goa,16:35,22:20,1 Stop,Free Meal,9308
+1333,IndiGo,30/09/2022,9h 15m,Indore,Goa,21:00,6:15,1 Stop,No Meal,9990
+1334,Air India,30/09/2022,22h 00m,Indore,Goa,16:35,14:35,1 Stop,Free Meal,10463
+1335,Air India,30/09/2022,13h 45m,Indore,Goa,16:35,6:20,1 Stop,Free Meal,10778
+1336,Vistara,30/09/2022,25h 15m,Indore,Goa,20:05,21:20,1 Stop,Free Meal,10782
+1337,IndiGo,30/09/2022,9h 25m,Indore,Goa,12:05,21:30,1 Stop,No Meal,12197
+1338,IndiGo,30/09/2022,5h 30m,Indore,Goa,12:05,17:35,1 Stop,No Meal,12932
+1339,IndiGo,30/09/2022,5h 35m,Indore,Goa,8:25,14:00,1 Stop,No Meal,13147
+1340,IndiGo,30/09/2022,9h 10m,Indore,Goa,8:25,17:35,1 Stop,No Meal,13147
+1341,IndiGo,30/09/2022,4h 45m,Indore,Goa,16:45,21:30,1 Stop,No Meal,13858
+1342,Air India,30/09/2022,15h 15m,Indore,Goa,9:25,0:40,1 Stop,Free Meal,14873
+1343,IndiGo,30/09/2022,6h 15m,Indore,Goa,16:45,23:00,1 Stop,No Meal,15433
+1344,IndiGo,30/09/2022,5h 05m,Indore,Goa,20:50,1:55,1 Stop,No Meal,15450
+1345,Vistara,30/09/2022,5h 45m,Indore,Goa,8:05,13:50,1 Stop,Free Meal,16868
+1346,Vistara,30/09/2022,13h 15m,Indore,Goa,8:05,21:20,1 Stop,Free Meal,16868
+1347,Air India,30/09/2022,28h 10m,Indore,Goa,9:25,13:35,1 Stop,Free Meal,17288
+1348,IndiGo,30/09/2022,10h 30m,Indore,Goa,15:25,1:55,1 Stop,No Meal,17550
+1349,Vistara,30/09/2022,16h 40m,Indore,Goa,20:05,12:45,2 Stop(s),Free Meal,17746
+1350,Vistara,30/09/2022,16h 40m,Indore,Goa,20:05,12:45,2 Stop(s),Free Meal,17746
+1351,Air India,30/09/2022,12h 55m,Indore,Goa,9:25,22:20,2 Stop(s),Free Meal,18128
+1352,Air India,30/09/2022,12h 55m,Indore,Goa,9:25,22:20,2 Stop(s),Free Meal,18338
+1353,IndiGo,30/09/2022,9h 55m,Indore,Goa,20:50,6:45,1 Stop,No Meal,18390
+1354,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,18676
+1355,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,18676
+1356,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,18676
+1357,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,18676
+1358,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,18676
+1359,IndiGo,30/09/2022,8h 00m,Indore,Goa,6:10,14:10,1 Stop,No Meal,19230
+1360,Vistara,30/09/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,19308
+1361,Vistara,30/09/2022,18h 10m,Indore,Goa,19:55,14:05,1 Stop,Free Meal,19630
+1362,Air India,30/09/2022,20h 55m,Indore,Goa,9:25,6:20,2 Stop(s),Free Meal,19808
+1363,IndiGo,30/09/2022,7h 15m,Indore,Goa,15:25,22:40,1 Stop,No Meal,21330
+1364,IndiGo,30/09/2022,6h 40m,Indore,Goa,6:00,12:40,1 Stop,No Meal,21541
+1365,IndiGo,30/09/2022,5h 15m,Indore,Goa,15:25,20:40,1 Stop,No Meal,22380
+1366,Vistara,30/09/2022,18h 00m,Indore,Goa,20:05,14:05,2 Stop(s),Free Meal,24075
+1367,Vistara,30/09/2022,18h 00m,Indore,Goa,20:05,14:05,2 Stop(s),Free Meal,24075
+1368,Vistara,30/09/2022,30h 00m,Indore,Goa,8:05,14:05,2 Stop(s),Free Meal,24075
+1369,Vistara,30/09/2022,30h 00m,Indore,Goa,8:05,14:05,2 Stop(s),Free Meal,24075
+1370,Vistara,30/09/2022,16h 50m,Indore,Goa,19:55,12:45,2 Stop(s),Free Meal,24460
+1371,Vistara,30/09/2022,16h 50m,Indore,Goa,19:55,12:45,2 Stop(s),Free Meal,25090
+1372,Vistara,30/09/2022,17h 45m,Indore,Goa,20:05,13:50,1 Stop,Free Meal,26591
+1373,IndiGo,30/09/2022,8h 05m,Indore,Goa,18:45,2:50,1 Stop,No Meal,26937
+1374,IndiGo,01/10/2022,9h 15m,Indore,Goa,21:00,6:15,1 Stop,No Meal,8304
+1375,IndiGo,01/10/2022,6h 50m,Indore,Goa,7:55,14:45,1 Stop,No Meal,9064
+1376,Air India,01/10/2022,13h 45m,Indore,Goa,16:35,6:20,1 Stop,Free Meal,9098
+1377,Air India,01/10/2022,5h 45m,Indore,Goa,16:35,22:20,1 Stop,Free Meal,9308
+1378,IndiGo,01/10/2022,10h 50m,Indore,Goa,14:05,0:55,1 Stop,No Meal,10018
+1379,Air India,01/10/2022,22h 00m,Indore,Goa,16:35,14:35,1 Stop,Free Meal,10463
+1380,Vistara,01/10/2022,25h 15m,Indore,Goa,20:05,21:20,1 Stop,Free Meal,11697
+1381,IndiGo,01/10/2022,1h 50m,Indore,Goa,12:25,14:15,Non Stop,No Meal,11777
+1382,IndiGo,01/10/2022,8h 05m,Indore,Goa,18:45,2:50,1 Stop,No Meal,12232
+1383,Vistara,01/10/2022,13h 15m,Indore,Goa,8:05,21:20,1 Stop,Free Meal,12435
+1384,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,12836
+1385,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,12836
+1386,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,13909
+1387,Air India,01/10/2022,15h 15m,Indore,Goa,9:25,0:40,1 Stop,Free Meal,14243
+1388,IndiGo,01/10/2022,6h 10m,Indore,Goa,16:45,22:55,1 Stop,No Meal,14593
+1389,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,14994
+1390,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,14994
+1391,Vistara,01/10/2022,23h 45m,Indore,Goa,8:05,7:50,2 Stop(s),Free Meal,14994
+1392,IndiGo,01/10/2022,4h 45m,Indore,Goa,16:45,21:30,1 Stop,No Meal,15433
+1393,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,16114
+1394,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,16114
+1395,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,16114
+1396,Air India,01/10/2022,20h 55m,Indore,Goa,9:25,6:20,2 Stop(s),Free Meal,16343
+1397,Air India,01/10/2022,12h 55m,Indore,Goa,9:25,22:20,2 Stop(s),Free Meal,16553
+1398,Air India,01/10/2022,12h 55m,Indore,Goa,9:25,22:20,2 Stop(s),Free Meal,16553
+1399,Air India,01/10/2022,28h 10m,Indore,Goa,9:25,13:35,1 Stop,Free Meal,16658
+1400,Vistara,01/10/2022,25h 40m,Indore,Goa,8:05,9:45,1 Stop,Free Meal,16868
+1401,IndiGo,01/10/2022,7h 15m,Indore,Goa,15:25,22:40,1 Stop,No Meal,16920
+1402,IndiGo,01/10/2022,9h 15m,Indore,Goa,6:00,15:15,1 Stop,No Meal,16920
+1403,IndiGo,01/10/2022,5h 30m,Indore,Goa,12:05,17:35,1 Stop,No Meal,17086
+1404,IndiGo,01/10/2022,9h 25m,Indore,Goa,12:05,21:30,1 Stop,No Meal,17086
+1405,Vistara,01/10/2022,16h 40m,Indore,Goa,20:05,12:45,2 Stop(s),Free Meal,17199
+1406,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,17199
+1407,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,17199
+1408,Vistara,01/10/2022,28h 40m,Indore,Goa,8:05,12:45,2 Stop(s),Free Meal,17199
+1409,IndiGo,01/10/2022,5h 05m,Indore,Goa,20:50,1:55,1 Stop,No Meal,17445
+1410,IndiGo,01/10/2022,10h 30m,Indore,Goa,15:25,1:55,1 Stop,No Meal,17445
+1411,IndiGo,01/10/2022,6h 40m,Indore,Goa,6:00,12:40,1 Stop,No Meal,17655
+1412,IndiGo,01/10/2022,5h 15m,Indore,Goa,15:25,20:40,1 Stop,No Meal,18705
+1413,IndiGo,01/10/2022,9h 10m,Indore,Goa,8:25,17:35,1 Stop,No Meal,19363
+1414,Vistara,01/10/2022,13h 40m,Indore,Goa,20:05,9:45,1 Stop,Free Meal,19386
+1415,Vistara,01/10/2022,17h 45m,Indore,Goa,20:05,13:50,1 Stop,Free Meal,19386
+1416,IndiGo,01/10/2022,10h 55m,Indore,Goa,20:50,7:45,1 Stop,No Meal,19965
+1417,IndiGo,01/10/2022,8h 00m,Indore,Goa,6:10,14:10,1 Stop,No Meal,25005
+1418,Vistara,01/10/2022,5h 45m,Indore,Goa,8:05,13:50,1 Stop,Free Meal,25268
+1419,IndiGo,02/10/2022,9h 15m,Indore,Goa,21:00,6:15,1 Stop,No Meal,8304
+1420,IndiGo,02/10/2022,10h 50m,Indore,Goa,14:05,0:55,1 Stop,No Meal,8531
+1421,IndiGo,02/10/2022,6h 50m,Indore,Goa,7:55,14:45,1 Stop,No Meal,8661
+1422,IndiGo,02/10/2022,6h 10m,Indore,Goa,16:45,22:55,1 Stop,No Meal,8796
+1423,IndiGo,02/10/2022,8h 05m,Indore,Goa,18:45,2:50,1 Stop,No Meal,8860
+1424,Vistara,02/10/2022,13h 15m,Indore,Goa,8:05,21:20,1 Stop,Free Meal,8907
+1425,IndiGo,02/10/2022,4h 45m,Indore,Goa,16:45,21:30,1 Stop,No Meal,9058
+1426,Air India,02/10/2022,13h 45m,Indore,Goa,16:35,6:20,1 Stop,Free Meal,9098
+1427,Air India,02/10/2022,22h 00m,Indore,Goa,16:35,14:35,1 Stop,Free Meal,9098
+1428,Air India,02/10/2022,5h 45m,Indore,Goa,16:35,22:20,1 Stop,Free Meal,9308
+1429,IndiGo,02/10/2022,6h 40m,Indore,Goa,6:00,12:40,1 Stop,No Meal,9570
+1430,IndiGo,02/10/2022,9h 25m,Indore,Goa,12:05,21:30,1 Stop,No Meal,9761
+1431,Vistara,02/10/2022,25h 15m,Indore,Goa,20:05,21:20,1 Stop,Free Meal,10759
+1432,IndiGo,02/10/2022,9h 10m,Indore,Goa,8:25,17:35,1 Stop,No Meal,10899
+1433,IndiGo,02/10/2022,5h 30m,Indore,Goa,12:05,17:35,1 Stop,No Meal,11913
+1434,Air India,02/10/2022,23h 40m,Indore,Goa,1:00,0:40,1 Stop,Free Meal,12353
+1435,IndiGo,02/10/2022,1h 50m,Indore,Goa,12:25,14:15,Non Stop,No Meal,12671
+1436,Air India,02/10/2022,15h 15m,Indore,Goa,9:25,0:40,1 Stop,Free Meal,13088
+1437,Vistara,02/10/2022,17h 45m,Indore,Goa,20:05,13:50,1 Stop,Free Meal,13243
+1438,IndiGo,02/10/2022,10h 00m,Indore,Goa,15:55,1:55,1 Stop,No Meal,13560
+1439,IndiGo,02/10/2022,5h 35m,Indore,Goa,8:25,14:00,1 Stop,No Meal,13629
+1440,IndiGo,02/10/2022,6h 45m,Indore,Goa,15:55,22:40,1 Stop,No Meal,13875
+1441,Air India,02/10/2022,28h 10m,Indore,Goa,9:25,13:35,1 Stop,Free Meal,14243
+1442,Air India,02/10/2022,12h 35m,Indore,Goa,1:00,13:35,1 Stop,Free Meal,15293
+1443,Vistara,02/10/2022,16h 40m,Indore,Goa,20:05,12:45,2 Stop(s),Free Meal,15587
+1444,IndiGo,29/09/2022,5h 5m,Chennai,Goa,16:25,21:30,1 Stop,Available,7198
+1445,IndiGo,29/09/2022,7h 55m,Chennai,Goa,22:20,6:15,1 Stop,Available,7198
+1446,IndiGo,29/09/2022,9h 30m,Chennai,Goa,12:00,21:30,1 Stop,Available,7198
+1447,IndiGo,29/09/2022,8h 35m,Chennai,Goa,14:55,23:30,1 Stop,Available,7818
+1448,Air Asia,29/09/2022,9h 10m,Chennai,Goa,10:15,19:25,1 Stop,Available,8060
+1449,Air Asia,29/09/2022,7h 45m,Chennai,Goa,10:15,18:00,1 Stop,Available,8510
+1450,IndiGo,29/09/2022,1h 30m,Chennai,Goa,17:50,19:20,Non Stop,Available,10453
+1451,IndiGo,29/09/2022,5h 10m,Chennai,Goa,9:00,14:10,1 Stop,Available,9057
+1452,IndiGo,29/09/2022,6h 25m,Chennai,Goa,7:45,14:10,1 Stop,Available,9057
+1453,IndiGo,29/09/2022,6h 35m,Chennai,Goa,16:25,23:00,1 Stop,Available,9057
+1454,IndiGo,29/09/2022,5h 35m,Chennai,Goa,12:00,17:35,1 Stop,Available,9676
+1455,IndiGo,29/09/2022,5h 15m,Chennai,Goa,12:55,18:10,1 Stop,Available,10132
+1456,IndiGo,29/09/2022,6h 20m,Chennai,Goa,11:50,18:10,1 Stop,Available,10132
+1457,IndiGo,29/09/2022,8h 40m,Chennai,Goa,9:30,18:10,1 Stop,Available,10132
+1458,IndiGo,29/09/2022,4h 30m,Chennai,Goa,17:00,21:30,1 Stop,Available,10296
+1459,Go First,30/09/2022,4h 15m,Chennai,Goa,13:45,18:00,1 Stop,Available,7839
+1460,IndiGo,30/09/2022,1h 30m,Chennai,Goa,17:50,19:20,Non Stop,Available,11923
+1461,SpiceJet,30/09/2022,5h 15m,Chennai,Goa,22:00,3:15,1 Stop,Available,9680
+1462,SpiceJet,30/09/2022,19h 5m,Chennai,Goa,22:00,17:05,1 Stop,Available,11154
+1463,Air India,30/09/2022,14h 25m,Chennai,Goa,7:55,22:20,1 Stop,Available,12763
+1464,Air India,30/09/2022,16h 10m,Chennai,Goa,6:10,22:20,1 Stop,Available,12763
+1465,Air Asia,30/09/2022,7h 20m,Chennai,Goa,22:35,5:55,1 Stop,Available,12890
+1466,Air Asia,30/09/2022,9h 10m,Chennai,Goa,10:15,19:25,1 Stop,Available,12890
+1467,IndiGo,30/09/2022,4h 20m,Chennai,Goa,21:35,1:55,1 Stop,Available,13638
+1468,SpiceJet,30/09/2022,14h 55m,Chennai,Goa,22:00,12:55,1 Stop,Available,13674
+1469,Air India,30/09/2022,6h 40m,Chennai,Goa,7:55,14:35,1 Stop,Available,13708
+1470,Air India,30/09/2022,8h 25m,Chennai,Goa,6:10,14:35,1 Stop,Available,13708
+1471,Air Asia,30/09/2022,7h 45m,Chennai,Goa,10:15,18:00,1 Stop,Available,13936
+1472,IndiGo,30/09/2022,7h 55m,Chennai,Goa,22:20,6:15,1 Stop,Available,14181
+1473,Air India,30/09/2022,22h 25m,Chennai,Goa,7:55,6:20,1 Stop,Available,14233
+1474,SpiceJet,01/10/2022,5h 15m,Chennai,Goa,22:00,3:15,1 Stop,Available,7469
+1475,Vistara,01/10/2022,11h 20m,Chennai,Goa,20:30,7:50,1 Stop,Available,7175
+1476,Vistara,01/10/2022,19h 20m,Chennai,Goa,12:30,7:50,1 Stop,Available,7175
+1477,Vistara,01/10/2022,22h 5m,Chennai,Goa,9:45,7:50,1 Stop,Available,7175
+1478,Vistara,01/10/2022,24h 50m,Chennai,Goa,7:00,7:50,1 Stop,Available,7175
+1479,IndiGo,01/10/2022,7h 55m,Chennai,Goa,22:20,6:15,1 Stop,Available,7226
+1480,SpiceJet,01/10/2022,5h 15m,Chennai,Goa,22:00,3:15,1 Stop,Available,7469
+1481,SpiceJet,01/10/2022,19h 5m,Chennai,Goa,22:00,17:05,1 Stop,Available,7469
+1482,Air India,01/10/2022,8h 40m,Chennai,Goa,21:40,6:20,1 Stop,Available,7954
+1483,Air India,01/10/2022,24h 40m,Chennai,Goa,21:40,22:20,1 Stop,Available,8164
+1484,SpiceJet,01/10/2022,14h 55m,Chennai,Goa,22:00,12:55,1 Stop,Available,8313
+1485,Air India,01/10/2022,14h 10m,Chennai,Goa,16:10,6:20,1 Stop,Available,9214
+1486,Air India,01/10/2022,16h 55m,Chennai,Goa,21:40,14:35,1 Stop,Available,9319
+1487,Air India,01/10/2022,6h 10m,Chennai,Goa,16:10,22:20,1 Stop,Available,9424
+1488,Vistara,01/10/2022,16h 15m,Chennai,Goa,20:30,12:45,1 Stop,Available,10923
+1489,Air India,01/10/2022,22h 25m,Chennai,Goa,16:10,14:35,1 Stop,Available,10579
+1490,IndiGo,02/10/2022,1h 30m,Chennai,Goa,17:50,19:20,Non Stop,Available,7828
+1491,Air India,02/10/2022,8h 40m,Chennai,Goa,21:40,6:20,1 Stop,Available,7167
+1492,Air India,02/10/2022,16h 55m,Chennai,Goa,21:40,14:35,1 Stop,Available,7167
+1493,Air India,02/10/2022,24h 40m,Chennai,Goa,21:40,22:20,1 Stop,Available,7167
+1494,IndiGo,02/10/2022,7h 55m,Chennai,Goa,22:20,6:15,1 Stop,Available,7226
+1495,Air India,02/10/2022,22h 25m,Chennai,Goa,7:55,6:20,1 Stop,Available,7377
+1496,Air India,02/10/2022,14h 25m,Chennai,Goa,7:55,22:20,1 Stop,Available,7587
+1497,Go First,02/10/2022,14h,Chennai,Goa,16:15,6:15,1 Stop,Available,7839
+1498,IndiGo,02/10/2022,1h 30m,Chennai,Goa,17:50,19:20,Non Stop,Available,7828
+1499,Air India,02/10/2022,24h 10m,Chennai,Goa,6:10,6:20,1 Stop,Available,7954
+1500,Air India,02/10/2022,14h 55m,Chennai,Goa,15:25,6:20,1 Stop,Available,8164
+1501,Air India,02/10/2022,16h 10m,Chennai,Goa,6:10,22:20,1 Stop,Available,8164
+1502,Air India,02/10/2022,23h 10m,Chennai,Goa,15:25,14:35,1 Stop,Available,8164
+1503,Air India,02/10/2022,6h 55m,Chennai,Goa,15:25,22:20,1 Stop,Available,8374
+1504,IndiGo,02/10/2022,4h 35m,Chennai,Goa,8:05,12:40,1 Stop,Available,8492
+1505,Air India,02/10/2022,6h 40m,Chennai,Goa,7:55,14:35,1 Stop,Available,8742
+1506,IndiGo,29/09/2022,1h 15m,Hyderabad,Mumbai,21:55,23:10,Non Stop,Available,4687
+1507,Go First,29/09/2022,1h 30m,Hyderabad,Mumbai,5:30,7:00,Non Stop,Available,4686
+1508,Air India,29/09/2022,1h 25m,Hyderabad,Mumbai,22:25,23:50,Non Stop,Available,4688
+1509,Air India,29/09/2022,1h 40m,Hyderabad,Mumbai,8:10,9:50,Non Stop,Available,4688
+1510,Air India,29/09/2022,1h 45m,Hyderabad,Mumbai,13:15,15:00,Non Stop,Available,4688
+1511,IndiGo,29/09/2022,1h 15m,Hyderabad,Mumbai,21:55,23:10,Non Stop,Available,4687
+1512,IndiGo,29/09/2022,1h 25m,Hyderabad,Mumbai,4:15,5:40,Non Stop,Available,4687
+1513,IndiGo,29/09/2022,1h 30m,Hyderabad,Mumbai,13:15,14:45,Non Stop,Available,4687
+1514,IndiGo,29/09/2022,1h 35m,Hyderabad,Mumbai,23:10,0:45,Non Stop,Available,4687
+1515,Vistara,29/09/2022,1h 25m,Hyderabad,Mumbai,21:35,23:00,Non Stop,Available,6366
+1516,Vistara,29/09/2022,1h 30m,Hyderabad,Mumbai,8:30,10:00,Non Stop,Available,6366
+1517,Vistara,29/09/2022,1h 35m,Hyderabad,Mumbai,12:55,14:30,Non Stop,Available,6366
+1518,Vistara,29/09/2022,1h 30m,Hyderabad,Mumbai,7:10,8:40,Non Stop,Available,6893
+1519,IndiGo,29/09/2022,4h 50m,Hyderabad,Mumbai,14:35,19:25,1 Stop,Available,7547
+1520,Air Asia,29/09/2022,7h 10m,Hyderabad,Mumbai,16:35,23:45,1 Stop,Available,8265
+1521,Air Asia,29/09/2022,14h 30m,Hyderabad,Mumbai,16:35,7:05,1 Stop,Available,8265
+1522,IndiGo,30/09/2022,1h 25m,Hyderabad,Mumbai,4:15,5:40,Non Stop,Available,4687
+1523,Go First,30/09/2022,1h 30m,Hyderabad,Mumbai,5:25,6:55,Non Stop,Available,4686
+1524,Air India,30/09/2022,1h 40m,Hyderabad,Mumbai,8:10,9:50,Non Stop,Available,4688
+1525,Air India,30/09/2022,1h 45m,Hyderabad,Mumbai,13:15,15:00,Non Stop,Available,4688
+1526,IndiGo,30/09/2022,1h 25m,Hyderabad,Mumbai,4:15,5:40,Non Stop,Available,4687
+1527,IndiGo,30/09/2022,1h 30m,Hyderabad,Mumbai,13:15,14:45,Non Stop,Available,4687
+1528,IndiGo,30/09/2022,1h 35m,Hyderabad,Mumbai,8:10,9:45,Non Stop,Available,4687
+1529,IndiGo,30/09/2022,1h 35m,Hyderabad,Mumbai,23:10,0:45,Non Stop,Available,4687
+1530,Air India,30/09/2022,1h 25m,Hyderabad,Mumbai,22:25,23:50,Non Stop,Available,5213
+1531,IndiGo,30/09/2022,1h 10m,Hyderabad,Mumbai,11:00,12:10,Non Stop,Available,5475
+1532,Vistara,30/09/2022,1h 30m,Hyderabad,Mumbai,7:10,8:40,Non Stop,Available,6366
+1533,Vistara,30/09/2022,1h 30m,Hyderabad,Mumbai,8:30,10:00,Non Stop,Available,6366
+1534,Vistara,30/09/2022,1h 35m,Hyderabad,Mumbai,12:55,14:30,Non Stop,Available,6366
+1535,Air Asia,30/09/2022,10h 5m,Hyderabad,Mumbai,21:10,7:15,1 Stop,Available,8100
+1536,IndiGo,30/09/2022,4h 50m,Hyderabad,Mumbai,14:35,19:25,1 Stop,Available,8446
+1537,Air Asia,30/09/2022,9h 20m,Hyderabad,Mumbai,21:55,7:15,1 Stop,Available,8573
+1538,IndiGo,01/10/2022,1h 25m,Hyderabad,Mumbai,4:15,5:40,Non Stop,Available,4687
+1539,IndiGo,01/10/2022,1h 30m,Hyderabad,Mumbai,6:45,8:15,Non Stop,Available,4687
+1540,Air India,01/10/2022,1h 40m,Hyderabad,Mumbai,8:10,9:50,Non Stop,Available,4898
+1541,Air India,01/10/2022,1h 45m,Hyderabad,Mumbai,13:15,15:00,Non Stop,Available,5423
+1542,IndiGo,01/10/2022,1h 15m,Hyderabad,Mumbai,21:55,23:10,Non Stop,Available,5475
+1543,Vistara,01/10/2022,1h 30m,Hyderabad,Mumbai,7:10,8:40,Non Stop,Available,5801
+1544,Vistara,01/10/2022,1h 30m,Hyderabad,Mumbai,8:30,10:00,Non Stop,Available,5801
+1545,IndiGo,01/10/2022,1h 10m,Hyderabad,Mumbai,19:35,20:45,Non Stop,Available,5737
+1546,IndiGo,01/10/2022,1h 35m,Hyderabad,Mumbai,8:10,9:45,Non Stop,Available,5737
+1547,Vistara,01/10/2022,1h 25m,Hyderabad,Mumbai,21:35,23:00,Non Stop,Available,6366
+1548,Vistara,01/10/2022,1h 35m,Hyderabad,Mumbai,12:55,14:30,Non Stop,Available,7418
+1549,IndiGo,01/10/2022,1h 10m,Hyderabad,Mumbai,11:00,12:10,Non Stop,Available,7963
+1550,Air India,01/10/2022,1h 25m,Hyderabad,Mumbai,22:25,23:50,Non Stop,Available,8888
+1551,IndiGo,01/10/2022,4h 50m,Hyderabad,Mumbai,14:35,19:25,1 Stop,Available,9105
+1552,IndiGo,01/10/2022,1h 25m,Hyderabad,Mumbai,17:50,19:15,Non Stop,Available,9318
+1553,IndiGo,01/10/2022,1h 10m,Hyderabad,Mumbai,11:00,12:10,Non Stop,Available,4687
+1554,Vistara,01/10/2022,1h 30m,Hyderabad,Mumbai,8:30,10:00,Non Stop,Available,4688
+1555,IndiGo,01/10/2022,1h 10m,Hyderabad,Mumbai,11:00,12:10,Non Stop,Available,4687
+1556,IndiGo,01/10/2022,1h 25m,Hyderabad,Mumbai,12:00,13:25,Non Stop,Available,4687
+1557,IndiGo,01/10/2022,1h 25m,Hyderabad,Mumbai,4:15,5:40,Non Stop,Available,4687
+1558,IndiGo,01/10/2022,1h 30m,Hyderabad,Mumbai,13:15,14:45,Non Stop,Available,4687
+1559,IndiGo,01/10/2022,1h 30m,Hyderabad,Mumbai,6:45,8:15,Non Stop,Available,4687
+1560,IndiGo,01/10/2022,1h 35m,Hyderabad,Mumbai,8:10,9:45,Non Stop,Available,4687
+1561,Air India,01/10/2022,1h 40m,Hyderabad,Mumbai,8:10,9:50,Non Stop,Available,4898
+1562,Air India,01/10/2022,1h 45m,Hyderabad,Mumbai,13:15,15:00,Non Stop,Available,4898
+1563,Vistara,01/10/2022,1h 35m,Hyderabad,Mumbai,12:55,14:30,Non Stop,Available,5801
+1564,Vistara,01/10/2022,1h 30m,Hyderabad,Mumbai,7:10,8:40,Non Stop,Available,6366
+1565,Air India,01/10/2022,1h 25m,Hyderabad,Mumbai,22:25,23:50,Non Stop,Available,7051
+1566,Vistara,01/10/2022,1h 25m,Hyderabad,Mumbai,21:35,23:00,Non Stop,Available,7418
+1567,IndiGo,01/10/2022,1h 15m,Hyderabad,Mumbai,21:55,23:10,Non Stop,Available,7512
+1568,SpiceJet,01/10/2022,9h 15m,Hyderabad,Mumbai,20:00,5:15,1 Stop,Available,7626
+1569,SpiceJet,29/09/2022,2h 15m,Mumbai,New Delhi,7:20,9:35,Non Stop,Available,5942
+1570,SpiceJet,29/09/2022,2h 25m,Mumbai,New Delhi,20:00,22:25,Non Stop,Available,5942
+1571,SpiceJet,29/09/2022,2h 15m,Mumbai,New Delhi,0:35,2:50,Non Stop,Available,5942
+1572,Air Asia,29/09/2022,9h 20m,Mumbai,New Delhi,15:25,0:45,1 Stop,Available,5941
+1573,Air Asia,29/09/2022,10h 10m,Mumbai,New Delhi,13:20,23:30,1 Stop,Available,7267
+1574,Air Asia,29/09/2022,8h 45m,Mumbai,New Delhi,13:20,22:05,1 Stop,Available,7516
+1575,Air Asia,29/09/2022,6h 50m,Mumbai,New Delhi,4:05,10:55,1 Stop,Available,7267
+1576,Air Asia,29/09/2022,12h 25m,Mumbai,New Delhi,4:05,16:30,1 Stop,Available,7267
+1577,Air Asia,29/09/2022,15h 5m,Mumbai,New Delhi,4:05,19:10,1 Stop,Available,7267
+1578,Vistara,29/09/2022,2h 5m,Mumbai,New Delhi,6:30,8:35,Non Stop,Available,8566
+1579,Vistara,29/09/2022,2h 10m,Mumbai,New Delhi,11:55,14:05,Non Stop,Available,8566
+1580,Vistara,29/09/2022,2h 15m,Mumbai,New Delhi,22:45,1:00,Non Stop,Available,8566
+1581,Go First,29/09/2022,2h 5m,Mumbai,New Delhi,7:40,9:45,Non Stop,Available,8569
+1582,Go First,29/09/2022,2h 10m,Mumbai,New Delhi,22:35,0:45,Non Stop,Available,8569
+1583,Go First,29/09/2022,2h 10m,Mumbai,New Delhi,23:00,1:10,Non Stop,Available,8569
+1584,SpiceJet,30/09/2022,2h 15m,Mumbai,New Delhi,7:20,9:35,Non Stop,Available,5942
+1585,SpiceJet,30/09/2022,2h 25m,Mumbai,New Delhi,20:00,22:25,Non Stop,Available,5942
+1586,Air Asia,30/09/2022,11h 45m,Mumbai,New Delhi,13:20,1:05,1 Stop,Available,6468
+1587,SpiceJet,30/09/2022,2h 15m,Mumbai,New Delhi,0:35,2:50,Non Stop,Available,5942
+1588,Vistara,30/09/2022,2h 5m,Mumbai,New Delhi,7:30,9:35,Non Stop,Available,8566
+1589,Go First,30/09/2022,2h 5m,Mumbai,New Delhi,7:40,9:45,Non Stop,Available,8569
+1590,Go First,30/09/2022,2h 10m,Mumbai,New Delhi,21:35,23:45,Non Stop,Available,8569
+1591,Go First,30/09/2022,2h 10m,Mumbai,New Delhi,20:40,22:50,Non Stop,Available,8569
+1592,Go First,30/09/2022,2h 10m,Mumbai,New Delhi,23:00,1:10,Non Stop,Available,8569
+1593,Go First,30/09/2022,2h 10m,Mumbai,New Delhi,23:50,2:00,Non Stop,Available,8569
+1594,Go First,30/09/2022,2h 10m,Mumbai,New Delhi,16:10,18:20,Non Stop,Available,8569
+1595,Go First,30/09/2022,2h 15m,Mumbai,New Delhi,20:05,22:20,Non Stop,Available,8569
+1596,Air Asia,30/09/2022,8h 45m,Mumbai,New Delhi,13:20,22:05,1 Stop,Available,7267
+1597,Air Asia,30/09/2022,12h 25m,Mumbai,New Delhi,4:05,16:30,1 Stop,Available,8325
+1598,IndiGo,30/09/2022,4h 55m,Mumbai,New Delhi,17:45,22:40,1 Stop,Available,7412
+1599,IndiGo,01/10/2022,1h 55m,Mumbai,New Delhi,2:40,4:35,Non Stop,Available,5943
+1600,SpiceJet,01/10/2022,2h 25m,Mumbai,New Delhi,20:00,22:25,Non Stop,Available,5942
+1601,Vistara,01/10/2022,9h 45m,Mumbai,New Delhi,22:35,8:20,1 Stop,Available,6080
+1602,Vistara,01/10/2022,11h 50m,Mumbai,New Delhi,22:35,10:25,1 Stop,Available,6080
+1603,Vistara,01/10/2022,12h 20m,Mumbai,New Delhi,20:00,8:20,1 Stop,Available,6080
+1604,Vistara,01/10/2022,14h 25m,Mumbai,New Delhi,20:00,10:25,1 Stop,Available,6080
+1605,Vistara,01/10/2022,2h 5m,Mumbai,New Delhi,6:30,8:35,Non Stop,Available,5943
+1606,Vistara,01/10/2022,2h 15m,Mumbai,New Delhi,21:55,0:10,Non Stop,Available,5943
+1607,Vistara,01/10/2022,2h 15m,Mumbai,New Delhi,22:45,1:00,Non Stop,Available,5943
+1608,SpiceJet,01/10/2022,2h 15m,Mumbai,New Delhi,7:20,9:35,Non Stop,Available,5942
+1609,Go First,01/10/2022,2h 5m,Mumbai,New Delhi,16:00,18:05,Non Stop,Available,5942
+1610,Go First,01/10/2022,2h 10m,Mumbai,New Delhi,5:20,7:30,Non Stop,Available,5942
+1611,Go First,01/10/2022,2h 10m,Mumbai,New Delhi,23:00,1:10,Non Stop,Available,5942
+1612,SpiceJet,01/10/2022,2h 15m,Mumbai,New Delhi,0:35,2:50,Non Stop,Available,5942
+1613,Go First,01/10/2022,2h 15m,Mumbai,New Delhi,21:15,23:30,Non Stop,Available,5942
+1614,Go First,01/10/2022,2h 15m,Mumbai,New Delhi,19:30,21:45,Non Stop,Available,5942
+1615,Vistara,02/10/2022,1h 55m,Mumbai,New Delhi,12:25,14:20,Non Stop,Available,5943
+1616,SpiceJet,02/10/2022,2h 15m,Mumbai,New Delhi,7:20,9:35,Non Stop,Available,5942
+1617,SpiceJet,02/10/2022,2h 25m,Mumbai,New Delhi,20:00,22:25,Non Stop,Available,5942
+1618,Vistara,02/10/2022,3h 50m,Mumbai,New Delhi,6:35,10:25,1 Stop,Available,6080
+1619,Vistara,02/10/2022,9h 45m,Mumbai,New Delhi,22:35,8:20,1 Stop,Available,6080
+1620,Vistara,02/10/2022,11h 50m,Mumbai,New Delhi,22:35,10:25,1 Stop,Available,6080
+1621,Vistara,02/10/2022,12h 20m,Mumbai,New Delhi,20:00,8:20,1 Stop,Available,6080
+1622,Vistara,02/10/2022,14h 25m,Mumbai,New Delhi,20:00,10:25,1 Stop,Available,6080
+1623,Vistara,02/10/2022,23h 25m,Mumbai,New Delhi,22:35,22:00,1 Stop,Available,6080
+1624,Vistara,02/10/2022,25h 45m,Mumbai,New Delhi,6:35,8:20,1 Stop,Available,6080
+1625,Vistara,02/10/2022,26h,Mumbai,New Delhi,20:00,22:00,1 Stop,Available,6080
+1626,Vistara,02/10/2022,1h 55m,Mumbai,New Delhi,12:25,14:20,Non Stop,Available,5943
+1627,Vistara,02/10/2022,2h 5m,Mumbai,New Delhi,6:30,8:35,Non Stop,Available,5943
+1628,Vistara,02/10/2022,2h 5m,Mumbai,New Delhi,7:30,9:35,Non Stop,Available,5943
+1629,Vistara,02/10/2022,2h 15m,Mumbai,New Delhi,21:55,0:10,Non Stop,Available,5943
+1630,Vistara,02/10/2022,2h 15m,Mumbai,New Delhi,22:45,1:00,Non Stop,Available,5943
