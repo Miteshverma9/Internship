@@ -16,4 +16,6 @@ FlipRobo Internship work
 1. Customer Rettention.
 2. Housing Project.
 3. Micro-credit Defaulter.
-4. Used car price prediction
+4. Used car price prediction.
+5. Flight price prediction.
+6. Malignant comment assignment.
