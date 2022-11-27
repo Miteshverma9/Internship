@@ -19,3 +19,4 @@ FlipRobo Internship work
 4. Used car price prediction.
 5. Flight price prediction.
 6. Malignant comment assignment.
+7. Email Spam Filter.
