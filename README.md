@@ -20,3 +20,4 @@ FlipRobo Internship work
 5. Flight price prediction.
 6. Malignant comment assignment.
 7. Email Spam Filter.
+8. Fake News Classification.
